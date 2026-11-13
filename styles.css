@@ -169,3 +169,14 @@ blockquote cite { font-size: .9rem; font-style: normal; }
   .public-storyboard,.production-progress,.process-overview { padding: 2rem 0; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+.film-grid { display: grid; grid-template-columns: minmax(0,1.5fr) minmax(0,1fr); gap: 1.5rem; align-items: start; margin: 1.7rem 0; }
+.film-card { min-width: 0; background: var(--white); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+.film-card header,.film-card>p { padding: 1rem 1.2rem; margin: 0; }
+.film-card h3 { margin: .5rem 0; font-size: 1.35rem; }
+.film-card header p { font-size: .9rem; margin: 0; }
+.film-card video { display: block; width: 100%; height: auto; background: var(--slate); }
+.film-landscape video { aspect-ratio: 16/9; }
+.film-vertical video { aspect-ratio: 9/16; max-height: 700px; object-fit: contain; }
+.film-card video:focus-visible { outline: 4px solid var(--gold); outline-offset: -4px; }
+@media (max-width: 650px) { .film-grid { grid-template-columns: minmax(0,1fr); } .film-vertical { max-width: 440px; width: 100%; justify-self: center; } }

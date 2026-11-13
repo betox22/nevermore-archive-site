@@ -1,16 +1,16 @@
 {
   "title": "The First Paycheck Was Beer",
   "episode": "001",
-  "snapshot_utc": "2026-11-13T03:59:58+00:00",
-  "status": "comedy_script_draft",
+  "snapshot_utc": "2026-11-13T05:50:30+00:00",
+  "status": "comedy_test_rendered_for_review",
   "target_seconds": 55,
-  "measured_new_segment_seconds": null,
+  "measured_new_segment_seconds": 55,
   "voice": "am_michael",
   "voice_approval": "definitive selection by owner",
   "style": "Caricatura 2D histórica exagerada e irónica",
-  "art_status": "pending",
-  "new_narration_status": "pending",
-  "video_status": "not_produced_or_approved",
+  "art_status": "15_new_native_2d_panels",
+  "new_narration_status": "15_exact_phrases_recorded",
+  "video_status": "produced_pending_owner_review",
   "sources": {
     "S01": {
       "institution": "British Museum via Google Arts & Culture",
@@ -47,7 +47,10 @@
       "overlay": "PAYDAY",
       "source_ids": [
         "S01"
-      ]
+      ],
+      "measured_start_sec": 0.0,
+      "measured_end_sec": 3.8333333333333335,
+      "measured_cut_sec": 3.8333333333333335
     },
     {
       "id": "c02",
@@ -64,7 +67,10 @@
       "overlay": "SMALL PRINT",
       "source_ids": [
         "S01"
-      ]
+      ],
+      "measured_start_sec": 3.8333333333333335,
+      "measured_end_sec": 6.875,
+      "measured_cut_sec": 3.0416666666666665
     },
     {
       "id": "c03",
@@ -81,7 +87,10 @@
       "overlay": "MESOPOTAMIA",
       "source_ids": [
         "S01"
-      ]
+      ],
+      "measured_start_sec": 6.875,
+      "measured_end_sec": 10.875,
+      "measured_cut_sec": 4.0
     },
     {
       "id": "c04",
@@ -98,7 +107,10 @@
       "overlay": "THE RECEIPT",
       "source_ids": [
         "S01"
-      ]
+      ],
+      "measured_start_sec": 10.875,
+      "measured_end_sec": 14.875,
+      "measured_cut_sec": 4.0
     },
     {
       "id": "c05",
@@ -115,7 +127,10 @@
       "overlay": "RATIONS",
       "source_ids": [
         "S01"
-      ]
+      ],
+      "measured_start_sec": 14.875,
+      "measured_end_sec": 18.708333333333332,
+      "measured_cut_sec": 3.8333333333333335
     },
     {
       "id": "c06",
@@ -132,7 +147,10 @@
       "overlay": "THE DATE",
       "source_ids": [
         "S01"
-      ]
+      ],
+      "measured_start_sec": 18.708333333333332,
+      "measured_end_sec": 22.708333333333332,
+      "measured_cut_sec": 4.0
     },
     {
       "id": "c07",
@@ -149,7 +167,10 @@
       "overlay": "KEEP THE RECEIPT",
       "source_ids": [
         "S01"
-      ]
+      ],
+      "measured_start_sec": 22.708333333333332,
+      "measured_end_sec": 25.708333333333332,
+      "measured_cut_sec": 3.0
     },
     {
       "id": "c08",
@@ -166,7 +187,10 @@
       "overlay": "A JAR SIGN",
       "source_ids": [
         "S01"
-      ]
+      ],
+      "measured_start_sec": 25.708333333333332,
+      "measured_end_sec": 29.708333333333332,
+      "measured_cut_sec": 4.0
     },
     {
       "id": "c09",
@@ -183,7 +207,10 @@
       "overlay": "CONTENTS INCLUDED",
       "source_ids": [
         "S01"
-      ]
+      ],
+      "measured_start_sec": 29.708333333333332,
+      "measured_end_sec": 33.625,
+      "measured_cut_sec": 3.9166666666666665
     },
     {
       "id": "c10",
@@ -200,7 +227,10 @@
       "overlay": "THREE SIGNS",
       "source_ids": [
         "S01"
-      ]
+      ],
+      "measured_start_sec": 33.625,
+      "measured_end_sec": 36.666666666666664,
+      "measured_cut_sec": 3.0416666666666665
     },
     {
       "id": "c11",
@@ -217,7 +247,10 @@
       "overlay": "BOWL AND HEAD",
       "source_ids": [
         "S01"
-      ]
+      ],
+      "measured_start_sec": 36.666666666666664,
+      "measured_end_sec": 40.375,
+      "measured_cut_sec": 3.7083333333333335
     },
     {
       "id": "c12",
@@ -234,7 +267,10 @@
       "overlay": "READ THE RECORD",
       "source_ids": [
         "S01"
-      ]
+      ],
+      "measured_start_sec": 40.375,
+      "measured_end_sec": 44.083333333333336,
+      "measured_cut_sec": 3.7083333333333335
     },
     {
       "id": "c13",
@@ -251,7 +287,10 @@
       "overlay": "NO FIRST PRIZE",
       "source_ids": [
         "S01"
-      ]
+      ],
+      "measured_start_sec": 44.083333333333336,
+      "measured_end_sec": 47.125,
+      "measured_cut_sec": 3.0416666666666665
     },
     {
       "id": "c14",
@@ -268,7 +307,10 @@
       "overlay": "NO MAGIC NUMBER",
       "source_ids": [
         "S01"
-      ]
+      ],
+      "measured_start_sec": 47.125,
+      "measured_end_sec": 51.0,
+      "measured_cut_sec": 3.875
     },
     {
       "id": "c15",
@@ -285,7 +327,47 @@
       "overlay": "BEER AND BUREAUCRACY",
       "source_ids": [
         "S01"
-      ]
+      ],
+      "measured_start_sec": 51.0,
+      "measured_end_sec": 55.0,
+      "measured_cut_sec": 4.0
+    }
+  ],
+  "production_trials": [
+    {
+      "status": "rendered_for_review",
+      "owner_approved": false,
+      "panels": 15,
+      "duration_seconds": 55,
+      "voice": "am_michael",
+      "videos": [
+        {
+          "name": "landscape",
+          "duration_sec": 55.0,
+          "width": 1920,
+          "height": 1080,
+          "fps": "24/1",
+          "sha256": "0834f3a1520da21f92250fcdec4840248786a2a23e37718405cd19e1054d1b4d",
+          "bytes": 22768247,
+          "full_decode": "PASS",
+          "url": "advances/comedy-001-v1/landscape.mp4",
+          "poster": "advances/comedy-001-v1/landscape-poster.jpg"
+        },
+        {
+          "name": "vertical",
+          "duration_sec": 55.0,
+          "width": 1080,
+          "height": 1920,
+          "fps": "24/1",
+          "sha256": "d8db85a00f99c0479b292b50f37d91c353b7e0b54ff057c276883449aa6307e8",
+          "bytes": 22696243,
+          "full_decode": "PASS",
+          "url": "advances/comedy-001-v1/vertical.mp4",
+          "poster": "advances/comedy-001-v1/vertical-poster.jpg"
+        }
+      ],
+      "contact_sheet": "advances/comedy-001-v1/contact-sheet.jpg",
+      "animation_limit": "Fifteen new expressive illustrated poses, timed editorial cuts, compositor camera/dust and program-drawn diagrams; no claim of continuous articulated character animation"
     }
   ]
 }
