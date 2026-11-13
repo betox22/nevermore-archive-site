@@ -1,7 +1,7 @@
 {
   "title": "The First Paycheck Was Beer",
   "episode": "001",
-  "snapshot_utc": "2026-11-13T05:57:49+00:00",
+  "snapshot_utc": "2026-11-13T14:46:20+00:00",
   "status": "comedy_test_rendered_for_review",
   "target_seconds": 55,
   "measured_new_segment_seconds": 55,
@@ -40,8 +40,8 @@
       "title": "PAYDAY",
       "narration": "Your payday arrives. It is a jar. Excellent liquidity.",
       "action": {
-        "start": "The crow braces to receive a neat modern envelope, an overt present-day metaphor.",
-        "resolution": "An oversized beer jar pops out instead; the crow nearly buckles, then steadies it on the counter."
+        "start": "The recurring human worker and scribe enact the cited comic setup.",
+        "resolution": "The one worker deflates while the one scribe points to the ordinary record; no unsupported first-prize claim."
       },
       "comic_expression": "Wide-eyed surprise becomes an absurdly professional nod.",
       "overlay": "PAYDAY",
@@ -60,8 +60,8 @@
       "title": "SMALL PRINT",
       "narration": "A paycheck? Easy. Proving history’s first? Less easy.",
       "action": {
-        "start": "The crow starts to celebrate the jar.",
-        "resolution": "A giant question mark drawn in post drops between crow and jar; celebration freezes."
+        "start": "The recurring human worker and scribe enact the cited comic setup.",
+        "resolution": "Medium reaction: the worker holds the giant jar and starts to celebrate, but the scribe raises a skeptical finger and produces a plainly BLANK small clay tablet. Worker freezes midway through a grin, one eyebrow absurdly raised. Setup versus doubt, not a coronation. Jar right, the two human faces central."
       },
       "comic_expression": "One eyebrow snaps upward; the wing slowly lowers.",
       "overlay": "SMALL PRINT",
@@ -80,8 +80,8 @@
       "title": "MESOPOTAMIA",
       "narration": "Mesopotamia. More than five thousand years ago. Bring a cup.",
       "action": {
-        "start": "A simple 2D backdrop unfolds behind the crow.",
-        "resolution": "The crow produces an absurdly tiny cup beside the giant jar and stares at the mismatch."
+        "start": "The recurring human worker and scribe enact the cited comic setup.",
+        "resolution": "WIDE establishing of the two familiar men in the mudbrick settlement: worker proudly brings an absurdly TINY plain clay cup toward the GIANT jar on the counter; scribe looks back and forth between cup and jar, completely deadpan. Emphasize the mismatch of scale, no implied historical volume. Funny tiny cup prominent foreground."
       },
       "comic_expression": "Deadpan scale comparison; no historical quantity is implied.",
       "overlay": "MESOPOTAMIA",
@@ -100,8 +100,8 @@
       "title": "THE RECEIPT",
       "narration": "This British Museum tablet records beer allocated to workers.",
       "action": {
-        "start": "The crow dramatically gestures toward an illustrative clay prop.",
-        "resolution": "The prop lands on the counter; the crow checks its balance instead of striking a solemn museum pose."
+        "start": "The recurring human worker and scribe enact the cited comic setup.",
+        "resolution": "Tight medium action on the scribe presenting a large plain reddish clay accounting tablet with both hands, while worker catches and steadies the wobbly slab on the counter. Exaggerated alarm face and sweat, torso leaning in, tablet at center-right. Tablet remains completely BLANK; it is a reconstruction prop, not a generated artifact transcription."
       },
       "comic_expression": "The grand reveal ends with a practical little adjustment.",
       "overlay": "THE RECEIPT",
@@ -120,8 +120,8 @@
       "title": "RATIONS",
       "narration": "Daily rations, specifically. Civilization brought its own paperwork.",
       "action": {
-        "start": "The jar and illustrative tablet sit separately on the counter.",
-        "resolution": "The crow slides the tablet beside the jar, then recoils from the resulting paperwork pile."
+        "start": "The recurring human worker and scribe enact the cited comic setup.",
+        "resolution": "The worker recoils as the scribe stacks another plain clay accounting tablet on an absurdly tall wobbling paperwork pile beside a beer jar. The worker's eyes bulge, one hand braces the pile, the other holds a tiny cup; scribe is cheerfully oblivious. Keep all clay slabs BLANK, no ancient script or modern papers."
       },
       "comic_expression": "Dry bureaucratic exasperation; the extra props are a comic metaphor.",
       "overlay": "RATIONS",
@@ -140,8 +140,8 @@
       "title": "THE DATE",
       "narration": "Between thirty-one hundred and three thousand BC, says the museum.",
       "action": {
-        "start": "A program-drawn date card enters beside the crow.",
-        "resolution": "The crow tries to straighten the card; it tilts the other way, then finally settles."
+        "start": "The recurring human worker and scribe enact the cited comic setup.",
+        "resolution": "Scribe tries to straighten an entirely BLANK rectangular teaching board on a plain wooden support at right; worker points irritably as the board tilts in the other direction. Their comic expressions show petty disagreement during a serious date explanation. Keep a clear cream empty rectangle in the board centered around x1400 y500 for program-drawn date; the board contains absolutely NO letters or numerals."
       },
       "comic_expression": "A serious fact delivered during a petty fight with the caption.",
       "overlay": "THE DATE",
@@ -160,8 +160,8 @@
       "title": "KEEP THE RECEIPT",
       "narration": "That is a very long time to keep receipts.",
       "action": {
-        "start": "The crow carefully files the illustrative tablet.",
-        "resolution": "The filing slot is far too small; the crow measures the tablet with a wing, unimpressed."
+        "start": "The recurring human worker and scribe enact the cited comic setup.",
+        "resolution": "Worker tries to file an oversized clay tablet into a comically TINY reed basket, knees bent and elbows straining; scribe measures the mismatch with his fingers and gives a very unimpressed side-eye. Tablet and basket make contact and jam visibly. All blank clay, no filing cabinet or modern furniture."
       },
       "comic_expression": "One unhurried blink after a quick failed attempt.",
       "overlay": "KEEP THE RECEIPT",
@@ -180,8 +180,8 @@
       "title": "A JAR SIGN",
       "narration": "The beer sign represents a jar. Branding: aggressively literal.",
       "action": {
-        "start": "The crow points at a blank diagram area, not at invented glyphs on the prop.",
-        "resolution": "A program-drawn jar diagram is revealed and explicitly captioned as a schematic."
+        "start": "The recurring human worker and scribe enact the cited comic setup.",
+        "resolution": "Scribe presents an entirely BLANK cream teaching board at the RIGHT, indicating it with an overconfident lecturer finger. Worker at left compares an ordinary terracotta jar with the blank board, eyes narrowed in sarcastic recognition. Board blank interior occupies right half (approximately x1125..1775 y335..725 after export), ready for software schematic; NO DRAWN glyph inside."
       },
       "comic_expression": "The crow looks from jar to diagram and gives a tiny exhausted nod.",
       "overlay": "A JAR SIGN",
@@ -200,8 +200,8 @@
       "title": "CONTENTS INCLUDED",
       "narration": "Its wavy lines show beer inside. Helpful accounting.",
       "action": {
-        "start": "The diagram remains fixed while its interior is empty.",
-        "resolution": "The program reveals schematic waves; the crow leans in, then theatrically grasps the obvious."
+        "start": "The recurring human worker and scribe enact the cited comic setup.",
+        "resolution": "Worker peers dramatically inside a plain open terracotta jar, eyebrows raised in discovery; scribe points dryly from the jar to a wholly BLANK cream teaching board on the RIGHT. Different pose/composition from the prior lecture. Board interior right half clear (x1125..1775 y335..725), no letters, waves, signs or diagrams yet; software adds those."
       },
       "comic_expression": "An exaggerated recognition reaction; no claim of an exact transcription.",
       "overlay": "CONTENTS INCLUDED",
@@ -220,8 +220,8 @@
       "title": "THREE SIGNS",
       "narration": "The sign appears three times. Count symbols, not drinks.",
       "action": {
-        "start": "Three schematic icons appear individually, drawn by the program.",
-        "resolution": "The crow counts them with wing beats and stops a comic fourth icon before it lands."
+        "start": "The recurring human worker and scribe enact the cited comic setup.",
+        "resolution": "Worker at LEFT emphatically raises exactly THREE fingers with a smug counting face; scribe gives him an exhausted sideways stare. Three small entirely blank clay tokens/cards sit on the counter, separate from a single jar. Entire right upper/central region stays pale and clear for a program-drawn diagram. No counted drink glasses, no numbers or generated symbols."
       },
       "comic_expression": "A rapid correction, not a drinking action or a consumption claim.",
       "overlay": "THREE SIGNS",
@@ -240,8 +240,8 @@
       "title": "BOWL AND HEAD",
       "narration": "Another sign connects a bowl and a human head.",
       "action": {
-        "start": "An isolated explanatory diagram panel replaces the jar schematic.",
-        "resolution": "A program-drawn bowl and head diagram move together; the crow tracks the join with an exaggerated head turn."
+        "start": "The recurring human worker and scribe enact the cited comic setup.",
+        "resolution": "Worker at LEFT holds a plain clay BOWL toward his mouth while scribe gently redirects his head toward a completely BLANK cream board at RIGHT, teaching a visual connection between eating and records. Worker makes an exaggerated bewildered face, scribe patient deadpan. Board blank center x1125..1775 y335..725; no ancient glyph or drawn diagram inside."
       },
       "comic_expression": "A visual explanation with a reaction; the head is a diagram, not a new speaking character.",
       "overlay": "BOWL AND HEAD",
@@ -260,8 +260,8 @@
       "title": "READ THE RECORD",
       "narration": "It means eating. We are reading a ration record.",
       "action": {
-        "start": "The explanatory symbols are separated on a blank area.",
-        "resolution": "They align beside a program-drawn RATIONS label; the crow accepts the conclusion with an overformal bow."
+        "start": "The recurring human worker and scribe enact the cited comic setup.",
+        "resolution": "Worker reaches eagerly toward a simple bowl of food, but the scribe slides a large plain clay accounting record into the foreground between the bowl and the viewer. Worker pauses with a magnificent disappointed expression, scribe gives a dry knowing smile. The joke is the distinction between the meal and its record, not eating clay. Blank clay tablet, fully clothed characters."
       },
       "comic_expression": "An overly grand bow for a mundane administrative discovery.",
       "overlay": "READ THE RECORD",
@@ -280,8 +280,8 @@
       "title": "NO FIRST PRIZE",
       "narration": "A record, not proof of humanity’s very first wage.",
       "action": {
-        "start": "The crow is offered a comic FIRST trophy graphic.",
-        "resolution": "The crow pushes it back and points to the actual source reference instead."
+        "start": "The recurring human worker and scribe enact the cited comic setup.",
+        "resolution": "The one worker deflates while the one scribe points to the ordinary record; no unsupported first-prize claim."
       },
       "comic_expression": "Celebration denied by the evidence, with a perfectly straight face.",
       "overlay": "NO FIRST PRIZE",
@@ -300,8 +300,8 @@
       "title": "NO MAGIC NUMBER",
       "narration": "No universal litres per worker can be read from that.",
       "action": {
-        "start": "An unsupported numerical badge tries to enter the frame.",
-        "resolution": "The crow blocks the blank badge with a wing before any number appears; only the source citation remains."
+        "start": "The recurring human worker and scribe enact the cited comic setup.",
+        "resolution": "Worker confronts several comically different-sized plain clay cups and reaches for an absurdly large one; the scribe blocks his arm with an unmistakable STOP gesture and an exasperated face. A single jar and completely blank clay record nearby. This is a joke against inferring a universal measured ration: no ruler, no modern numeric measurement, no litre labels, no quantities or text."
       },
       "comic_expression": "A firm librarian stare; no invented ration appears even as a gag.",
       "overlay": "NO MAGIC NUMBER",
@@ -320,8 +320,8 @@
       "title": "BEER AND BUREAUCRACY",
       "narration": "Beer. Workers. Paperwork. The real story is already absurd enough.",
       "action": {
-        "start": "The crow arranges the jar and illustrative record into a tidy final composition.",
-        "resolution": "The jar is placed safely, the tablet stack wobbles, and the crow catches it while keeping the golden signature tablet in the beak."
+        "start": "The recurring human worker and scribe enact the cited comic setup.",
+        "resolution": "Final comic payoff: worker struggles to balance a huge beer jar while several blank clay accounting tablets tip toward him; scribe catches the top tablet with one hand, still wearing an absurdly professional deadpan smile. Both humans clearly acting, funny diagonal pile, strong poses, contact, motion lines, no crow. Keep the lower-left small corner relatively clear for a separate narrator inset NOT drawn into this art."
       },
       "comic_expression": "A quick physical payoff followed by a deadpan stare into camera.",
       "overlay": "BEER AND BUREAUCRACY",
@@ -336,6 +336,7 @@
   "production_trials": [
     {
       "status": "rendered_for_review",
+      "revision": "human-direction-v2",
       "owner_approved": false,
       "panels": 15,
       "duration_seconds": 55,
@@ -347,11 +348,11 @@
           "width": 1920,
           "height": 1080,
           "fps": "24/1",
-          "sha256": "0834f3a1520da21f92250fcdec4840248786a2a23e37718405cd19e1054d1b4d",
-          "bytes": 22768247,
+          "sha256": "2538f300e419e836f06df47945a6cfbe99557b1e5e30064240bb2663a11e0488",
+          "bytes": 22361198,
           "full_decode": "PASS",
-          "url": "advances/comedy-001-v1/landscape.mp4",
-          "poster": "advances/comedy-001-v1/landscape-poster.jpg"
+          "url": "advances/comedy-001-v2/landscape.mp4",
+          "poster": "advances/comedy-001-v2/landscape-poster.jpg"
         },
         {
           "name": "vertical",
@@ -359,15 +360,29 @@
           "width": 1080,
           "height": 1920,
           "fps": "24/1",
-          "sha256": "d8db85a00f99c0479b292b50f37d91c353b7e0b54ff057c276883449aa6307e8",
-          "bytes": 22696243,
+          "sha256": "c033c6daa6be8e98a53e53eca872bdfc2e0ded181c11b4356b6f1cfe3de2734d",
+          "bytes": 22683956,
           "full_decode": "PASS",
-          "url": "advances/comedy-001-v1/vertical.mp4",
-          "poster": "advances/comedy-001-v1/vertical-poster.jpg"
+          "url": "advances/comedy-001-v2/vertical.mp4",
+          "poster": "advances/comedy-001-v2/vertical-poster.jpg"
         }
       ],
-      "contact_sheet": "advances/comedy-001-v1/contact-sheet.jpg",
-      "animation_limit": "Fifteen new expressive illustrated poses, timed editorial cuts, compositor camera/dust and program-drawn diagrams; no claim of continuous articulated character animation"
+      "contact_sheet": "advances/comedy-001-v2/contact-sheet.jpg",
+      "animation_limit": "Human-only native illustrations with continuous comic punch-ins and bounded shake; fourteen 0.15-second FFmpeg xfades; small separate plaque-free presenter in c01/c15 only. Camera animation, not articulated limb animation.",
+      "human_only_fraction": 0.8575757575757575,
+      "presenter_intervals": [
+        [
+          0.0,
+          3.8333333333333335
+        ],
+        [
+          51.0,
+          55.0
+        ]
+      ],
+      "crow_prop": "none",
+      "transitions": 14,
+      "xfade_configured_sec": 0.15
     }
   ]
 }
