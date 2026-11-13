@@ -1,7 +1,7 @@
 {
   "title": "The First Paycheck Was Beer",
   "episode": "001",
-  "snapshot_utc": "2026-11-13T14:46:20+00:00",
+  "snapshot_utc": "2026-11-13T15:50:14+00:00",
   "status": "comedy_test_rendered_for_review",
   "target_seconds": 55,
   "measured_new_segment_seconds": 55,
@@ -17,7 +17,7 @@
       "artifact": "1989,0130.4, Late Uruk, The first writing: counting beer for the workers",
       "url": "https://artsandculture.google.com/asset/the-first-writing-counting-beer-for-the-workers/fgF9ioy89DC2Uw",
       "catalogue_url": "https://www.britishmuseum.org/collection/object/W_1989-0130-4",
-      "verified_on": "2026-11-12",
+      "verified_on": "2026-11-13",
       "locator": "Object description paragraphs 1–4 and Details: date, registration number, period/culture"
     }
   },
@@ -37,294 +37,294 @@
       "start_sec": 0,
       "end_sec": 4,
       "seconds": 4,
-      "title": "PAYDAY",
-      "narration": "Your payday arrives. It is a jar. Excellent liquidity.",
+      "title": "LIQUID SALARY",
+      "narration": "Imagine payday. Your boss hands you warm beer.",
       "action": {
-        "start": "The recurring human worker and scribe enact the cited comic setup.",
-        "resolution": "The one worker deflates while the one scribe points to the ordinary record; no unsupported first-prize claim."
+        "start": "The lanky scribe plonks a huge plain clay beer jar into the stocky worker's hands. The worker's eyes bulge as his knees buckle; the scribe smiles with infuriating pride.",
+        "resolution": "The expression lands the comic reversal described in the action."
       },
-      "comic_expression": "Wide-eyed surprise becomes an absurdly professional nod.",
-      "overlay": "PAYDAY",
+      "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
+      "overlay": "LIQUID SALARY",
       "source_ids": [
         "S01"
       ],
       "measured_start_sec": 0.0,
-      "measured_end_sec": 3.8333333333333335,
-      "measured_cut_sec": 3.8333333333333335
+      "measured_end_sec": 3.7916666666666665,
+      "measured_cut_sec": 3.7916666666666665
     },
     {
       "id": "c02",
       "start_sec": 4,
       "end_sec": 7,
       "seconds": 3,
-      "title": "SMALL PRINT",
-      "narration": "A paycheck? Easy. Proving history’s first? Less easy.",
+      "title": "NO REFUNDS",
+      "narration": "Congratulations. Your salary needs drinking.",
       "action": {
-        "start": "The recurring human worker and scribe enact the cited comic setup.",
-        "resolution": "Medium reaction: the worker holds the giant jar and starts to celebrate, but the scribe raises a skeptical finger and produces a plainly BLANK small clay tablet. Worker freezes midway through a grin, one eyebrow absurdly raised. Setup versus doubt, not a coronation. Jar right, the two human faces central."
+        "start": "Close two-person reaction: worker peers into a plain clay cup with a spectacularly disappointed face while scribe waves away his attempted return of the jar with a flat palm.",
+        "resolution": "The expression lands the comic reversal described in the action."
       },
-      "comic_expression": "One eyebrow snaps upward; the wing slowly lowers.",
-      "overlay": "SMALL PRINT",
+      "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
+      "overlay": "NO REFUNDS",
       "source_ids": [
         "S01"
       ],
-      "measured_start_sec": 3.8333333333333335,
-      "measured_end_sec": 6.875,
-      "measured_cut_sec": 3.0416666666666665
+      "measured_start_sec": 3.7916666666666665,
+      "measured_end_sec": 6.791666666666667,
+      "measured_cut_sec": 3.0
     },
     {
       "id": "c03",
       "start_sec": 7,
       "end_sec": 11,
       "seconds": 4,
-      "title": "MESOPOTAMIA",
-      "narration": "Mesopotamia. More than five thousand years ago. Bring a cup.",
+      "title": "SAVINGS: GONE",
+      "narration": "Drink your raise. Watch your savings disappear.",
       "action": {
-        "start": "The recurring human worker and scribe enact the cited comic setup.",
-        "resolution": "WIDE establishing of the two familiar men in the mudbrick settlement: worker proudly brings an absurdly TINY plain clay cup toward the GIANT jar on the counter; scribe looks back and forth between cup and jar, completely deadpan. Emphasize the mismatch of scale, no implied historical volume. Funny tiny cup prominent foreground."
+        "start": "Worker turns his empty plain clay cup upside down and stares aghast at the last tiny drop. The scribe watches with a merciless deadpan shrug; no other props.",
+        "resolution": "The expression lands the comic reversal described in the action."
       },
-      "comic_expression": "Deadpan scale comparison; no historical quantity is implied.",
-      "overlay": "MESOPOTAMIA",
+      "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
+      "overlay": "SAVINGS: GONE",
       "source_ids": [
         "S01"
       ],
-      "measured_start_sec": 6.875,
-      "measured_end_sec": 10.875,
-      "measured_cut_sec": 4.0
+      "measured_start_sec": 6.791666666666667,
+      "measured_end_sec": 10.458333333333334,
+      "measured_cut_sec": 3.6666666666666665
     },
     {
       "id": "c04",
       "start_sec": 11,
       "end_sec": 15,
       "seconds": 4,
-      "title": "THE RECEIPT",
-      "narration": "This British Museum tablet records beer allocated to workers.",
+      "title": "PAYDAY: 3100 BCE",
+      "narration": "The beer ration is real. Meet Mesopotamian payroll.",
       "action": {
-        "start": "The recurring human worker and scribe enact the cited comic setup.",
-        "resolution": "Tight medium action on the scribe presenting a large plain reddish clay accounting tablet with both hands, while worker catches and steadies the wobbly slab on the counter. Exaggerated alarm face and sweat, torso leaning in, tablet at center-right. Tablet remains completely BLANK; it is a reconstruction prop, not a generated artifact transcription."
+        "start": "Worker offers the jar back; scribe firmly substitutes a small totally blank clay record and points toward the jar. Worker recoils at the paperwork with an outsized startled expression.",
+        "resolution": "The expression lands the comic reversal described in the action."
       },
-      "comic_expression": "The grand reveal ends with a practical little adjustment.",
-      "overlay": "THE RECEIPT",
+      "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
+      "overlay": "PAYDAY: 3100 BCE",
       "source_ids": [
         "S01"
       ],
-      "measured_start_sec": 10.875,
-      "measured_end_sec": 14.875,
+      "measured_start_sec": 10.458333333333334,
+      "measured_end_sec": 14.458333333333334,
       "measured_cut_sec": 4.0
     },
     {
       "id": "c05",
       "start_sec": 15,
-      "end_sec": 18,
-      "seconds": 3,
-      "title": "RATIONS",
-      "narration": "Daily rations, specifically. Civilization brought its own paperwork.",
+      "end_sec": 19,
+      "seconds": 4,
+      "title": "CLAY RECEIPTS",
+      "narration": "The British Museum has the clay receipt. Seriously.",
       "action": {
-        "start": "The recurring human worker and scribe enact the cited comic setup.",
-        "resolution": "The worker recoils as the scribe stacks another plain clay accounting tablet on an absurdly tall wobbling paperwork pile beside a beer jar. The worker's eyes bulge, one hand braces the pile, the other holds a tiny cup; scribe is cheerfully oblivious. Keep all clay slabs BLANK, no ancient script or modern papers."
+        "start": "Scribe proudly cradles an ordinary small blank clay tablet while worker leans very close, both huge faces filling the shot, worker disbelieving and scribe gleefully smug.",
+        "resolution": "The expression lands the comic reversal described in the action."
       },
-      "comic_expression": "Dry bureaucratic exasperation; the extra props are a comic metaphor.",
-      "overlay": "RATIONS",
+      "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
+      "overlay": "CLAY RECEIPTS",
       "source_ids": [
         "S01"
       ],
-      "measured_start_sec": 14.875,
-      "measured_end_sec": 18.708333333333332,
-      "measured_cut_sec": 3.8333333333333335
+      "measured_start_sec": 14.458333333333334,
+      "measured_end_sec": 18.375,
+      "measured_cut_sec": 3.9166666666666665
     },
     {
       "id": "c06",
-      "start_sec": 18,
-      "end_sec": 22,
+      "start_sec": 19,
+      "end_sec": 23,
       "seconds": 4,
-      "title": "THE DATE",
-      "narration": "Between thirty-one hundred and three thousand BC, says the museum.",
+      "title": "STILL ON FILE",
+      "narration": "Over five thousand years old. Accounting never forgets.",
       "action": {
-        "start": "The recurring human worker and scribe enact the cited comic setup.",
-        "resolution": "Scribe tries to straighten an entirely BLANK rectangular teaching board on a plain wooden support at right; worker points irritably as the board tilts in the other direction. Their comic expressions show petty disagreement during a serious date explanation. Keep a clear cream empty rectangle in the board centered around x1400 y500 for program-drawn date; the board contains absolutely NO letters or numerals."
+        "start": "Worker staggers under a high stack of totally blank clay records while the unburdened scribe carefully balances one additional tiny blank tablet on top, exaggerated nervous sweat.",
+        "resolution": "The expression lands the comic reversal described in the action."
       },
-      "comic_expression": "A serious fact delivered during a petty fight with the caption.",
-      "overlay": "THE DATE",
+      "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
+      "overlay": "STILL ON FILE",
       "source_ids": [
         "S01"
       ],
-      "measured_start_sec": 18.708333333333332,
-      "measured_end_sec": 22.708333333333332,
+      "measured_start_sec": 18.375,
+      "measured_end_sec": 22.375,
       "measured_cut_sec": 4.0
     },
     {
       "id": "c07",
-      "start_sec": 22,
-      "end_sec": 25,
+      "start_sec": 23,
+      "end_sec": 26,
       "seconds": 3,
-      "title": "KEEP THE RECEIPT",
-      "narration": "That is a very long time to keep receipts.",
+      "title": "DAVE'S BAR TAB",
+      "narration": "Dave wanted a bonus. Dave brought a bigger cup.",
       "action": {
-        "start": "The recurring human worker and scribe enact the cited comic setup.",
-        "resolution": "Worker tries to file an oversized clay tablet into a comically TINY reed basket, knees bent and elbows straining; scribe measures the mismatch with his fingers and gives a very unimpressed side-eye. Tablet and basket make contact and jam visibly. All blank clay, no filing cabinet or modern furniture."
+        "start": "Worker beams greedily while presenting a comically enormous plain clay cup; the lanky scribe regards it with one extremely raised eyebrow and folded arms.",
+        "resolution": "The expression lands the comic reversal described in the action."
       },
-      "comic_expression": "One unhurried blink after a quick failed attempt.",
-      "overlay": "KEEP THE RECEIPT",
+      "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
+      "overlay": "DAVE'S BAR TAB",
       "source_ids": [
         "S01"
       ],
-      "measured_start_sec": 22.708333333333332,
-      "measured_end_sec": 25.708333333333332,
+      "measured_start_sec": 22.375,
+      "measured_end_sec": 25.375,
       "measured_cut_sec": 3.0
     },
     {
       "id": "c08",
-      "start_sec": 25,
-      "end_sec": 29,
+      "start_sec": 26,
+      "end_sec": 30,
       "seconds": 4,
-      "title": "A JAR SIGN",
-      "narration": "The beer sign represents a jar. Branding: aggressively literal.",
+      "title": "NICE TRY, DAVE",
+      "narration": "Nice try, Dave. The record says daily rations.",
       "action": {
-        "start": "The recurring human worker and scribe enact the cited comic setup.",
-        "resolution": "Scribe presents an entirely BLANK cream teaching board at the RIGHT, indicating it with an overconfident lecturer finger. Worker at left compares an ordinary terracotta jar with the blank board, eyes narrowed in sarcastic recognition. Board blank interior occupies right half (approximately x1125..1775 y335..725 after export), ready for software schematic; NO DRAWN glyph inside."
+        "start": "Scribe uses one flat hand to stop the enormous cup approaching the jar, worker pouts with cheeks puffed and huge eyes, both bodies in clear contact with their own props.",
+        "resolution": "The expression lands the comic reversal described in the action."
       },
-      "comic_expression": "The crow looks from jar to diagram and gives a tiny exhausted nod.",
-      "overlay": "A JAR SIGN",
+      "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
+      "overlay": "NICE TRY, DAVE",
       "source_ids": [
         "S01"
       ],
-      "measured_start_sec": 25.708333333333332,
-      "measured_end_sec": 29.708333333333332,
-      "measured_cut_sec": 4.0
+      "measured_start_sec": 25.375,
+      "measured_end_sec": 29.125,
+      "measured_cut_sec": 3.75
     },
     {
       "id": "c09",
-      "start_sec": 29,
-      "end_sec": 33,
+      "start_sec": 30,
+      "end_sec": 34,
       "seconds": 4,
-      "title": "CONTENTS INCLUDED",
-      "narration": "Its wavy lines show beer inside. Helpful accounting.",
+      "title": "THE ORIGINAL LOGO",
+      "narration": "Their beer sign? A jar. Marketing peaked early.",
       "action": {
-        "start": "The recurring human worker and scribe enact the cited comic setup.",
-        "resolution": "Worker peers dramatically inside a plain open terracotta jar, eyebrows raised in discovery; scribe points dryly from the jar to a wholly BLANK cream teaching board on the RIGHT. Different pose/composition from the prior lecture. Board interior right half clear (x1125..1775 y335..725), no letters, waves, signs or diagrams yet; software adds those."
+        "start": "Scribe points with exaggerated showman flourish to one oversized plain clay jar while the worker mimics the jar's round belly with his arms and gives a skeptical side-eye. No tablet, sign or drawing surface.",
+        "resolution": "The expression lands the comic reversal described in the action."
       },
-      "comic_expression": "An exaggerated recognition reaction; no claim of an exact transcription.",
-      "overlay": "CONTENTS INCLUDED",
+      "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
+      "overlay": "THE ORIGINAL LOGO",
       "source_ids": [
         "S01"
       ],
-      "measured_start_sec": 29.708333333333332,
-      "measured_end_sec": 33.625,
+      "measured_start_sec": 29.125,
+      "measured_end_sec": 33.041666666666664,
       "measured_cut_sec": 3.9166666666666665
     },
     {
       "id": "c10",
-      "start_sec": 33,
-      "end_sec": 36,
+      "start_sec": 34,
+      "end_sec": 37,
       "seconds": 3,
-      "title": "THREE SIGNS",
-      "narration": "The sign appears three times. Count symbols, not drinks.",
+      "title": "CONTENTS INCLUDED",
+      "narration": "Wavy lines inside. Even the symbol came filled.",
       "action": {
-        "start": "The recurring human worker and scribe enact the cited comic setup.",
-        "resolution": "Worker at LEFT emphatically raises exactly THREE fingers with a smug counting face; scribe gives him an exhausted sideways stare. Three small entirely blank clay tokens/cards sit on the counter, separate from a single jar. Entire right upper/central region stays pale and clear for a program-drawn diagram. No counted drink glasses, no numbers or generated symbols."
+        "start": "Worker tilts a real plain open clay cup toward the scribe, a few simple liquid ripples visible inside; scribe squints suspiciously at it. Two large expressive faces, no glyphs or diagram.",
+        "resolution": "The expression lands the comic reversal described in the action."
       },
-      "comic_expression": "A rapid correction, not a drinking action or a consumption claim.",
-      "overlay": "THREE SIGNS",
+      "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
+      "overlay": "CONTENTS INCLUDED",
       "source_ids": [
         "S01"
       ],
-      "measured_start_sec": 33.625,
-      "measured_end_sec": 36.666666666666664,
-      "measured_cut_sec": 3.0416666666666665
+      "measured_start_sec": 33.041666666666664,
+      "measured_end_sec": 36.458333333333336,
+      "measured_cut_sec": 3.4166666666666665
     },
     {
       "id": "c11",
-      "start_sec": 36,
-      "end_sec": 40,
+      "start_sec": 37,
+      "end_sec": 41,
       "seconds": 4,
-      "title": "BOWL AND HEAD",
-      "narration": "Another sign connects a bowl and a human head.",
+      "title": "DON'T START A TAB",
+      "narration": "Three beer signs. Not three rounds on the house.",
       "action": {
-        "start": "The recurring human worker and scribe enact the cited comic setup.",
-        "resolution": "Worker at LEFT holds a plain clay BOWL toward his mouth while scribe gently redirects his head toward a completely BLANK cream board at RIGHT, teaching a visual connection between eating and records. Worker makes an exaggerated bewildered face, scribe patient deadpan. Board blank center x1125..1775 y335..725; no ancient glyph or drawn diagram inside."
+        "start": "Worker eagerly thrusts three fingers up beside his hopeful face while reaching for one plain cup; scribe sharply folds his arms and gives an appalled skeptical stare. Exactly one cup, no writing or glyphs.",
+        "resolution": "The expression lands the comic reversal described in the action."
       },
-      "comic_expression": "A visual explanation with a reaction; the head is a diagram, not a new speaking character.",
-      "overlay": "BOWL AND HEAD",
+      "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
+      "overlay": "DON'T START A TAB",
       "source_ids": [
         "S01"
       ],
-      "measured_start_sec": 36.666666666666664,
-      "measured_end_sec": 40.375,
+      "measured_start_sec": 36.458333333333336,
+      "measured_end_sec": 40.166666666666664,
       "measured_cut_sec": 3.7083333333333335
     },
     {
       "id": "c12",
-      "start_sec": 40,
-      "end_sec": 44,
+      "start_sec": 41,
+      "end_sec": 45,
       "seconds": 4,
-      "title": "READ THE RECORD",
-      "narration": "It means eating. We are reading a ration record.",
+      "title": "HUMAN RESOURCES",
+      "narration": "A bowl by a head means eating. Human resources.",
       "action": {
-        "start": "The recurring human worker and scribe enact the cited comic setup.",
-        "resolution": "Worker reaches eagerly toward a simple bowl of food, but the scribe slides a large plain clay accounting record into the foreground between the bowl and the viewer. Worker pauses with a magnificent disappointed expression, scribe gives a dry knowing smile. The joke is the distinction between the meal and its record, not eating clay. Blank clay tablet, fully clothed characters."
+        "start": "Worker holds a plain shallow bowl close to his mouth with an impossibly hungry face; scribe points toward the bowl with bored professional certainty. Tight expressive two-shot, no diagram or marks.",
+        "resolution": "The expression lands the comic reversal described in the action."
       },
-      "comic_expression": "An overly grand bow for a mundane administrative discovery.",
-      "overlay": "READ THE RECORD",
+      "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
+      "overlay": "HUMAN RESOURCES",
       "source_ids": [
         "S01"
       ],
-      "measured_start_sec": 40.375,
-      "measured_end_sec": 44.083333333333336,
-      "measured_cut_sec": 3.7083333333333335
+      "measured_start_sec": 40.166666666666664,
+      "measured_end_sec": 44.125,
+      "measured_cut_sec": 3.9583333333333335
     },
     {
       "id": "c13",
-      "start_sec": 44,
-      "end_sec": 47,
+      "start_sec": 45,
+      "end_sec": 48,
       "seconds": 3,
-      "title": "NO FIRST PRIZE",
-      "narration": "A record, not proof of humanity’s very first wage.",
+      "title": "HOLD THE TROPHY",
+      "narration": "The first paycheck ever? Easy, Dave. We have rations.",
       "action": {
-        "start": "The recurring human worker and scribe enact the cited comic setup.",
-        "resolution": "The one worker deflates while the one scribe points to the ordinary record; no unsupported first-prize claim."
+        "start": "Worker starts a proud victory pose raising a plain cup, but the unimpressed scribe gently pushes his elbow down with one hand, worker's ecstatic grin collapses into disappointment. Exactly two humans.",
+        "resolution": "The expression lands the comic reversal described in the action."
       },
-      "comic_expression": "Celebration denied by the evidence, with a perfectly straight face.",
-      "overlay": "NO FIRST PRIZE",
+      "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
+      "overlay": "HOLD THE TROPHY",
       "source_ids": [
         "S01"
       ],
-      "measured_start_sec": 44.083333333333336,
-      "measured_end_sec": 47.125,
-      "measured_cut_sec": 3.0416666666666665
+      "measured_start_sec": 44.125,
+      "measured_end_sec": 47.25,
+      "measured_cut_sec": 3.125
     },
     {
       "id": "c14",
-      "start_sec": 47,
+      "start_sec": 48,
       "end_sec": 51,
-      "seconds": 4,
+      "seconds": 3,
       "title": "NO MAGIC NUMBER",
-      "narration": "No universal litres per worker can be read from that.",
+      "narration": "No magic litres. No invented bonus. Just the record.",
       "action": {
-        "start": "The recurring human worker and scribe enact the cited comic setup.",
-        "resolution": "Worker confronts several comically different-sized plain clay cups and reaches for an absurdly large one; the scribe blocks his arm with an unmistakable STOP gesture and an exasperated face. A single jar and completely blank clay record nearby. This is a joke against inferring a universal measured ration: no ruler, no modern numeric measurement, no litre labels, no quantities or text."
+        "start": "Scribe protects one plain jar behind his back while blocking worker's eager measuring gesture with a firm raised palm; worker slumps in comic defeat. No ruler, numbers, scale or text.",
+        "resolution": "The expression lands the comic reversal described in the action."
       },
-      "comic_expression": "A firm librarian stare; no invented ration appears even as a gag.",
+      "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
       "overlay": "NO MAGIC NUMBER",
       "source_ids": [
         "S01"
       ],
-      "measured_start_sec": 47.125,
+      "measured_start_sec": 47.25,
       "measured_end_sec": 51.0,
-      "measured_cut_sec": 3.875
+      "measured_cut_sec": 3.75
     },
     {
       "id": "c15",
       "start_sec": 51,
       "end_sec": 55,
       "seconds": 4,
-      "title": "BEER AND BUREAUCRACY",
-      "narration": "Beer. Workers. Paperwork. The real story is already absurd enough.",
+      "title": "BEER & BUREAUCRACY",
+      "narration": "Beer and paperwork. Somehow, the paperwork survived longer.",
       "action": {
-        "start": "The recurring human worker and scribe enact the cited comic setup.",
-        "resolution": "Final comic payoff: worker struggles to balance a huge beer jar while several blank clay accounting tablets tip toward him; scribe catches the top tablet with one hand, still wearing an absurdly professional deadpan smile. Both humans clearly acting, funny diagonal pile, strong poses, contact, motion lines, no crow. Keep the lower-left small corner relatively clear for a separate narrator inset NOT drawn into this art."
+        "start": "Worker displays one empty cup with a stunned stare while the smiling scribe hugs a bulky stack of completely blank clay records, victorious final deadpan payoff. Both heads large, foreground figures only.",
+        "resolution": "The expression lands the comic reversal described in the action."
       },
-      "comic_expression": "A quick physical payoff followed by a deadpan stare into camera.",
-      "overlay": "BEER AND BUREAUCRACY",
+      "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
+      "overlay": "BEER & BUREAUCRACY",
       "source_ids": [
         "S01"
       ],
@@ -336,7 +336,7 @@
   "production_trials": [
     {
       "status": "rendered_for_review",
-      "revision": "human-direction-v2",
+      "revision": "clean-comedy-v3",
       "owner_approved": false,
       "panels": 15,
       "duration_seconds": 55,
@@ -348,11 +348,11 @@
           "width": 1920,
           "height": 1080,
           "fps": "24/1",
-          "sha256": "2538f300e419e836f06df47945a6cfbe99557b1e5e30064240bb2663a11e0488",
-          "bytes": 22361198,
+          "sha256": "039018a29487883892b54356530da265322893de1be92b7f9903363a52dd9f9e",
+          "bytes": 22860677,
           "full_decode": "PASS",
-          "url": "advances/comedy-001-v2/landscape.mp4",
-          "poster": "advances/comedy-001-v2/landscape-poster.jpg"
+          "url": "advances/comedy-001-v3/landscape.mp4",
+          "poster": "advances/comedy-001-v3/landscape-poster.jpg"
         },
         {
           "name": "vertical",
@@ -360,20 +360,20 @@
           "width": 1080,
           "height": 1920,
           "fps": "24/1",
-          "sha256": "c033c6daa6be8e98a53e53eca872bdfc2e0ded181c11b4356b6f1cfe3de2734d",
-          "bytes": 22683956,
+          "sha256": "629ca48212a3f05b5d818853812ed7ebab20b1d750d3da2b58cc7743ccaf93cc",
+          "bytes": 22704566,
           "full_decode": "PASS",
-          "url": "advances/comedy-001-v2/vertical.mp4",
-          "poster": "advances/comedy-001-v2/vertical-poster.jpg"
+          "url": "advances/comedy-001-v3/vertical.mp4",
+          "poster": "advances/comedy-001-v3/vertical-poster.jpg"
         }
       ],
-      "contact_sheet": "advances/comedy-001-v2/contact-sheet.jpg",
-      "animation_limit": "Human-only native illustrations with continuous comic punch-ins and bounded shake; fourteen 0.15-second FFmpeg xfades; small separate plaque-free presenter in c01/c15 only. Camera animation, not articulated limb animation.",
-      "human_only_fraction": 0.8575757575757575,
+      "contact_sheet": "advances/comedy-001-v3/contact-sheet.jpg",
+      "animation_limit": "Clean parchment human illustrations with continuous camera and three-frame impact punches; fourteen clean cuts, zero frame blending or in-world technical graphics. Separate empty-beak presenter in c01/c15 only. Camera animation, not articulated limb animation.",
+      "human_only_fraction": 0.8583333333333334,
       "presenter_intervals": [
         [
           0.0,
-          3.8333333333333335
+          3.7916666666666665
         ],
         [
           51.0,
@@ -382,7 +382,9 @@
       ],
       "crow_prop": "none",
       "transitions": 14,
-      "xfade_configured_sec": 0.15
+      "xfade_configured_sec": 0.0,
+      "transition_style": "clean_cut",
+      "impact_frames": 3
     }
   ]
 }
