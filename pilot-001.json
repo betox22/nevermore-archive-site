@@ -1,0 +1,291 @@
+{
+  "title": "The First Paycheck Was Beer",
+  "episode": "001",
+  "snapshot_utc": "2026-11-13T03:59:58+00:00",
+  "status": "comedy_script_draft",
+  "target_seconds": 55,
+  "measured_new_segment_seconds": null,
+  "voice": "am_michael",
+  "voice_approval": "definitive selection by owner",
+  "style": "Caricatura 2D histórica exagerada e irónica",
+  "art_status": "pending",
+  "new_narration_status": "pending",
+  "video_status": "not_produced_or_approved",
+  "sources": {
+    "S01": {
+      "institution": "British Museum via Google Arts & Culture",
+      "artifact": "1989,0130.4, Late Uruk, The first writing: counting beer for the workers",
+      "url": "https://artsandculture.google.com/asset/the-first-writing-counting-beer-for-the-workers/fgF9ioy89DC2Uw",
+      "catalogue_url": "https://www.britishmuseum.org/collection/object/W_1989-0130-4",
+      "verified_on": "2026-11-12",
+      "locator": "Object description paragraphs 1–4 and Details: date, registration number, period/culture"
+    }
+  },
+  "approved_tests": [
+    {
+      "kind": "voice_identity_only",
+      "voice": "am_michael",
+      "url": "media/voice-am_michael.wav",
+      "duration_seconds": 11.370666666666667,
+      "sha256": "60e9452f7a868ab62c1ebc15678c37ddd3d13b2e46d31f3e81462696027e0b0f",
+      "limit": "Earlier test copy; not the new segment narration or approved historical script"
+    }
+  ],
+  "panels": [
+    {
+      "id": "c01",
+      "start_sec": 0,
+      "end_sec": 4,
+      "seconds": 4,
+      "title": "PAYDAY",
+      "narration": "Your payday arrives. It is a jar. Excellent liquidity.",
+      "action": {
+        "start": "The crow braces to receive a neat modern envelope, an overt present-day metaphor.",
+        "resolution": "An oversized beer jar pops out instead; the crow nearly buckles, then steadies it on the counter."
+      },
+      "comic_expression": "Wide-eyed surprise becomes an absurdly professional nod.",
+      "overlay": "PAYDAY",
+      "source_ids": [
+        "S01"
+      ]
+    },
+    {
+      "id": "c02",
+      "start_sec": 4,
+      "end_sec": 7,
+      "seconds": 3,
+      "title": "SMALL PRINT",
+      "narration": "A paycheck? Easy. Proving history’s first? Less easy.",
+      "action": {
+        "start": "The crow starts to celebrate the jar.",
+        "resolution": "A giant question mark drawn in post drops between crow and jar; celebration freezes."
+      },
+      "comic_expression": "One eyebrow snaps upward; the wing slowly lowers.",
+      "overlay": "SMALL PRINT",
+      "source_ids": [
+        "S01"
+      ]
+    },
+    {
+      "id": "c03",
+      "start_sec": 7,
+      "end_sec": 11,
+      "seconds": 4,
+      "title": "MESOPOTAMIA",
+      "narration": "Mesopotamia. More than five thousand years ago. Bring a cup.",
+      "action": {
+        "start": "A simple 2D backdrop unfolds behind the crow.",
+        "resolution": "The crow produces an absurdly tiny cup beside the giant jar and stares at the mismatch."
+      },
+      "comic_expression": "Deadpan scale comparison; no historical quantity is implied.",
+      "overlay": "MESOPOTAMIA",
+      "source_ids": [
+        "S01"
+      ]
+    },
+    {
+      "id": "c04",
+      "start_sec": 11,
+      "end_sec": 15,
+      "seconds": 4,
+      "title": "THE RECEIPT",
+      "narration": "This British Museum tablet records beer allocated to workers.",
+      "action": {
+        "start": "The crow dramatically gestures toward an illustrative clay prop.",
+        "resolution": "The prop lands on the counter; the crow checks its balance instead of striking a solemn museum pose."
+      },
+      "comic_expression": "The grand reveal ends with a practical little adjustment.",
+      "overlay": "THE RECEIPT",
+      "source_ids": [
+        "S01"
+      ]
+    },
+    {
+      "id": "c05",
+      "start_sec": 15,
+      "end_sec": 18,
+      "seconds": 3,
+      "title": "RATIONS",
+      "narration": "Daily rations, specifically. Civilization brought its own paperwork.",
+      "action": {
+        "start": "The jar and illustrative tablet sit separately on the counter.",
+        "resolution": "The crow slides the tablet beside the jar, then recoils from the resulting paperwork pile."
+      },
+      "comic_expression": "Dry bureaucratic exasperation; the extra props are a comic metaphor.",
+      "overlay": "RATIONS",
+      "source_ids": [
+        "S01"
+      ]
+    },
+    {
+      "id": "c06",
+      "start_sec": 18,
+      "end_sec": 22,
+      "seconds": 4,
+      "title": "THE DATE",
+      "narration": "Between thirty-one hundred and three thousand BC, says the museum.",
+      "action": {
+        "start": "A program-drawn date card enters beside the crow.",
+        "resolution": "The crow tries to straighten the card; it tilts the other way, then finally settles."
+      },
+      "comic_expression": "A serious fact delivered during a petty fight with the caption.",
+      "overlay": "THE DATE",
+      "source_ids": [
+        "S01"
+      ]
+    },
+    {
+      "id": "c07",
+      "start_sec": 22,
+      "end_sec": 25,
+      "seconds": 3,
+      "title": "KEEP THE RECEIPT",
+      "narration": "That is a very long time to keep receipts.",
+      "action": {
+        "start": "The crow carefully files the illustrative tablet.",
+        "resolution": "The filing slot is far too small; the crow measures the tablet with a wing, unimpressed."
+      },
+      "comic_expression": "One unhurried blink after a quick failed attempt.",
+      "overlay": "KEEP THE RECEIPT",
+      "source_ids": [
+        "S01"
+      ]
+    },
+    {
+      "id": "c08",
+      "start_sec": 25,
+      "end_sec": 29,
+      "seconds": 4,
+      "title": "A JAR SIGN",
+      "narration": "The beer sign represents a jar. Branding: aggressively literal.",
+      "action": {
+        "start": "The crow points at a blank diagram area, not at invented glyphs on the prop.",
+        "resolution": "A program-drawn jar diagram is revealed and explicitly captioned as a schematic."
+      },
+      "comic_expression": "The crow looks from jar to diagram and gives a tiny exhausted nod.",
+      "overlay": "A JAR SIGN",
+      "source_ids": [
+        "S01"
+      ]
+    },
+    {
+      "id": "c09",
+      "start_sec": 29,
+      "end_sec": 33,
+      "seconds": 4,
+      "title": "CONTENTS INCLUDED",
+      "narration": "Its wavy lines show beer inside. Helpful accounting.",
+      "action": {
+        "start": "The diagram remains fixed while its interior is empty.",
+        "resolution": "The program reveals schematic waves; the crow leans in, then theatrically grasps the obvious."
+      },
+      "comic_expression": "An exaggerated recognition reaction; no claim of an exact transcription.",
+      "overlay": "CONTENTS INCLUDED",
+      "source_ids": [
+        "S01"
+      ]
+    },
+    {
+      "id": "c10",
+      "start_sec": 33,
+      "end_sec": 36,
+      "seconds": 3,
+      "title": "THREE SIGNS",
+      "narration": "The sign appears three times. Count symbols, not drinks.",
+      "action": {
+        "start": "Three schematic icons appear individually, drawn by the program.",
+        "resolution": "The crow counts them with wing beats and stops a comic fourth icon before it lands."
+      },
+      "comic_expression": "A rapid correction, not a drinking action or a consumption claim.",
+      "overlay": "THREE SIGNS",
+      "source_ids": [
+        "S01"
+      ]
+    },
+    {
+      "id": "c11",
+      "start_sec": 36,
+      "end_sec": 40,
+      "seconds": 4,
+      "title": "BOWL AND HEAD",
+      "narration": "Another sign connects a bowl and a human head.",
+      "action": {
+        "start": "An isolated explanatory diagram panel replaces the jar schematic.",
+        "resolution": "A program-drawn bowl and head diagram move together; the crow tracks the join with an exaggerated head turn."
+      },
+      "comic_expression": "A visual explanation with a reaction; the head is a diagram, not a new speaking character.",
+      "overlay": "BOWL AND HEAD",
+      "source_ids": [
+        "S01"
+      ]
+    },
+    {
+      "id": "c12",
+      "start_sec": 40,
+      "end_sec": 44,
+      "seconds": 4,
+      "title": "READ THE RECORD",
+      "narration": "It means eating. We are reading a ration record.",
+      "action": {
+        "start": "The explanatory symbols are separated on a blank area.",
+        "resolution": "They align beside a program-drawn RATIONS label; the crow accepts the conclusion with an overformal bow."
+      },
+      "comic_expression": "An overly grand bow for a mundane administrative discovery.",
+      "overlay": "READ THE RECORD",
+      "source_ids": [
+        "S01"
+      ]
+    },
+    {
+      "id": "c13",
+      "start_sec": 44,
+      "end_sec": 47,
+      "seconds": 3,
+      "title": "NO FIRST PRIZE",
+      "narration": "A record, not proof of humanity’s very first wage.",
+      "action": {
+        "start": "The crow is offered a comic FIRST trophy graphic.",
+        "resolution": "The crow pushes it back and points to the actual source reference instead."
+      },
+      "comic_expression": "Celebration denied by the evidence, with a perfectly straight face.",
+      "overlay": "NO FIRST PRIZE",
+      "source_ids": [
+        "S01"
+      ]
+    },
+    {
+      "id": "c14",
+      "start_sec": 47,
+      "end_sec": 51,
+      "seconds": 4,
+      "title": "NO MAGIC NUMBER",
+      "narration": "No universal litres per worker can be read from that.",
+      "action": {
+        "start": "An unsupported numerical badge tries to enter the frame.",
+        "resolution": "The crow blocks the blank badge with a wing before any number appears; only the source citation remains."
+      },
+      "comic_expression": "A firm librarian stare; no invented ration appears even as a gag.",
+      "overlay": "NO MAGIC NUMBER",
+      "source_ids": [
+        "S01"
+      ]
+    },
+    {
+      "id": "c15",
+      "start_sec": 51,
+      "end_sec": 55,
+      "seconds": 4,
+      "title": "BEER AND BUREAUCRACY",
+      "narration": "Beer. Workers. Paperwork. The real story is already absurd enough.",
+      "action": {
+        "start": "The crow arranges the jar and illustrative record into a tidy final composition.",
+        "resolution": "The jar is placed safely, the tablet stack wobbles, and the crow catches it while keeping the golden signature tablet in the beak."
+      },
+      "comic_expression": "A quick physical payoff followed by a deadpan stare into camera.",
+      "overlay": "BEER AND BUREAUCRACY",
+      "source_ids": [
+        "S01"
+      ]
+    }
+  ]
+}
