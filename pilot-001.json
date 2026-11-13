@@ -1,7 +1,7 @@
 {
   "title": "The First Paycheck Was Beer",
   "episode": "001",
-  "snapshot_utc": "2026-11-13T15:50:14+00:00",
+  "snapshot_utc": "2026-11-13T17:25:19+00:00",
   "status": "comedy_test_rendered_for_review",
   "target_seconds": 55,
   "measured_new_segment_seconds": 55,
@@ -40,8 +40,8 @@
       "title": "LIQUID SALARY",
       "narration": "Imagine payday. Your boss hands you warm beer.",
       "action": {
-        "start": "The lanky scribe plonks a huge plain clay beer jar into the stocky worker's hands. The worker's eyes bulge as his knees buckle; the scribe smiles with infuriating pride.",
-        "resolution": "The expression lands the comic reversal described in the action."
+        "start": "Complete native-drawn modern_office scene with the recurring composite humans; the crow remains a separate small PiP.",
+        "resolution": "The human expression lands the existing comic beat while the presenter comments independently."
       },
       "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
       "overlay": "LIQUID SALARY",
@@ -60,8 +60,8 @@
       "title": "NO REFUNDS",
       "narration": "Congratulations. Your salary needs drinking.",
       "action": {
-        "start": "Close two-person reaction: worker peers into a plain clay cup with a spectacularly disappointed face while scribe waves away his attempted return of the jar with a flat palm.",
-        "resolution": "The expression lands the comic reversal described in the action."
+        "start": "Complete native-drawn modern_office scene with the recurring composite humans; the crow remains a separate small PiP.",
+        "resolution": "The human expression lands the existing comic beat while the presenter comments independently."
       },
       "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
       "overlay": "NO REFUNDS",
@@ -80,8 +80,8 @@
       "title": "SAVINGS: GONE",
       "narration": "Drink your raise. Watch your savings disappear.",
       "action": {
-        "start": "Worker turns his empty plain clay cup upside down and stares aghast at the last tiny drop. The scribe watches with a merciless deadpan shrug; no other props.",
-        "resolution": "The expression lands the comic reversal described in the action."
+        "start": "Complete native-drawn modern_office scene with the recurring composite humans; the crow remains a separate small PiP.",
+        "resolution": "The human expression lands the existing comic beat while the presenter comments independently."
       },
       "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
       "overlay": "SAVINGS: GONE",
@@ -100,13 +100,14 @@
       "title": "PAYDAY: 3100 BCE",
       "narration": "The beer ration is real. Meet Mesopotamian payroll.",
       "action": {
-        "start": "Worker offers the jar back; scribe firmly substitutes a small totally blank clay record and points toward the jar. Worker recoils at the paperwork with an outsized startled expression.",
-        "resolution": "The expression lands the comic reversal described in the action."
+        "start": "Show the photographed clay surface.",
+        "resolution": "Guide attention with the planned crop or outline; preserve the actual marks."
       },
       "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
       "overlay": "PAYDAY: 3100 BCE",
       "source_ids": [
-        "S01"
+        "S01",
+        "P01"
       ],
       "measured_start_sec": 10.458333333333334,
       "measured_end_sec": 14.458333333333334,
@@ -120,13 +121,14 @@
       "title": "CLAY RECEIPTS",
       "narration": "The British Museum has the clay receipt. Seriously.",
       "action": {
-        "start": "Scribe proudly cradles an ordinary small blank clay tablet while worker leans very close, both huge faces filling the shot, worker disbelieving and scribe gleefully smug.",
-        "resolution": "The expression lands the comic reversal described in the action."
+        "start": "Show the photographed clay surface.",
+        "resolution": "Guide attention with the planned crop or outline; preserve the actual marks."
       },
       "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
       "overlay": "CLAY RECEIPTS",
       "source_ids": [
-        "S01"
+        "S01",
+        "P01"
       ],
       "measured_start_sec": 14.458333333333334,
       "measured_end_sec": 18.375,
@@ -140,13 +142,14 @@
       "title": "STILL ON FILE",
       "narration": "Over five thousand years old. Accounting never forgets.",
       "action": {
-        "start": "Worker staggers under a high stack of totally blank clay records while the unburdened scribe carefully balances one additional tiny blank tablet on top, exaggerated nervous sweat.",
-        "resolution": "The expression lands the comic reversal described in the action."
+        "start": "Show the photographed clay surface.",
+        "resolution": "Guide attention with the planned crop or outline; preserve the actual marks."
       },
       "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
       "overlay": "STILL ON FILE",
       "source_ids": [
-        "S01"
+        "S01",
+        "P01"
       ],
       "measured_start_sec": 18.375,
       "measured_end_sec": 22.375,
@@ -160,8 +163,8 @@
       "title": "DAVE'S BAR TAB",
       "narration": "Dave wanted a bonus. Dave brought a bigger cup.",
       "action": {
-        "start": "Worker beams greedily while presenting a comically enormous plain clay cup; the lanky scribe regards it with one extremely raised eyebrow and folded arms.",
-        "resolution": "The expression lands the comic reversal described in the action."
+        "start": "Complete native-drawn Mesopotamian courtyard scene with the recurring composite humans; the crow remains a separate small PiP.",
+        "resolution": "The human expression lands the existing comic beat while the presenter comments independently."
       },
       "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
       "overlay": "DAVE'S BAR TAB",
@@ -180,8 +183,8 @@
       "title": "NICE TRY, DAVE",
       "narration": "Nice try, Dave. The record says daily rations.",
       "action": {
-        "start": "Scribe uses one flat hand to stop the enormous cup approaching the jar, worker pouts with cheeks puffed and huge eyes, both bodies in clear contact with their own props.",
-        "resolution": "The expression lands the comic reversal described in the action."
+        "start": "Complete native-drawn Mesopotamian courtyard scene with the recurring composite humans; the crow remains a separate small PiP.",
+        "resolution": "The human expression lands the existing comic beat while the presenter comments independently."
       },
       "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
       "overlay": "NICE TRY, DAVE",
@@ -200,13 +203,14 @@
       "title": "THE ORIGINAL LOGO",
       "narration": "Their beer sign? A jar. Marketing peaked early.",
       "action": {
-        "start": "Scribe points with exaggerated showman flourish to one oversized plain clay jar while the worker mimics the jar's round belly with his arms and gives a skeptical side-eye. No tablet, sign or drawing surface.",
-        "resolution": "The expression lands the comic reversal described in the action."
+        "start": "Show the photographed clay surface.",
+        "resolution": "Guide attention with the planned crop or outline; preserve the actual marks."
       },
       "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
       "overlay": "THE ORIGINAL LOGO",
       "source_ids": [
-        "S01"
+        "S01",
+        "P01"
       ],
       "measured_start_sec": 29.125,
       "measured_end_sec": 33.041666666666664,
@@ -220,13 +224,14 @@
       "title": "CONTENTS INCLUDED",
       "narration": "Wavy lines inside. Even the symbol came filled.",
       "action": {
-        "start": "Worker tilts a real plain open clay cup toward the scribe, a few simple liquid ripples visible inside; scribe squints suspiciously at it. Two large expressive faces, no glyphs or diagram.",
-        "resolution": "The expression lands the comic reversal described in the action."
+        "start": "Show the photographed clay surface.",
+        "resolution": "Guide attention with the planned crop or outline; preserve the actual marks."
       },
       "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
       "overlay": "CONTENTS INCLUDED",
       "source_ids": [
-        "S01"
+        "S01",
+        "P01"
       ],
       "measured_start_sec": 33.041666666666664,
       "measured_end_sec": 36.458333333333336,
@@ -240,13 +245,14 @@
       "title": "DON'T START A TAB",
       "narration": "Three beer signs. Not three rounds on the house.",
       "action": {
-        "start": "Worker eagerly thrusts three fingers up beside his hopeful face while reaching for one plain cup; scribe sharply folds his arms and gives an appalled skeptical stare. Exactly one cup, no writing or glyphs.",
-        "resolution": "The expression lands the comic reversal described in the action."
+        "start": "Show the photographed clay surface.",
+        "resolution": "Guide attention with the planned crop or outline; preserve the actual marks."
       },
       "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
       "overlay": "DON'T START A TAB",
       "source_ids": [
-        "S01"
+        "S01",
+        "P01"
       ],
       "measured_start_sec": 36.458333333333336,
       "measured_end_sec": 40.166666666666664,
@@ -260,13 +266,14 @@
       "title": "HUMAN RESOURCES",
       "narration": "A bowl by a head means eating. Human resources.",
       "action": {
-        "start": "Worker holds a plain shallow bowl close to his mouth with an impossibly hungry face; scribe points toward the bowl with bored professional certainty. Tight expressive two-shot, no diagram or marks.",
-        "resolution": "The expression lands the comic reversal described in the action."
+        "start": "Show the photographed clay surface.",
+        "resolution": "Guide attention with the planned crop or outline; preserve the actual marks."
       },
       "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
       "overlay": "HUMAN RESOURCES",
       "source_ids": [
-        "S01"
+        "S01",
+        "P01"
       ],
       "measured_start_sec": 40.166666666666664,
       "measured_end_sec": 44.125,
@@ -280,8 +287,8 @@
       "title": "HOLD THE TROPHY",
       "narration": "The first paycheck ever? Easy, Dave. We have rations.",
       "action": {
-        "start": "Worker starts a proud victory pose raising a plain cup, but the unimpressed scribe gently pushes his elbow down with one hand, worker's ecstatic grin collapses into disappointment. Exactly two humans.",
-        "resolution": "The expression lands the comic reversal described in the action."
+        "start": "Complete native-drawn Mesopotamian courtyard scene with the recurring composite humans; the crow remains a separate small PiP.",
+        "resolution": "The human expression lands the existing comic beat while the presenter comments independently."
       },
       "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
       "overlay": "HOLD THE TROPHY",
@@ -300,8 +307,8 @@
       "title": "NO MAGIC NUMBER",
       "narration": "No magic litres. No invented bonus. Just the record.",
       "action": {
-        "start": "Scribe protects one plain jar behind his back while blocking worker's eager measuring gesture with a firm raised palm; worker slumps in comic defeat. No ruler, numbers, scale or text.",
-        "resolution": "The expression lands the comic reversal described in the action."
+        "start": "Complete native-drawn Mesopotamian courtyard scene with the recurring composite humans; the crow remains a separate small PiP.",
+        "resolution": "The human expression lands the existing comic beat while the presenter comments independently."
       },
       "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
       "overlay": "NO MAGIC NUMBER",
@@ -320,8 +327,8 @@
       "title": "BEER & BUREAUCRACY",
       "narration": "Beer and paperwork. Somehow, the paperwork survived longer.",
       "action": {
-        "start": "Worker displays one empty cup with a stunned stare while the smiling scribe hugs a bulky stack of completely blank clay records, victorious final deadpan payoff. Both heads large, foreground figures only.",
-        "resolution": "The expression lands the comic reversal described in the action."
+        "start": "Complete native-drawn Mesopotamian courtyard scene with the recurring composite humans; the crow remains a separate small PiP.",
+        "resolution": "The human expression lands the existing comic beat while the presenter comments independently."
       },
       "comic_expression": "A large foreground reaction lands the physical joke; deadpan scribe against expressive worker.",
       "overlay": "BEER & BUREAUCRACY",
@@ -333,6 +340,18 @@
       "measured_cut_sec": 4.0
     }
   ],
+  "next_revision": {
+    "revision": "documentary-pip-v4",
+    "status": "awaiting_cloud_render",
+    "sprites_prepared": 4,
+    "illustrated_scenes": 8,
+    "photo_views": 7,
+    "distinct_photographs": 1,
+    "voice": "am_michael",
+    "sync_method": "phrase_rms_24fps",
+    "new_video_rendered": false,
+    "owner_approved": false
+  },
   "production_trials": [
     {
       "status": "rendered_for_review",
