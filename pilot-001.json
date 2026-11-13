@@ -1,15 +1,15 @@
 {
   "title": "The First Paycheck Was Beer",
   "episode": "001",
-  "snapshot_utc": "2026-11-13T17:25:19+00:00",
-  "status": "comedy_test_rendered_for_review",
+  "snapshot_utc": "2026-11-13T23:21:44+00:00",
+  "status": "documentary_pip_rendered_for_review",
   "target_seconds": 55,
   "measured_new_segment_seconds": 55,
   "voice": "am_michael",
   "voice_approval": "definitive selection by owner",
-  "style": "Caricatura 2D histórica exagerada e irónica",
-  "art_status": "15_new_native_2d_panels",
-  "new_narration_status": "15_exact_phrases_recorded",
+  "style": "Documental Ilustrado de Ritmo Rápido",
+  "art_status": "8_environment_scenes_and_7_real_photo_views",
+  "new_narration_status": "existing_15_exact_am_michael_phrases_reused",
   "video_status": "produced_pending_owner_review",
   "sources": {
     "S01": {
@@ -340,22 +340,10 @@
       "measured_cut_sec": 4.0
     }
   ],
-  "next_revision": {
-    "revision": "documentary-pip-v4",
-    "status": "awaiting_cloud_render",
-    "sprites_prepared": 4,
-    "illustrated_scenes": 8,
-    "photo_views": 7,
-    "distinct_photographs": 1,
-    "voice": "am_michael",
-    "sync_method": "phrase_rms_24fps",
-    "new_video_rendered": false,
-    "owner_approved": false
-  },
   "production_trials": [
     {
       "status": "rendered_for_review",
-      "revision": "clean-comedy-v3",
+      "revision": "documentary-pip-v4",
       "owner_approved": false,
       "panels": 15,
       "duration_seconds": 55,
@@ -367,11 +355,11 @@
           "width": 1920,
           "height": 1080,
           "fps": "24/1",
-          "sha256": "039018a29487883892b54356530da265322893de1be92b7f9903363a52dd9f9e",
-          "bytes": 22860677,
+          "sha256": "fd417150cd7c8a19e29b566d86ea839c0083f3b9e11f68eb2010cb2f18aef91c",
+          "bytes": 22790134,
           "full_decode": "PASS",
-          "url": "advances/comedy-001-v3/landscape.mp4",
-          "poster": "advances/comedy-001-v3/landscape-poster.jpg"
+          "url": "advances/documentary-001-v4/landscape.mp4",
+          "poster": "advances/documentary-001-v4/landscape-poster.jpg"
         },
         {
           "name": "vertical",
@@ -379,31 +367,47 @@
           "width": 1080,
           "height": 1920,
           "fps": "24/1",
-          "sha256": "629ca48212a3f05b5d818853812ed7ebab20b1d750d3da2b58cc7743ccaf93cc",
-          "bytes": 22704566,
+          "sha256": "50c8cfa8c36baa7c98e096753984a97d8247c07cdbf4053eea7e956cdf7addd6",
+          "bytes": 22915841,
           "full_decode": "PASS",
-          "url": "advances/comedy-001-v3/vertical.mp4",
-          "poster": "advances/comedy-001-v3/vertical-poster.jpg"
+          "url": "advances/documentary-001-v4/vertical.mp4",
+          "poster": "advances/documentary-001-v4/vertical-poster.jpg"
         }
       ],
-      "contact_sheet": "advances/comedy-001-v3/contact-sheet.jpg",
-      "animation_limit": "Clean parchment human illustrations with continuous camera and three-frame impact punches; fourteen clean cuts, zero frame blending or in-world technical graphics. Separate empty-beak presenter in c01/c15 only. Camera animation, not articulated limb animation.",
-      "human_only_fraction": 0.8583333333333334,
-      "presenter_intervals": [
-        [
-          0.0,
-          3.7916666666666665
-        ],
-        [
-          51.0,
-          55.0
-        ]
-      ],
+      "contact_sheet": "advances/documentary-001-v4/contact-sheet.jpg",
+      "animation_limit": "RMS-driven four-sprite presenter, not phoneme-level mouth shapes. Main illustrations use continuous camera movement; archaeological imagery is licensed photography, not generated reconstructions.",
       "crow_prop": "none",
       "transitions": 14,
       "xfade_configured_sec": 0.0,
       "transition_style": "clean_cut",
-      "impact_frames": 3
+      "impact_frames": 3,
+      "illustrated_scenes": 8,
+      "photo_views": 7,
+      "distinct_photographs": 1,
+      "macro_panels": [
+        "c04",
+        "c05",
+        "c06",
+        "c09",
+        "c10",
+        "c11",
+        "c12"
+      ],
+      "pip": {
+        "sync_method": "phrase_rms_24fps",
+        "landscape_height_px": 194,
+        "vertical_height_px": 250,
+        "micro_bounce_max_px": 3,
+        "macro_hidden_frames": 646,
+        "phoneme_alignment": false
+      },
+      "photography": {
+        "photographer": "Jim Kuhn",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Pictographs_Recording_the_Allocation_of_Beer_(London,_England).jpg",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "sha256": "2a774b8a0b2e90446948bfa89276da71ff0fd031f7751ee9a9f8e1d29adbd58d"
+      }
     }
   ]
 }
