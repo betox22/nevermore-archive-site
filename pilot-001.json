@@ -1,7 +1,7 @@
 {
   "title": "The First Paycheck Was Beer",
   "episode": "001",
-  "snapshot_utc": "2026-11-14T04:32:56+00:00",
+  "snapshot_utc": "2026-11-14T17:04:22+00:00",
   "status": "tower_cast_dynamic_voice_rendered_for_review",
   "target_seconds": 55,
   "measured_new_segment_seconds": 55,
@@ -18,7 +18,7 @@
       "url": "https://artsandculture.google.com/asset/the-first-writing-counting-beer-for-the-workers/fgF9ioy89DC2Uw",
       "catalogue_url": "https://www.britishmuseum.org/collection/object/W_1989-0130-4",
       "verified_on": "2026-11-13",
-      "locator": "Object description paragraphs 1–4 and Details: date, registration number, period/culture"
+      "locator": "Object description paragraphs 1â€“4 and Details: date, registration number, period/culture"
     }
   },
   "approved_tests": [
@@ -60,7 +60,7 @@
       "title": "LIQUID SALARY",
       "narration": "in warm Mesopotamian beer? Pip looks thrilled.",
       "action": {
-        "start": "Rex pushes a giant jar into Pip’s arms; Mia raises an eyebrow.",
+        "start": "Rex pushes a giant jar into Pipâ€™s arms; Mia raises an eyebrow.",
         "resolution": "Pip recoils under the salary jar while Timmy offers a cup."
       },
       "comic_expression": "Panicked Pip; sarcastic Mia; false-smiling Rex; mischievous Timmy, with immutable faces.",
@@ -161,7 +161,7 @@
       "narration": "Workers received beer as daily rations.",
       "action": {
         "start": "Observe the real ration record.",
-        "resolution": "Narration states the museum’s documented daily beer rations."
+        "resolution": "Narration states the museumâ€™s documented daily beer rations."
       },
       "comic_expression": "Panicked Pip; sarcastic Mia; false-smiling Rex; mischievous Timmy, with immutable faces.",
       "overlay": "DAILY RATIONS",
@@ -301,7 +301,7 @@
       "narration": "First paycheck ever? Not proven.",
       "action": {
         "start": "Return to the identified tablet in full.",
-        "resolution": "Explicitly refuse the claim of humanity’s first paycheck."
+        "resolution": "Explicitly refuse the claim of humanityâ€™s first paycheck."
       },
       "comic_expression": "Panicked Pip; sarcastic Mia; false-smiling Rex; mischievous Timmy, with immutable faces.",
       "overlay": "FIRST EVER? NOT PROVEN",
@@ -317,7 +317,7 @@
       "start_sec": 51.0,
       "end_sec": 55.0,
       "seconds": 4,
-      "title": "BEER & BUREAUCRACY",
+      "title": "THE ARCHIVE / SOURCES",
       "narration": "Beer and bureaucracy. Paperwork wins.",
       "action": {
         "start": "Pip holds an empty cup beside a surviving record.",
@@ -326,7 +326,8 @@
       "comic_expression": "Panicked Pip; sarcastic Mia; false-smiling Rex; mischievous Timmy, with immutable faces.",
       "overlay": "BEER & BUREAUCRACY",
       "source_ids": [
-        "S01"
+        "S01",
+        "P01"
       ],
       "measured_start_sec": 51.0,
       "measured_end_sec": 55.0,
@@ -348,8 +349,8 @@
           "width": 1920,
           "height": 1080,
           "fps": "24/1",
-          "sha256": "3b830f9cf1c0ee99cd26f79e0c9211165e0b2e8ea7b16cf446a2159411b9914f",
-          "bytes": 22699900,
+          "sha256": "0300d57c29a1ead88e0edf569e2964f77d16cdeea879cd4401781c35d86a0107",
+          "bytes": 22283759,
           "full_decode": "PASS",
           "url": "advances/tower-cast-001-v5/landscape.mp4",
           "poster": "advances/tower-cast-001-v5/landscape-poster.jpg"
@@ -360,8 +361,8 @@
           "width": 1080,
           "height": 1920,
           "fps": "24/1",
-          "sha256": "63fc3b56068d91c0c975210267261afefae4387f8da1ab53adcaa188b21bb148",
-          "bytes": 22795980,
+          "sha256": "17089cf4cf9bcd580b44eaa8963c2de4f888317230a3b6fce4aca30045f962cd",
+          "bytes": 22638560,
           "full_decode": "PASS",
           "url": "advances/tower-cast-001-v5/vertical.mp4",
           "poster": "advances/tower-cast-001-v5/vertical-poster.jpg"
@@ -418,6 +419,17 @@
         }
       ],
       "cast_master_sha256": "d32d7798b99b55d7eebfa4dcb99727471e8764f33960ce145abab00b85264ba3",
+      "archive_card": {
+        "entries": [
+          "British Museum · Counting beer for the workers · ME 140855",
+          "Photo: Jim Kuhn (2008) · CC BY 2.0 · Crops/highlights"
+        ],
+        "source_ids": [
+          "S01",
+          "P01"
+        ],
+        "duration_seconds": 4.0
+      },
       "voice_direction": {
         "speeds": {
           "FAST": 1.12,
