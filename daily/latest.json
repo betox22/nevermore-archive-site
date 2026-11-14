@@ -1,0 +1,350 @@
+{
+  "schema": "nevermore-ideation-2",
+  "date": "2026-11-14",
+  "ideas": [
+    {
+      "id": "calendar-reset",
+      "title": "What If Your Calendar Skipped Eleven Dates Tonight?",
+      "era": "Britain, September 1752",
+      "premise": "What if today your calendar date jumped from September 2 to September 14 under the documented calendar reform?",
+      "benchmark_query": "Britain calendar 1752 eleven days",
+      "tags": [
+        "history",
+        "historical comedy"
+      ],
+      "cast_gags": {
+        "crow": "Opens the tower book on the dates the calendar actually labels.",
+        "pip": "Tries to find an imagined appointment on a skipped date label.",
+        "mia": "Distinguishes skipped labels from eleven vanished natural days.",
+        "rex": "Insists his fictional meeting schedule still makes sense.",
+        "timmy": "Flips the calendar faster than Rex can point."
+      },
+      "criteria": {
+        "curiosity": 25,
+        "cast_comedy": 23,
+        "modern_contrast": 25,
+        "primary_sources": 25
+      },
+      "rationale": {
+        "curiosity": "A date jump creates a strong question with a specific primary-law answer.",
+        "cast_comedy": "Conflicting appointments let each character cause the next complication.",
+        "modern_contrast": "A smartphone calendar makes the reform visible without claiming lost wages or riots.",
+        "primary_sources": "The enacted text specifies the date numbering; verify access and anchors."
+      },
+      "sources": [
+        {
+          "institution": "UK legislation archive",
+          "locator": "Calendar (New Style) Act 1750, section 1",
+          "url": "https://www.legislation.gov.uk/apgb/Geo2/24/23/section/1.",
+          "kind": "primary_record",
+          "anchors": [
+            "the fourteenth day of September",
+            "eleven intermediate nominal days"
+          ],
+          "verified_on": "2026-11-14",
+          "anchors_present": true,
+          "download_error_type": null,
+          "download_http_status": null,
+          "text_sha256": "40066ccc19cf17a2fcc4ea8c1ae02120e7e751c6096b6f29eedd4832da2898ef",
+          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
+        }
+      ],
+      "author": "Codex native subscription agent; editorial hypotheses, not measured audience performance",
+      "original_editorial_assessment": 98,
+      "editorial_score": 98,
+      "score": 98,
+      "source_verified": true,
+      "primary_record_available": true,
+      "benchmark": {
+        "status": "unavailable",
+        "videos": [],
+        "raw_metrics_location": "private Studio cache, never Git",
+        "error_type": null,
+        "median_views_per_day": null,
+        "ctr": null,
+        "retention": null,
+        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
+      },
+      "reused_counterfactual": false,
+      "eligible": false
+    },
+    {
+      "id": "tally-stick",
+      "title": "What If Your Tax Receipt Was a Piece of Wood?",
+      "era": "England, 1694",
+      "premise": "What if today your official payment receipt had to be a notched wooden tally?",
+      "benchmark_query": "wooden tally sticks government loans history",
+      "tags": [
+        "history",
+        "historical comedy"
+      ],
+      "cast_gags": {
+        "crow": "Opens a file whose receipt is longer than the desk.",
+        "pip": "Tries to fit an imagined wooden receipt into a modern wallet.",
+        "mia": "Checks the official record rather than calling it primitive or counterfeit.",
+        "rex": "Demands that Pip keep the original timber.",
+        "timmy": "Brings an absurdly oversized receipt rack."
+      },
+      "criteria": {
+        "curiosity": 23,
+        "cast_comedy": 25,
+        "modern_contrast": 24,
+        "primary_sources": 25
+      },
+      "rationale": {
+        "curiosity": "A familiar receipt becomes a surprising physical object.",
+        "cast_comedy": "Wallet, desk and archive scale support physical comedy without inventing fiscal rules.",
+        "modern_contrast": "Modern digital record keeping contrasts with a documented medieval receipt.",
+        "primary_sources": "A museum-held 1694 loan tally is accessible. The earlier medieval catalogue page failed; no inaccessible 1293 evidence is presented as verified."
+      },
+      "sources": [
+        {
+          "institution": "Bank of England Museum",
+          "locator": "Payments through time: wooden tally recording a 1694 government loan",
+          "url": "https://www.bankofengland.co.uk/museum/whats-on/2019/325-years-exhibition/payments-through-time",
+          "kind": "primary_record",
+          "anchors": [
+            "Wooden tally stick",
+            "1694"
+          ],
+          "verified_on": "2026-11-14",
+          "anchors_present": true,
+          "download_error_type": null,
+          "download_http_status": null,
+          "text_sha256": "01dad396ad1e5f663816e38a612f47876ce8f8b3be382ffcf43f6a95887706e6",
+          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
+        }
+      ],
+      "author": "Codex native subscription agent; editorial hypotheses, not measured audience performance",
+      "research_note": "The accessible primary object is from 1694, not the earlier blocked medieval catalogue. The modern tax-receipt comparison is fictional; the actual object records a government loan.",
+      "original_editorial_assessment": 97,
+      "editorial_score": 97,
+      "score": 97,
+      "source_verified": true,
+      "primary_record_available": true,
+      "benchmark": {
+        "status": "unavailable",
+        "videos": [],
+        "raw_metrics_location": "private Studio cache, never Git",
+        "error_type": null,
+        "median_views_per_day": null,
+        "ctr": null,
+        "retention": null,
+        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
+      },
+      "reused_counterfactual": false,
+      "eligible": false
+    },
+    {
+      "id": "old-money",
+      "title": "What If Your Shopping Cart Still Used 240 Pennies per Pound?",
+      "era": "Britain before decimalisation in 1971",
+      "premise": "What if today a shopping checkout still had to calculate twelve pennies per shilling and twenty shillings per pound?",
+      "benchmark_query": "British pre decimal money explained",
+      "tags": [
+        "history",
+        "historical comedy"
+      ],
+      "cast_gags": {
+        "crow": "Opens a ledger and watches the checkout change columns.",
+        "pip": "Tries to pay for one imagined modern grocery basket.",
+        "mia": "Does the conversion correctly and exposes the needless mental load.",
+        "rex": "Insists that every checkout subtotal use the old units.",
+        "timmy": "Produces a modern calculator with absurdly too few buttons."
+      },
+      "criteria": {
+        "curiosity": 22,
+        "cast_comedy": 24,
+        "modern_contrast": 25,
+        "primary_sources": 23
+      },
+      "rationale": {
+        "curiosity": "A routine checkout gains an unfamiliar but concrete arithmetic system.",
+        "cast_comedy": "Different fixed roles can react to one escalating calculation rather than a fact list.",
+        "modern_contrast": "Online shopping provides a clear modern contrast; no invented historical prices are needed.",
+        "primary_sources": "The museum presents period accounts and a design brief; differentiate the article from the reproduced records."
+      },
+      "sources": [
+        {
+          "institution": "Royal Mint Museum",
+          "locator": "Decimalisation; old accounts and Royal Mint design brief, November 1966",
+          "url": "https://www.royalmintmuseum.org.uk/journal/history/decimalisation/",
+          "kind": "primary_record",
+          "anchors": [
+            "twelve pennies to the shilling and twenty shillings to the pound",
+            "design brief"
+          ],
+          "verified_on": "2026-11-14",
+          "anchors_present": true,
+          "download_error_type": null,
+          "download_http_status": null,
+          "text_sha256": "588c2299b663f4e3c380b60744769b00f346ced197ca3e5954a2e4e9cf9749c0",
+          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
+        }
+      ],
+      "author": "Codex native subscription agent; editorial hypotheses, not measured audience performance",
+      "original_editorial_assessment": 94,
+      "editorial_score": 94,
+      "score": 94,
+      "source_verified": true,
+      "primary_record_available": true,
+      "benchmark": {
+        "status": "unavailable",
+        "videos": [],
+        "raw_metrics_location": "private Studio cache, never Git",
+        "error_type": null,
+        "median_views_per_day": null,
+        "ctr": null,
+        "retention": null,
+        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
+      },
+      "reused_counterfactual": false,
+      "eligible": false
+    },
+    {
+      "id": "window-tax",
+      "title": "What If Every Window Came With a Tax Bill?",
+      "era": "Britain, 1696–1851",
+      "premise": "What if today the number of windows in your home determined a household tax?",
+      "benchmark_query": "window tax history Britain",
+      "tags": [
+        "history",
+        "historical comedy"
+      ],
+      "cast_gags": {
+        "crow": "Opens an archive book shaped like a property listing, then questions the sales pitch.",
+        "pip": "Chooses between daylight and an imagined modern tax bill.",
+        "mia": "Points out the absurd incentive without inventing a tax rate.",
+        "rex": "Counts windows with a smiling clipboard.",
+        "timmy": "Adds a toy window just as Rex finishes counting."
+      },
+      "criteria": {
+        "curiosity": 24,
+        "cast_comedy": 24,
+        "modern_contrast": 25,
+        "primary_sources": 0
+      },
+      "rationale": {
+        "curiosity": "The everyday value of daylight conflicts with a documented tax base.",
+        "cast_comedy": "Counting visible windows gives the five fixed roles distinct physical actions.",
+        "modern_contrast": "An imagined apartment viewing makes a historical household duty legible.",
+        "primary_sources": "An actual dated receipt and archival reference are available; verify the page before production."
+      },
+      "sources": [
+        {
+          "institution": "The National Archives",
+          "locator": "Window tax receipt, 25 March 1755, QAB 1/13/27",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/georgian-britain-age-modernity/window-tax/",
+          "kind": "primary_record",
+          "anchors": [
+            "Window tax receipt",
+            "1755"
+          ],
+          "verified_on": "2026-11-14",
+          "anchors_present": false,
+          "download_error_type": "HTTPError",
+          "download_http_status": 410,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
+        }
+      ],
+      "author": "Codex native subscription agent; editorial hypotheses, not measured audience performance",
+      "original_editorial_assessment": 98,
+      "editorial_score": 73,
+      "score": 73,
+      "source_verified": false,
+      "primary_record_available": false,
+      "benchmark": {
+        "status": "unavailable",
+        "videos": [],
+        "raw_metrics_location": "private Studio cache, never Git",
+        "error_type": null,
+        "median_views_per_day": null,
+        "ctr": null,
+        "retention": null,
+        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
+      },
+      "reused_counterfactual": false,
+      "eligible": false
+    },
+    {
+      "id": "clothing-coupons",
+      "title": "What If Buying Socks Needed Coupons as Well as Money?",
+      "era": "Britain, 1941",
+      "premise": "What if today an online clothing checkout demanded ration coupons as well as money?",
+      "benchmark_query": "Britain clothing rationing coupons 1941",
+      "tags": [
+        "history",
+        "historical comedy"
+      ],
+      "cast_gags": {
+        "crow": "Opens a clothing catalogue that turns into the archive notice.",
+        "pip": "Reaches a fictional online checkout with money but no usable coupons.",
+        "mia": "Points to the actual rule and rejects made-up coupon quantities.",
+        "rex": "Adds another imaginary checkout requirement with a false smile.",
+        "timmy": "Offers tiny paper coupons for an oversized pair of socks."
+      },
+      "criteria": {
+        "curiosity": 24,
+        "cast_comedy": 24,
+        "modern_contrast": 25,
+        "primary_sources": 0
+      },
+      "rationale": {
+        "curiosity": "The extra non-cash condition creates an immediate curiosity gap.",
+        "cast_comedy": "Checkout, sock size and coupon handling offer distinct visual consequences.",
+        "modern_contrast": "Modern online retail is contrasted with a documented wartime purchase condition.",
+        "primary_sources": "The archive reproduces a contemporary notice; no numerical allowance is inferred."
+      },
+      "sources": [
+        {
+          "institution": "The National Archives",
+          "locator": "Fair Shares: contemporary clothing-rationing notice/transcript, June 1941",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/home-front-1939-1945-part-two/fair-shares/",
+          "kind": "primary_record",
+          "anchors": [
+            "you will have to present coupons",
+            "1941"
+          ],
+          "verified_on": "2026-11-14",
+          "anchors_present": false,
+          "download_error_type": "HTTPError",
+          "download_http_status": 410,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
+        }
+      ],
+      "author": "Codex native subscription agent; editorial hypotheses, not measured audience performance",
+      "original_editorial_assessment": 97,
+      "editorial_score": 73,
+      "score": 73,
+      "source_verified": false,
+      "primary_record_available": false,
+      "benchmark": {
+        "status": "unavailable",
+        "videos": [],
+        "raw_metrics_location": "private Studio cache, never Git",
+        "error_type": null,
+        "median_views_per_day": null,
+        "ctr": null,
+        "retention": null,
+        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
+      },
+      "reused_counterfactual": false,
+      "eligible": false
+    }
+  ],
+  "winner": null,
+  "provisional_editorial_winner": "calendar-reset",
+  "benchmark_complete": false,
+  "benchmark_attempted": false,
+  "ranking_basis": "Editorial only; benchmark incomplete, no production winner",
+  "all_sources_verified": false,
+  "score_scale": [
+    0,
+    100
+  ],
+  "paid_model_calls": 0,
+  "verified_at": "2026-11-14T21:20:11.780072+00:00",
+  "input_sha256": "c72262ff825c326a5937c7449d11cb7025cf62735799fd7e14923705e14651c4"
+}
