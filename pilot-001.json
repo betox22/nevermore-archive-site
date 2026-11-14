@@ -1,7 +1,7 @@
 {
   "title": "The First Paycheck Was Beer",
   "episode": "001",
-  "snapshot_utc": "2026-11-14T17:04:22+00:00",
+  "snapshot_utc": "2026-11-14T19:58:11+00:00",
   "status": "tower_cast_dynamic_voice_rendered_for_review",
   "target_seconds": 55,
   "measured_new_segment_seconds": 55,
@@ -494,5 +494,503 @@
     "deadpan_pause_sec": 0.35,
     "tags_spoken": false,
     "neural_emotion_control": false
+  },
+  "showrunner_review": {
+    "version": "showrunner-v2",
+    "status": "pending_owner_storyboard_review",
+    "target_seconds": 58,
+    "measured_seconds": null,
+    "new_video_rendered": false,
+    "production_authorized": false,
+    "voice": "am_michael",
+    "structural_audit": "PASS",
+    "creative_approval": false,
+    "panels": [
+      {
+        "id": "v2-01",
+        "title": "THE ARCHIVE OPENS",
+        "start_sec": 0,
+        "end_sec": 3.5,
+        "era_setting": "Raven’s tower archive",
+        "action_beat": "Raven opens the giant old book on the desk in his tower archive. The cover turns and the camera enters the page, revealing the salary jar on Rex’s office desk.",
+        "characters_and_expressions": [
+          {
+            "id": "crow",
+            "role": "narrator",
+            "expression": "dry attentive curiosity"
+          }
+        ],
+        "voiceover_tag": "[NORMAL]",
+        "voiceover_text": "What if today your paycheck came in beer?",
+        "on_screen_gag": "The pay packet becomes a jar as the page opens.",
+        "because": "Raven opens the book to test an imagined present-day paycheck under an ancient ration system.",
+        "outcome": "The opened page reveals Rex preparing the beer salary.",
+        "source_ids": [
+          "S01"
+        ],
+        "phase": "hook",
+        "kind": "tower_intro",
+        "historical_claim": false
+      },
+      {
+        "id": "v2-02",
+        "title": "LIQUID SALARY",
+        "start_sec": 3.5,
+        "end_sec": 7.0,
+        "era_setting": "Present-day office/ATM imagined with Late Uruk costume accents; not a historical reconstruction",
+        "action_beat": "Rex, in a deliberately imagined modern office with Late Uruk wardrobe accents, pushes a large beer jar across the desk into Pip’s arms. Pip catches it with both hands while Rex maintains his false grin.",
+        "characters_and_expressions": [
+          {
+            "id": "rex",
+            "role": "authority",
+            "expression": "false managerial grin"
+          },
+          {
+            "id": "pip",
+            "role": "suffering_worker",
+            "expression": "exhausted panic"
+          }
+        ],
+        "voiceover_tag": "[NORMAL]",
+        "voiceover_text": "Rex pays Pip in warm beer.",
+        "on_screen_gag": "PAYDAY: LIQUID SALARY, drawn later by the program.",
+        "because": "The book’s paycheck question becomes a physical salary handoff.",
+        "outcome": "Pip now holds his entire imagined salary as a jar.",
+        "source_ids": [
+          "S01"
+        ],
+        "phase": "conflict",
+        "kind": "illustrated_scene",
+        "historical_claim": false
+      },
+      {
+        "id": "v2-03",
+        "title": "BOTH HANDS REQUIRED",
+        "start_sec": 7.0,
+        "end_sec": 11.0,
+        "era_setting": "Present-day office/ATM imagined with Late Uruk costume accents; not a historical reconstruction",
+        "action_beat": "Pip tries to reach his jacket pocket for his wallet while holding the giant jar. Both hands must return to the jar before it slips; he remains safely upright. Rex watches without helping.",
+        "characters_and_expressions": [
+          {
+            "id": "pip",
+            "role": "suffering_worker",
+            "expression": "wide-eyed strain"
+          },
+          {
+            "id": "rex",
+            "role": "authority",
+            "expression": "unmoved false smile"
+          }
+        ],
+        "voiceover_tag": "[DEADPAN]",
+        "voiceover_text": "Pip’s salary now requires both hands.",
+        "on_screen_gag": "Pip cannot reach his wallet because his wage occupies both hands.",
+        "because": "The bulky jar delivered by Rex makes normal money handling impossible.",
+        "outcome": "Pip cannot use his wallet while carrying the jar.",
+        "source_ids": [
+          "S01"
+        ],
+        "phase": "escalation",
+        "kind": "illustrated_scene",
+        "historical_claim": false
+      },
+      {
+        "id": "v2-04",
+        "title": "RENT IS STILL DUE",
+        "start_sec": 11.0,
+        "end_sec": 14.5,
+        "era_setting": "Present-day office/ATM imagined with Late Uruk costume accents; not a historical reconstruction",
+        "action_beat": "Mia holds up a blank rent notice, with its short editorial label added later. A modern landlord silhouette accepts a coin purse and refuses Pip’s offered jar; Mia raises an eyebrow.",
+        "characters_and_expressions": [
+          {
+            "id": "mia",
+            "role": "reason",
+            "expression": "sarcastic raised eyebrow"
+          },
+          {
+            "id": "pip",
+            "role": "suffering_worker",
+            "expression": "deflated exhaustion"
+          }
+        ],
+        "voiceover_tag": "[FAST]",
+        "voiceover_text": "Mia checks the rent. The landlord prefers money.",
+        "on_screen_gag": "RENT DUE overlay; the imagined modern landlord pushes the jar back.",
+        "because": "Pip’s inaccessible wallet brings Mia to the bill that actually needs payment.",
+        "outcome": "The imagined landlord rejects the beer jar as rent.",
+        "source_ids": [
+          "S01"
+        ],
+        "phase": "escalation",
+        "kind": "illustrated_scene",
+        "historical_claim": false
+      },
+      {
+        "id": "v2-05",
+        "title": "TERRIBLE SAVINGS",
+        "start_sec": 14.5,
+        "end_sec": 18.5,
+        "era_setting": "Present-day office/ATM imagined with Late Uruk costume accents; not a historical reconstruction",
+        "action_beat": "Mia tilts the rejected jar toward Pip, frowns at its imagined warmth and points at his empty savings purse. Pip looks from the jar to the purse; no expiry number or clock appears.",
+        "characters_and_expressions": [
+          {
+            "id": "mia",
+            "role": "reason",
+            "expression": "dry disbelief"
+          },
+          {
+            "id": "pip",
+            "role": "suffering_worker",
+            "expression": "anxious realization"
+          }
+        ],
+        "voiceover_tag": "[DEADPAN]",
+        "voiceover_text": "Mia eyes the warm jar. Terrible savings account.",
+        "on_screen_gag": "The savings purse is empty while both hands hold the wage.",
+        "because": "The rent rejection forces Mia to ask whether this salary works as modern savings.",
+        "outcome": "Mia demands the real evidence behind the beer-pay premise.",
+        "source_ids": [
+          "S01"
+        ],
+        "phase": "escalation",
+        "kind": "illustrated_scene",
+        "historical_claim": false
+      },
+      {
+        "id": "v2-06",
+        "title": "CHECK THE RECORD",
+        "start_sec": 18.5,
+        "end_sec": 22.5,
+        "era_setting": "Verified Late Uruk artifact, ca. 3100–3000 BCE",
+        "action_beat": "The actual licensed photograph of British Museum tablet ME 140855 fills the screen. A separate program-drawn box highlights the ration record. Raven’s PiP is hidden; no new inscription is invented.",
+        "characters_and_expressions": [],
+        "voiceover_tag": "[NORMAL]",
+        "voiceover_text": "The British Museum has a real beer-ration record.",
+        "on_screen_gag": "The official-looking office paperwork is replaced by a real clay record.",
+        "because": "Mia’s objection sends the narration to the surviving record rather than an invented expiry claim.",
+        "outcome": "The real tablet is now visible as evidence of beer rations.",
+        "source_ids": [
+          "S01"
+        ],
+        "phase": "evidence",
+        "kind": "evidence_macro",
+        "historical_claim": true
+      },
+      {
+        "id": "v2-07",
+        "title": "RATIONS, NOT PAYROLL",
+        "start_sec": 22.5,
+        "end_sec": 26.0,
+        "era_setting": "Verified Late Uruk artifact, ca. 3100–3000 BCE",
+        "action_beat": "On a second crop of the same real photograph, a program-drawn highlight isolates a documented beer-jar sign. A short caption reads BEER RATIONS outside the artifact; Raven remains hidden.",
+        "characters_and_expressions": [],
+        "voiceover_tag": "[NORMAL]",
+        "voiceover_text": "Workers received beer rations. Not a modern paycheck.",
+        "on_screen_gag": "One modern payroll analogy meets a specific ancient ration record.",
+        "because": "The real tablet lets the narrator distinguish recorded rations from a modern cash wage.",
+        "outcome": "The distinction between ration evidence and a modern paycheck is established.",
+        "source_ids": [
+          "S01"
+        ],
+        "phase": "evidence",
+        "kind": "evidence_macro",
+        "historical_claim": true
+      },
+      {
+        "id": "v2-08",
+        "title": "REX FINDS A LOOPHOLE",
+        "start_sec": 26.0,
+        "end_sec": 29.5,
+        "era_setting": "Present-day office/ATM imagined with Late Uruk costume accents; not a historical reconstruction",
+        "action_beat": "Back in the explicitly imagined office, Pip reads a reproduction displayed without invented writing. Rex peers over his shoulder, spots the ration idea and gestures triumphantly toward the remaining jars.",
+        "characters_and_expressions": [
+          {
+            "id": "pip",
+            "role": "suffering_worker",
+            "expression": "worried concentration"
+          },
+          {
+            "id": "rex",
+            "role": "authority",
+            "expression": "bright false grin"
+          }
+        ],
+        "voiceover_tag": "[NORMAL]",
+        "voiceover_text": "Pip reads the record. Rex spots a loophole.",
+        "on_screen_gag": "Rex treats the modern analogy as an excuse to supply even more jars.",
+        "because": "The ration evidence becomes Rex’s fictional managerial excuse to expand liquid payroll.",
+        "outcome": "Rex calls for an increase in jar-based payroll.",
+        "source_ids": [
+          "S01"
+        ],
+        "phase": "escalation",
+        "kind": "illustrated_scene",
+        "historical_claim": false
+      },
+      {
+        "id": "v2-09",
+        "title": "ENTER TIMMY",
+        "start_sec": 29.5,
+        "end_sec": 33.0,
+        "era_setting": "Present-day office/ATM imagined with Late Uruk costume accents; not a historical reconstruction",
+        "action_beat": "Timmy eagerly raises his hand and rolls a small handcart toward Rex’s jar shelf. Rex points him toward the jars. Timmy does not drink and handles only a safe manageable load.",
+        "characters_and_expressions": [
+          {
+            "id": "timmy",
+            "role": "chaos",
+            "expression": "mischievous eagerness"
+          },
+          {
+            "id": "rex",
+            "role": "authority",
+            "expression": "approving false grin"
+          }
+        ],
+        "voiceover_tag": "[NORMAL]",
+        "voiceover_text": "Timmy volunteers to improve payroll.",
+        "on_screen_gag": "An eager apprentice takes a terrible management idea literally.",
+        "because": "Rex’s request gives Timmy a chance to take the system to an absurd extreme.",
+        "outcome": "Timmy starts moving a handcart of empty sealed jars into the office.",
+        "source_ids": [
+          "S01"
+        ],
+        "phase": "escalation",
+        "kind": "illustrated_scene",
+        "historical_claim": false
+      },
+      {
+        "id": "v2-10",
+        "title": "ZERO DESK SPACE",
+        "start_sec": 33.0,
+        "end_sec": 36.5,
+        "era_setting": "Present-day office/ATM imagined with Late Uruk costume accents; not a historical reconstruction",
+        "action_beat": "Timmy brings the handcart piled with empty sealed jars to Pip’s desk and arranges them over every work surface. Pip tries to open a ledger but the jars occupy its space.",
+        "characters_and_expressions": [
+          {
+            "id": "timmy",
+            "role": "chaos",
+            "expression": "triumphant cheeky grin"
+          },
+          {
+            "id": "pip",
+            "role": "suffering_worker",
+            "expression": "exhausted disbelief"
+          }
+        ],
+        "voiceover_tag": "[FAST]",
+        "voiceover_text": "More jars. Less desk. No actual work.",
+        "on_screen_gag": "Jars occupy every place where work could happen.",
+        "because": "Timmy’s literal payroll improvement fills the office with jars instead of usable wages.",
+        "outcome": "Jars block Pip’s work surface and the ledger stays closed.",
+        "source_ids": [
+          "S01"
+        ],
+        "phase": "escalation",
+        "kind": "illustrated_scene",
+        "historical_claim": false
+      },
+      {
+        "id": "v2-11",
+        "title": "REX COUNTS SUCCESS",
+        "start_sec": 36.5,
+        "end_sec": 40.0,
+        "era_setting": "Present-day office/ATM imagined with Late Uruk costume accents; not a historical reconstruction",
+        "action_beat": "Rex counts the jars with an exaggerated satisfied grin while Pip, blocked by the pile, holds a closed work ledger. Timmy proudly presents the useless stack.",
+        "characters_and_expressions": [
+          {
+            "id": "rex",
+            "role": "authority",
+            "expression": "false satisfied grin"
+          },
+          {
+            "id": "pip",
+            "role": "suffering_worker",
+            "expression": "weary resignation"
+          },
+          {
+            "id": "timmy",
+            "role": "chaos",
+            "expression": "unearned triumph"
+          }
+        ],
+        "voiceover_tag": "[DEADPAN]",
+        "voiceover_text": "Rex counts the jars as productivity.",
+        "on_screen_gag": "Rex celebrates the count while no work happens.",
+        "because": "Blocked work does not stop Rex from treating the jar pile as a success metric.",
+        "outcome": "The office is full of jars but the rent remains unpaid.",
+        "source_ids": [
+          "S01"
+        ],
+        "phase": "escalation",
+        "kind": "illustrated_scene",
+        "historical_claim": false
+      },
+      {
+        "id": "v2-12",
+        "title": "FIND A DEPOSIT SLOT",
+        "start_sec": 40.0,
+        "end_sec": 43.5,
+        "era_setting": "Present-day office/ATM imagined with Late Uruk costume accents; not a historical reconstruction",
+        "action_beat": "Mia taps the still-unpaid rent notice and points toward an obviously modern cash machine at the office entrance. Pip lifts one manageable jar and heads toward it.",
+        "characters_and_expressions": [
+          {
+            "id": "mia",
+            "role": "reason",
+            "expression": "pointed sarcasm"
+          },
+          {
+            "id": "pip",
+            "role": "suffering_worker",
+            "expression": "desperate hope"
+          }
+        ],
+        "voiceover_tag": "[FAST]",
+        "voiceover_text": "Mia points to rent. Pip finds a cash machine.",
+        "on_screen_gag": "The unpaid bill sends the liquid wage to an unsuitable modern machine.",
+        "because": "Rex’s jar count leaves the original rent problem unresolved.",
+        "outcome": "Pip approaches a modern cash machine carrying his beer salary.",
+        "source_ids": [
+          "S01"
+        ],
+        "phase": "escalation",
+        "kind": "illustrated_scene",
+        "historical_claim": false
+      },
+      {
+        "id": "v2-13",
+        "title": "DEPOSIT DECLINED",
+        "start_sec": 43.5,
+        "end_sec": 47.5,
+        "era_setting": "Present-day office/ATM imagined with Late Uruk costume accents; not a historical reconstruction",
+        "action_beat": "Pip gently tilts the jar toward the cash machine’s banknote slot. A small spill runs down the exterior; the machine’s closed slot refuses it. Mia watches with stunned disbelief. No generated lettering appears.",
+        "characters_and_expressions": [
+          {
+            "id": "pip",
+            "role": "suffering_worker",
+            "expression": "earnest panic"
+          },
+          {
+            "id": "mia",
+            "role": "reason",
+            "expression": "stunned disbelief"
+          }
+        ],
+        "voiceover_tag": "[NORMAL]",
+        "voiceover_text": "He tries depositing his salary. The slot declines.",
+        "on_screen_gag": "NO LIQUID DEPOSITS label is drawn later; the spill stays outside the machine.",
+        "because": "Pip tries the only modern banking tool available to solve the rent problem.",
+        "outcome": "The cash machine refuses liquid wages.",
+        "source_ids": [
+          "S01"
+        ],
+        "phase": "payoff",
+        "kind": "illustrated_scene",
+        "historical_claim": false
+      },
+      {
+        "id": "v2-14",
+        "title": "LIQUID ASSETS",
+        "start_sec": 47.5,
+        "end_sec": 51.0,
+        "era_setting": "Present-day office/ATM imagined with Late Uruk costume accents; not a historical reconstruction",
+        "action_beat": "Pip stops pouring and stares at the refused deposit slot while holding the nearly upright jar. The modern machine remains closed and Mia slowly turns toward him.",
+        "characters_and_expressions": [
+          {
+            "id": "pip",
+            "role": "suffering_worker",
+            "expression": "blank defeated stare"
+          },
+          {
+            "id": "mia",
+            "role": "reason",
+            "expression": "flat sarcastic stare"
+          }
+        ],
+        "voiceover_tag": "[DEADPAN]",
+        "voiceover_text": "Liquid assets. Solid rejection.",
+        "on_screen_gag": "The liquid-assets phrase resolves literally at the closed banknote slot.",
+        "because": "The rejected deposit turns the salary metaphor into a visible physical punchline.",
+        "outcome": "Mia has seen enough of the failed liquid deposit.",
+        "source_ids": [
+          "S01"
+        ],
+        "phase": "payoff",
+        "kind": "illustrated_scene",
+        "historical_claim": false
+      },
+      {
+        "id": "v2-15",
+        "title": "DUAL FACEPALM",
+        "start_sec": 51.0,
+        "end_sec": 54.5,
+        "era_setting": "Present-day office/ATM imagined with Late Uruk costume accents; not a historical reconstruction",
+        "action_beat": "Mia covers her forehead with one hand beside the refused cash machine. A small separate Raven PiP performs his registered facepalm. Rex slides another jar toward Pip, maintaining the same false smile.",
+        "characters_and_expressions": [
+          {
+            "id": "mia",
+            "role": "reason",
+            "expression": "facepalm disbelief"
+          },
+          {
+            "id": "crow",
+            "role": "narrator",
+            "expression": "facepalm"
+          },
+          {
+            "id": "rex",
+            "role": "authority",
+            "expression": "unchanged false grin"
+          },
+          {
+            "id": "pip",
+            "role": "suffering_worker",
+            "expression": "exhausted defeat"
+          }
+        ],
+        "voiceover_tag": "[FAST]",
+        "voiceover_text": "Two facepalms. Rex offers overdraft.",
+        "on_screen_gag": "Rex offers another jar as the imagined overdraft.",
+        "because": "The failed deposit makes Mia and Raven react while Rex doubles down on his own rule.",
+        "outcome": "The absurd experiment ends and Raven turns to its real source record.",
+        "source_ids": [
+          "S01"
+        ],
+        "phase": "payoff",
+        "kind": "illustrated_scene",
+        "historical_claim": false
+      },
+      {
+        "id": "v2-16",
+        "title": "THE ARCHIVE RECEIPT",
+        "start_sec": 54.5,
+        "end_sec": 58.0,
+        "era_setting": "Raven’s archive closing card",
+        "action_beat": "A clean program-drawn archive card shows the verified British Museum reference, its date and object identifiers. Raven appears as a small smug presenter; all bibliographic text is a separate graphic layer.",
+        "characters_and_expressions": [
+          {
+            "id": "crow",
+            "role": "narrator",
+            "expression": "smug"
+          }
+        ],
+        "voiceover_tag": "[NORMAL]",
+        "voiceover_text": "Of course. There’s paperwork. Full sources below.",
+        "on_screen_gag": "The imaginary payroll disaster ends with an actual documentary receipt.",
+        "because": "Raven closes the experiment by showing exactly which record supports the historical premise.",
+        "outcome": "The viewer receives the verified citation and the full-source link.",
+        "source_ids": [
+          "S01"
+        ],
+        "phase": "bibliography",
+        "kind": "archive_card",
+        "historical_claim": false,
+        "bibliography_lines": [
+          "British Museum · Beer-ration tablet",
+          "Late Uruk · ca. 3100–3000 BCE",
+          "ME 140855 / 1989,0130.4",
+          "Full citations in the archive link below"
+        ]
+      }
+    ]
   }
 }
