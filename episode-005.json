@@ -1,0 +1,266 @@
+{
+  "schema": "nevermore-public-episode-1",
+  "episode": "005",
+  "title": "What If Your Calendar Skipped Eleven Dates Tonight?",
+  "status": "rendered_for_web_review",
+  "owner_approved": false,
+  "youtube_uploaded": false,
+  "voice": "am_michael",
+  "visual_policy": "uniform-2d-v1",
+  "seconds": 540,
+  "production_sha256": "7a9ee6a1acc12708fa854c85342f9c435f318064e0d875c335cc5418f5bb37da",
+  "cloud_runtime": "google-colab-cpu",
+  "validation_passed": true,
+  "all_shots_reviewed": true,
+  "videos": {
+    "landscape": {
+      "url": "advances/calendar-reset-005/landscape.mp4",
+      "sha256": "189461a9c666f65c76839897ef3f24a095452fd8591c789451a147fd9415eeb9",
+      "bytes": 87667022,
+      "probe": {
+        "size": [
+          1920,
+          1080
+        ],
+        "fps": "24/1",
+        "frames": 12960,
+        "seconds": 540.032,
+        "full_decode": "PASS"
+      }
+    },
+    "vertical": {
+      "url": "advances/calendar-reset-005/vertical.mp4",
+      "sha256": "f0bb7453f4fb269d8e032ae81cc2c30d685a14c9736ca32ea122920d5e3925b3",
+      "bytes": 84807817,
+      "probe": {
+        "size": [
+          1080,
+          1920
+        ],
+        "fps": "24/1",
+        "frames": 12960,
+        "seconds": 540.032,
+        "full_decode": "PASS"
+      }
+    }
+  },
+  "images": {
+    "contact-sheet": {
+      "url": "advances/calendar-reset-005/contact-sheet.jpg",
+      "sha256": "45cf605970da94743de26eef08d9a7b1ce134bad7edd1025d73a0650a83df3a3"
+    },
+    "landscape-poster": {
+      "url": "advances/calendar-reset-005/landscape-poster.jpg",
+      "sha256": "a64c0f2f435214fa25aafbf377da9cfba60053dfb54d7edf9386985f87ea6016"
+    },
+    "vertical-poster": {
+      "url": "advances/calendar-reset-005/vertical-poster.jpg",
+      "sha256": "95a59ecd5f3514b74a0842e0a87ec433d60b3b074ab0ec1edce285be641d2da4"
+    }
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "institution": "The National Archives / legislation.gov.uk",
+      "publication": "Calendar (New Style) Act 1750, section 1 (enacted text)",
+      "url": "https://www.legislation.gov.uk/apgb/Geo2/24/23/section/1."
+    },
+    {
+      "id": "S06",
+      "institution": "Government of Ireland / electronic Irish Statute Book",
+      "publication": "Calendar (New Style) Act 1750, section 6 (enacted text)",
+      "url": "https://www.irishstatutebook.ie/eli/1750/act/23/section/6/enacted/en/html"
+    }
+  ],
+  "acts": [
+    {
+      "id": 1,
+      "start_sec": 0.0,
+      "end_sec": 77.5,
+      "narration": [
+        "What if payday lost eleven dates?",
+        "Imagine our office importing Britain's calendar reset.",
+        "Pip opens his planner. Brace for small disappointments.",
+        "Yesterday: September second. Today: the fourteenth.",
+        "Eleven labels gone. Just one normal night's sleep.",
+        "Rex arrives. He smells a chance for profit.",
+        "If those dates disappeared, surely Pip's wages disappeared too?",
+        "He hands over the check, all bedside charm.",
+        "The paycheck is now fun-sized.",
+        "Dates vanish only when Rex has to pay.",
+        "When he's collecting rent, the very same calendar accelerates.",
+        "The fourteenth has arrived. Rex would like cash now.",
+        "Pip's pockets: three coins and some old lint.",
+        "Rex takes the coins. Despair needs a deposit.",
+        "Mia watches. Her face starts to look dangerous.",
+        "Britain, seventeen fifty-two: eleven date labels omitted.",
+        "Rex counters that company policy outranks reading the statute.",
+        "He attaches another late fee to Pip's delivery crate.",
+        "The crate had time left. Rex deletes that.",
+        "Timmy spots the flaw every respectable apprentice would exploit.",
+        "Dates gone? Timmy thinks school should vanish too.",
+        "Mia opens the law. It seems Rex-proof."
+      ]
+    },
+    {
+      "id": 2,
+      "start_sec": 77.5,
+      "end_sec": 232.875,
+      "narration": [
+        "Timmy approaches the exit with the confidence of graduation.",
+        "Rex catches his collar before the ceremony can begin.",
+        "Time travel: yet one more perk for management.",
+        "Timmy gets a broom and eleven fake shifts.",
+        "Forced back to work, he improves the boss's system.",
+        "If date labels are optional, why preserve next week?",
+        "His sponge sends the calendar straight toward Halloween.",
+        "Rex likes this. Pip gets an October bill.",
+        "The stapler drops. His brain still files this.",
+        "Rex also announces that lunch occurred on deleted time.",
+        "Pip has apparently eaten retrospectively.",
+        "He rushes the freight cart, desperate to avoid another fee.",
+        "Timmy's sponge trail introduces the cart to sideways movement.",
+        "The boxes discover gravity directly above Pip's left boot.",
+        "Pip hops. History hurts right here and now.",
+        "Rex steps over him to record the resulting delay.",
+        "Rex saves cash by making other people panic.",
+        "Timmy does a dead-on copy of the boss.",
+        "Rex turns. The copy learns to stand straight.",
+        "Another fee. Rex thinks flattery ought to pay.",
+        "Timmy objects: how can anyone owe a nonexistent week?",
+        "Rex taps his watch, which provides no useful testimony.",
+        "Mia reads the law behind this whole mess.",
+        "She finds a clause that looks suspiciously Rex-shaped.",
+        "Rex sees her grin and claims the book.",
+        "Mia keeps her place. The book is not surrendering.",
+        "First, she asks Rex to explain his logic.",
+        "He claims Parliament erased eleven actual days.",
+        "So, he thinks, the firm can erase debts.",
+        "Pip looks up, hoping Mia has brought better mathematics.",
+        "Timmy leans on his broom. What about him?",
+        "Rex stamps the new policy with entirely unearned authority.",
+        "The ink hits his cuff. Even stationery has objections.",
+        "He points Pip toward the remaining mountain of boxes.",
+        "Pip tries lifting one. The deadline grows heavier somehow.",
+        "Mia steps between the worker and the boss's revelation.",
+        "Did the sun, she asks, skip eleven sunrises overnight?",
+        "Rex consults the uncooperative window.",
+        "Moving paper cannot fast-forward the planet or this afternoon.",
+        "Rex thinks the stars should serve his pay clerk.",
+        "Mia opens section one of the actual calendar statute.",
+        "Parliament changed date labels. It did not remove lived time.",
+        "September second. Next day, the fourteenth.",
+        "She turns to section six. Here comes the expensive part."
+      ]
+    },
+    {
+      "id": 3,
+      "start_sec": 232.875,
+      "end_sec": 384.4166666666667,
+      "narration": [
+        "The year's new beginning? January first.",
+        "Eleven dates omitted. Once, that September.",
+        "Time went on. The hourglass got no promotion.",
+        "Rex insists the numbers still justify his early demands.",
+        "That is precisely the sort of problem section six addressed.",
+        "Those existing rent and payment terms kept natural time.",
+        "Their deadlines ran as if nothing changed.",
+        "Existing lease terms did not shrink with the printed calendar.",
+        "The red pen stops negotiating.",
+        "Pip's wallet finally receives some encouraging news from history.",
+        "Listed ages and service terms kept natural time.",
+        "Rex can't make extra work from erased labels.",
+        "Timmy asks whether this rescues his attempted school holiday.",
+        "In our fake office, Mia uses common sense.",
+        "School still exists. A tragedy.",
+        "Rex claims offices like his get special treatment.",
+        "Mia asks whose rulebook started this mess.",
+        "You can't take skipped dates and ditch safeguards.",
+        "His forehead begins calculating the cost of that observation.",
+        "Mia collects the fees Rex dreamed up from dates.",
+        "The clock ticks on, without asking the board.",
+        "Pip approaches with the reduced paycheck and the injured boot.",
+        "If no working time vanished, where did his money go?",
+        "Rex discovers the floor's fascinating grain.",
+        "Mia points back to the protection of existing obligations.",
+        "The agreed delivery date did not jump forward.",
+        "Down goes the crate. Pip's boot welcomes this.",
+        "Next: Rex's October bill. Timmy's sponge aged badly.",
+        "Protected rent doesn't speed up with new labels.",
+        "Mia tears the fake bill. Proof turns festive.",
+        "Rex tries saving the scraps before they reach his inkwell.",
+        "His elbow starts an audit of liquid assets.",
+        "The ink audits every column of his calendar deductions.",
+        "Timmy likes books that look like real life.",
+        "Rex reaches for the blotter and meets the forgotten sponge.",
+        "He lands in the chair. The boss goes mobile.",
+        "The chair spins past Pip. A boss on wheels.",
+        "Pip takes his coins back from Rex's tour.",
+        "Rex hits the calendar. It declines to meet.",
+        "Halloween becomes a management hat.",
+        "Pip grabs the lunch Rex stole through dates.",
+        "The recovered sandwich tastes strongly of surviving one's supervisor.",
+        "Mia brings a check. Rex supplies his name.",
+        "The hat lends the scene one last scrap of grace."
+      ]
+    },
+    {
+      "id": 4,
+      "start_sec": 384.4166666666667,
+      "end_sec": 462.6666666666667,
+      "narration": [
+        "His disappearing-payday scheme ends with a very real check.",
+        "Off comes the hat. The crowd stays. Bad luck.",
+        "He flees to save what pride he has left.",
+        "The door refuses a dramatic exit.",
+        "Rex sets the clock. Who says he lacks power?",
+        "The spring answers by resigning from its position immediately.",
+        "Mia puts the real dates back in place.",
+        "The labels skip; the people never skipped living between sunsets.",
+        "Pip mends his boot. Jargon won't help here.",
+        "Back to sums, Timmy has cause for doubt.",
+        "He wonders whether skipped labels could at least accelerate adulthood.",
+        "Those listed legal ages still used natural days.",
+        "He celebrates another doomed shortcut by balancing the broom.",
+        "Mia catches it before Pip needs a second protective boot.",
+        "The delivery cart is loaded at an ordinary human pace.",
+        "No fake due date should launch those crates.",
+        "Rex peeks through blinds. Has sane work failed?",
+        "His broken clock remains impressively consistent.",
+        "Time goes on. The clock has quit its job.",
+        "Rex realizes he cannot fire the rotation of Earth.",
+        "He opens a clean ledger and restores the actual deadlines.",
+        "The books track time. They don't try to fake it."
+      ]
+    },
+    {
+      "id": 5,
+      "start_sec": 462.6666666666667,
+      "end_sec": 540.0,
+      "narration": [
+        "Next day, Pip owes no extra month's rent.",
+        "Rex brings a new clock, not a new scheme.",
+        "He hangs it beside the calendar, allowing both to coexist.",
+        "Pip pays the agreed rent when it is actually due.",
+        "Rex signs the receipt. The stamp remains under supervision.",
+        "Timmy gives Mia his sums. No dates erased.",
+        "She adds a star. Apparently actual work still counts.",
+        "Pip signs for the goods on the due date.",
+        "No lived days vanished, in law or our farce.",
+        "Listed terms kept natural time; only labels changed.",
+        "Wages, deadlines, sanity. The office gets them back.",
+        "Of course, Rex still searches for discounts inside the calendar.",
+        "He notices the historical change to New Year's beginning.",
+        "Two New Years. Surely that means two fees?",
+        "Mia clears her throat. History has retained legal counsel.",
+        "Rex closes the planner. Innocently.",
+        "Pip locks up the check before Rex thinks again.",
+        "Timmy sweeps up the dust from the calendar revolution.",
+        "The new clock ticks through an entirely ordinary afternoon.",
+        "Labels change. Your life is not a spare page.",
+        "Try erasing payday again, Rex. We kept the paperwork.",
+        "Labels jump. Greed stays punctual."
+      ]
+    }
+  ]
+}
