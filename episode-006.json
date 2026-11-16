@@ -1,0 +1,381 @@
+{
+  "schema": "nevermore-public-short-1",
+  "episode": "006",
+  "title": "GTA: The Bug They Kept",
+  "seconds": 75,
+  "voice": "am_michael",
+  "voice_speed": 1.12,
+  "visual_policy": "uniform-2d-v1",
+  "presentation_profile": "clean-comedy-v1",
+  "status": "rendered_for_web_review",
+  "owner_approved": false,
+  "youtube_uploaded": false,
+  "upload_enabled": false,
+  "validation_passed": true,
+  "cloud_runtime": "google-colab-cpu",
+  "production_sha256": "ead6642e782ee281610565708888f767fa9983d5588f0bf803c97b397148b490",
+  "videos": {
+    "landscape": {
+      "url": "advances/gta-006-clean/landscape.mp4",
+      "sha256": "4004dc5d2c59bf4a17a87bc6273d614b2b701d8bbbb730117478382cccbc66ec",
+      "bytes": 31947529,
+      "probe": {
+        "size": [
+          1920,
+          1080
+        ],
+        "fps": "24/1",
+        "frames": 1800,
+        "seconds": 75.0,
+        "full_decode": "PASS"
+      }
+    },
+    "vertical": {
+      "url": "advances/gta-006-clean/vertical.mp4",
+      "sha256": "f2cd25907984b7b3d6bda5eeba71e27c6fe6a3d60034531508e1f81064fa184f",
+      "bytes": 30362502,
+      "probe": {
+        "size": [
+          1080,
+          1920
+        ],
+        "fps": "24/1",
+        "frames": 1800,
+        "seconds": 75.0,
+        "full_decode": "PASS"
+      }
+    }
+  },
+  "images": {
+    "landscape-poster": {
+      "url": "advances/gta-006-clean/landscape-poster.jpg",
+      "sha256": "5ba8b01fa9bf28094623f9006337028a3f8fa1700fdfd6db093b8bf3e2314dcd"
+    },
+    "vertical-poster": {
+      "url": "advances/gta-006-clean/vertical-poster.jpg",
+      "sha256": "7e68d7ab845f0a7f54c62acb13bbcdab7757426a76069b1385669a0bcb53af5b"
+    },
+    "contact-sheet": {
+      "url": "advances/gta-006-clean/contact-sheet.jpg",
+      "sha256": "431d7b7162bfe701ad231a5ce167bdf74886ac639692df991504fd36ee133eb4"
+    }
+  },
+  "all_shots_reviewed": true,
+  "review_notes": [
+    "Landscape is the primary pilot. Portrait is an additional crop test: several multi-character panels lose faces at the frame edge and need shot-specific reframing.",
+    "The opening briefly includes the large tower Raven and the corner presenter. Owner creative approval is pending."
+  ],
+  "music_ducking": {
+    "target_below_voice_db": 22,
+    "maximum_under_voiced_frames_db": -22.499998092651367,
+    "voiced_frames": 1357,
+    "pcm_headroom_db": 0.5,
+    "detector": "24fps RMS; anticipatory attack and bounded release"
+  },
+  "sound_credits": [
+    {
+      "title": "Keyboard typing",
+      "author": "Mixkit",
+      "source_url": "https://mixkit.co/free-sound-effects/keyboard/",
+      "license": "Mixkit SFX Free License",
+      "changes": "trimmed, level adjusted, mixed under narration; music ducked"
+    },
+    {
+      "title": "Police siren",
+      "author": "Mixkit",
+      "source_url": "https://mixkit.co/free-sound-effects/siren/",
+      "license": "Mixkit SFX Free License",
+      "changes": "trimmed, level adjusted, mixed under narration; music ducked"
+    },
+    {
+      "title": "Toy car crash",
+      "author": "Mixkit",
+      "source_url": "https://mixkit.co/free-sound-effects/car/",
+      "license": "Mixkit SFX Free License",
+      "changes": "trimmed, level adjusted, mixed under narration; music ducked"
+    },
+    {
+      "title": "Fast whoosh transition",
+      "author": "Mixkit",
+      "source_url": "https://mixkit.co/free-sound-effects/whoosh/",
+      "license": "Mixkit SFX Free License",
+      "changes": "trimmed, level adjusted, mixed under narration; music ducked"
+    },
+    {
+      "title": "Cash register cha-ching",
+      "author": "Myoung8 / SoundBible source",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cash_register.ogg",
+      "license": "Public domain (PD-self)",
+      "changes": "trimmed, level adjusted, mixed under narration; music ducked"
+    },
+    {
+      "title": "Gimme that Groove!",
+      "author": "Michael Ramir C. / Mixkit",
+      "source_url": "https://mixkit.co/free-stock-music/funk/",
+      "license": "Mixkit Stock Music Free License",
+      "changes": "trimmed, level adjusted, mixed under narration; music ducked"
+    },
+    {
+      "title": "Car Brake Crash",
+      "author": "Cam Martinez",
+      "source_url": "https://soundbible.com/1757-Car-Brake-Crash.html",
+      "license": "CC BY 3.0",
+      "changes": "trimmed, level adjusted, mixed under narration; music ducked"
+    }
+  ],
+  "sources": [
+    {
+      "id": "D01",
+      "institution": "DMA Design",
+      "publication": "Race'n'Chase Game Design v1.05, 22 March 1995, sections 1 and 4",
+      "url": "https://www.gamedevs.org/uploads/grand-theft-auto.pdf"
+    },
+    {
+      "id": "P01",
+      "institution": "Tristan Donovan / Game Developer",
+      "publication": "The Replay Interviews: Gary Penn, 31 January 2011; direct developer testimony",
+      "url": "https://www.gamedeveloper.com/design/the-replay-interviews-gary-penn"
+    },
+    {
+      "id": "H01",
+      "institution": "UK Parliament, Hansard",
+      "publication": "HL Deb 20 May 1997, vol 580, c258: Grand Theft Auto, Computer Game",
+      "url": "https://api.parliament.uk/historic-hansard/lords/1997/may/20/grand-theft-auto-computer-game"
+    },
+    {
+      "id": "M01",
+      "institution": "Time Extension; interviews with David Jones and Mike Dailly",
+      "publication": "The Making Of Grand Theft Auto, 28 November 2022, marketing recollections",
+      "url": "https://www.timeextension.com/features/the-making-of-grand-theft-auto-the-start-of-the-370-million-selling-gta-franchise"
+    }
+  ],
+  "caption_alignment": "whole measured phrase with character-weighted four-word groups; not forced word alignment",
+  "panels": [
+    {
+      "id": "g01",
+      "title": "Raven opens the giant book",
+      "start_sec": 0,
+      "end_sec": 3.5,
+      "voiceover_text": "Grand Theft Auto began with a problem worth keeping.",
+      "action_beat": "Raven opens the giant book; the page reveals the chaotic development story.",
+      "source_ids": [
+        "D01"
+      ]
+    },
+    {
+      "id": "g02",
+      "title": "Pip types anxiously at a blank CRT as his small driving project starts.",
+      "start_sec": 3.5,
+      "end_sec": 7.166666666666666,
+      "voiceover_text": "In Dundee, DMA Design builds Race and Chase.",
+      "action_beat": "Pip types anxiously at a blank CRT as his small driving project starts.",
+      "source_ids": [
+        "D01"
+      ]
+    },
+    {
+      "id": "g03",
+      "title": "Mia points to two cartoon cars while Pip tries to keep the plan under contr",
+      "start_sec": 7.166666666666666,
+      "end_sec": 11.166666666666666,
+      "voiceover_text": "The design already promised racing, stealing cars and crashes.",
+      "action_beat": "Mia points to two cartoon cars while Pip tries to keep the plan under control.",
+      "source_ids": [
+        "D01"
+      ]
+    },
+    {
+      "id": "g04",
+      "title": "Pip recoils as the blank CRT pitches sideways",
+      "start_sec": 11.166666666666666,
+      "end_sec": 15.166666666666666,
+      "voiceover_text": "But Gary Penn remembered terrible handling and endless crashes.",
+      "action_beat": "Pip recoils as the blank CRT pitches sideways; his build fails.",
+      "source_ids": [
+        "P01"
+      ]
+    },
+    {
+      "id": "g05",
+      "title": "Timmy hits a huge blank key and Pip cringes at the result.",
+      "start_sec": 15.166666666666666,
+      "end_sec": 19.041666666666664,
+      "voiceover_text": "Then, Penn recalled, a suspected bug changed the chase.",
+      "action_beat": "Timmy hits a huge blank key and Pip cringes at the result.",
+      "source_ids": [
+        "P01"
+      ]
+    },
+    {
+      "id": "g06",
+      "title": "A cartoon police car closes on the civilian hatchback and shoves it sideway",
+      "start_sec": 19.041666666666664,
+      "end_sec": 23.041666666666664,
+      "voiceover_text": "Police tried driving THROUGH players. Subtle customer service.",
+      "action_beat": "A cartoon police car closes on the civilian hatchback and shoves it sideways.",
+      "source_ids": [
+        "P01"
+      ]
+    },
+    {
+      "id": "g07",
+      "title": "Pip shields his face while Timmy celebrates the out-of-control test.",
+      "start_sec": 23.041666666666664,
+      "end_sec": 26.249999999999996,
+      "voiceover_text": "Pip wants control. Timmy prefers chaos.",
+      "action_beat": "Pip shields his face while Timmy celebrates the out-of-control test.",
+      "source_ids": [
+        "P01"
+      ]
+    },
+    {
+      "id": "g08",
+      "title": "The cartoon cars bump, Timmy laughs and Pip discovers the joke works.",
+      "start_sec": 26.249999999999996,
+      "end_sec": 30.249999999999996,
+      "voiceover_text": "The cars ram. The testers laugh. Suddenly, trouble works.",
+      "action_beat": "The cartoon cars bump, Timmy laughs and Pip discovers the joke works.",
+      "source_ids": [
+        "P01"
+      ]
+    },
+    {
+      "id": "g09",
+      "title": "Pip and Mia celebrate the unexpectedly entertaining chase.",
+      "start_sec": 30.249999999999996,
+      "end_sec": 34.20833333333333,
+      "voiceover_text": "The team kept the aggression. Fun beat proper behavior.",
+      "action_beat": "Pip and Mia celebrate the unexpectedly entertaining chase.",
+      "source_ids": [
+        "P01"
+      ]
+    },
+    {
+      "id": "g10",
+      "title": "Rex holds a blank game box, panicking that nobody is paying attention.",
+      "start_sec": 34.20833333333333,
+      "end_sec": 37.45833333333333,
+      "voiceover_text": "By launch, this chaos needs a publicity miracle.",
+      "action_beat": "Rex holds a blank game box, panicking that nobody is paying attention.",
+      "source_ids": [
+        "M01"
+      ]
+    },
+    {
+      "id": "g11",
+      "title": "Rex calls a publicist on an old telephone with a showman gesture.",
+      "start_sec": 37.45833333333333,
+      "end_sec": 40.99999999999999,
+      "voiceover_text": "How do you sell chaos? Rex phones a professional.",
+      "action_beat": "Rex calls a publicist on an old telephone with a showman gesture.",
+      "source_ids": [
+        "M01"
+      ]
+    },
+    {
+      "id": "g12",
+      "title": "Rex presents the publicity plan",
+      "start_sec": 40.99999999999999,
+      "end_sec": 44.99999999999999,
+      "voiceover_text": "Publisher BMG hired publicist Max Clifford to promote it.",
+      "action_beat": "Rex presents the publicity plan; Mia points toward the cited account.",
+      "source_ids": [
+        "M01"
+      ]
+    },
+    {
+      "id": "g13",
+      "title": "Rex waves blank tabloids and turns the outrage into attention.",
+      "start_sec": 44.99999999999999,
+      "end_sec": 48.99999999999999,
+      "voiceover_text": "Mike Dailly later credited him with orchestrating the outcry.",
+      "action_beat": "Rex waves blank tabloids and turns the outrage into attention.",
+      "source_ids": [
+        "M01"
+      ]
+    },
+    {
+      "id": "g14",
+      "title": "Mia reveals a clean illustrated blank record with the verified Hansard cita",
+      "start_sec": 48.99999999999999,
+      "end_sec": 52.99999999999999,
+      "voiceover_text": "On May twentieth, Parliament really did discuss Grand Theft Auto.",
+      "action_beat": "Mia reveals a clean illustrated blank record with the verified Hansard citation drawn separately.",
+      "source_ids": [
+        "H01"
+      ]
+    },
+    {
+      "id": "g15",
+      "title": "Mia holds the source while Rex eagerly operates an old cash register.",
+      "start_sec": 52.99999999999999,
+      "end_sec": 56.62499999999999,
+      "voiceover_text": "Mia brought Hansard. Rex brought a cash register.",
+      "action_beat": "Mia holds the source while Rex eagerly operates an old cash register.",
+      "source_ids": [
+        "H01",
+        "M01"
+      ]
+    },
+    {
+      "id": "g16",
+      "title": "Mia points to the classification record while Timmy reacts with innocent su",
+      "start_sec": 56.62499999999999,
+      "end_sec": 59.99999999999999,
+      "voiceover_text": "The questions covered classification and children.",
+      "action_beat": "Mia points to the classification record while Timmy reacts with innocent surprise.",
+      "source_ids": [
+        "H01"
+      ]
+    },
+    {
+      "id": "g17",
+      "title": "Rex rubs his hands",
+      "start_sec": 59.99999999999999,
+      "end_sec": 63.99999999999999,
+      "voiceover_text": "Rex calls that free advertising. Mia calls it evidence.",
+      "action_beat": "Rex rubs his hands; Mia crosses her arms and demands evidence.",
+      "source_ids": [
+        "H01",
+        "M01"
+      ]
+    },
+    {
+      "id": "g18",
+      "title": "Mia refuses to turn publicity into a proved sales number",
+      "start_sec": 63.99999999999999,
+      "end_sec": 67.5,
+      "voiceover_text": "Attention, yes. Extra sales? We cannot prove that.",
+      "action_beat": "Mia refuses to turn publicity into a proved sales number; Rex recoils.",
+      "source_ids": [
+        "M01"
+      ]
+    },
+    {
+      "id": "g19",
+      "title": "Pip facepalms as Timmy prepares to press the absurd button again.",
+      "start_sec": 67.5,
+      "end_sec": 71.5,
+      "voiceover_text": "A wonky chase, a clever campaign. Please don't debug marketing.",
+      "action_beat": "Pip facepalms as Timmy prepares to press the absurd button again.",
+      "source_ids": [
+        "P01",
+        "M01"
+      ]
+    },
+    {
+      "id": "g20",
+      "title": "Raven returns beside the short bibliography, closing the case with sarcasm.",
+      "start_sec": 71.5,
+      "end_sec": 75.0,
+      "voiceover_text": "Even this mess has paperwork. Sources below.",
+      "action_beat": "Raven returns beside the short bibliography, closing the case with sarcasm.",
+      "source_ids": [
+        "D01",
+        "P01",
+        "H01",
+        "M01"
+      ]
+    }
+  ]
+}
