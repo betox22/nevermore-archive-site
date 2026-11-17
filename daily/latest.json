@@ -1,255 +1,60 @@
 {
   "schema": "nevermore-ideation-2",
-  "date": "2026-11-14",
+  "date": "2026-11-17",
   "ideas": [
     {
-      "id": "calendar-reset",
-      "title": "What If Your Calendar Skipped Eleven Dates Tonight?",
-      "era": "Britain, September 1752",
-      "premise": "What if today your calendar date jumped from September 2 to September 14 under the documented calendar reform?",
-      "benchmark_query": "Britain calendar 1752 eleven days",
+      "id": "pneumatic-inbox",
+      "title": "What If Your Inbox Arrived Through a Tube Under the Street?",
+      "era": "United States city postal networks, 1890s",
+      "premise": "What if today sending a work memo meant sealing the paper in a canister for an underground pneumatic-mail network?",
+      "benchmark_query": "What If Your Inbox Arrived Through a Tube Under the Street? history",
       "tags": [
         "history",
         "historical comedy"
       ],
       "cast_gags": {
-        "crow": "Opens the tower book on the dates the calendar actually labels.",
-        "pip": "Tries to find an imagined appointment on a skipped date label.",
-        "mia": "Distinguishes skipped labels from eleven vanished natural days.",
-        "rex": "Insists his fictional meeting schedule still makes sense.",
-        "timmy": "Flips the calendar faster than Rex can point."
-      },
-      "criteria": {
-        "curiosity": 25,
-        "cast_comedy": 23,
-        "modern_contrast": 25,
-        "primary_sources": 25
-      },
-      "rationale": {
-        "curiosity": "A date jump creates a strong question with a specific primary-law answer.",
-        "cast_comedy": "Conflicting appointments let each character cause the next complication.",
-        "modern_contrast": "A smartphone calendar makes the reform visible without claiming lost wages or riots.",
-        "primary_sources": "The enacted text specifies the date numbering; verify access and anchors."
-      },
-      "sources": [
-        {
-          "institution": "UK legislation archive",
-          "locator": "Calendar (New Style) Act 1750, section 1",
-          "url": "https://www.legislation.gov.uk/apgb/Geo2/24/23/section/1.",
-          "kind": "primary_record",
-          "anchors": [
-            "the fourteenth day of September",
-            "eleven intermediate nominal days"
-          ],
-          "verified_on": "2026-11-14",
-          "anchors_present": true,
-          "download_error_type": null,
-          "download_http_status": null,
-          "text_sha256": "40066ccc19cf17a2fcc4ea8c1ae02120e7e751c6096b6f29eedd4832da2898ef",
-          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
-        }
-      ],
-      "author": "Codex native subscription agent; editorial hypotheses, not measured audience performance",
-      "original_editorial_assessment": 98,
-      "editorial_score": 98,
-      "score": 98,
-      "source_verified": true,
-      "primary_record_available": true,
-      "benchmark": {
-        "status": "unavailable",
-        "videos": [],
-        "raw_metrics_location": "private Studio cache, never Git",
-        "error_type": null,
-        "median_views_per_day": null,
-        "ctr": null,
-        "retention": null,
-        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
-      },
-      "reused_counterfactual": false,
-      "eligible": false
-    },
-    {
-      "id": "tally-stick",
-      "title": "What If Your Tax Receipt Was a Piece of Wood?",
-      "era": "England, 1694",
-      "premise": "What if today your official payment receipt had to be a notched wooden tally?",
-      "benchmark_query": "wooden tally sticks government loans history",
-      "tags": [
-        "history",
-        "historical comedy"
-      ],
-      "cast_gags": {
-        "crow": "Opens a file whose receipt is longer than the desk.",
-        "pip": "Tries to fit an imagined wooden receipt into a modern wallet.",
-        "mia": "Checks the official record rather than calling it primitive or counterfeit.",
-        "rex": "Demands that Pip keep the original timber.",
-        "timmy": "Brings an absurdly oversized receipt rack."
-      },
-      "criteria": {
-        "curiosity": 23,
-        "cast_comedy": 25,
-        "modern_contrast": 24,
-        "primary_sources": 25
-      },
-      "rationale": {
-        "curiosity": "A familiar receipt becomes a surprising physical object.",
-        "cast_comedy": "Wallet, desk and archive scale support physical comedy without inventing fiscal rules.",
-        "modern_contrast": "Modern digital record keeping contrasts with a documented medieval receipt.",
-        "primary_sources": "A museum-held 1694 loan tally is accessible. The earlier medieval catalogue page failed; no inaccessible 1293 evidence is presented as verified."
-      },
-      "sources": [
-        {
-          "institution": "Bank of England Museum",
-          "locator": "Payments through time: wooden tally recording a 1694 government loan",
-          "url": "https://www.bankofengland.co.uk/museum/whats-on/2019/325-years-exhibition/payments-through-time",
-          "kind": "primary_record",
-          "anchors": [
-            "Wooden tally stick",
-            "1694"
-          ],
-          "verified_on": "2026-11-14",
-          "anchors_present": true,
-          "download_error_type": null,
-          "download_http_status": null,
-          "text_sha256": "01dad396ad1e5f663816e38a612f47876ce8f8b3be382ffcf43f6a95887706e6",
-          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
-        }
-      ],
-      "author": "Codex native subscription agent; editorial hypotheses, not measured audience performance",
-      "research_note": "The accessible primary object is from 1694, not the earlier blocked medieval catalogue. The modern tax-receipt comparison is fictional; the actual object records a government loan.",
-      "original_editorial_assessment": 97,
-      "editorial_score": 97,
-      "score": 97,
-      "source_verified": true,
-      "primary_record_available": true,
-      "benchmark": {
-        "status": "unavailable",
-        "videos": [],
-        "raw_metrics_location": "private Studio cache, never Git",
-        "error_type": null,
-        "median_views_per_day": null,
-        "ctr": null,
-        "retention": null,
-        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
-      },
-      "reused_counterfactual": false,
-      "eligible": false
-    },
-    {
-      "id": "old-money",
-      "title": "What If Your Shopping Cart Still Used 240 Pennies per Pound?",
-      "era": "Britain before decimalisation in 1971",
-      "premise": "What if today a shopping checkout still had to calculate twelve pennies per shilling and twenty shillings per pound?",
-      "benchmark_query": "British pre decimal money explained",
-      "tags": [
-        "history",
-        "historical comedy"
-      ],
-      "cast_gags": {
-        "crow": "Opens a ledger and watches the checkout change columns.",
-        "pip": "Tries to pay for one imagined modern grocery basket.",
-        "mia": "Does the conversion correctly and exposes the needless mental load.",
-        "rex": "Insists that every checkout subtotal use the old units.",
-        "timmy": "Produces a modern calculator with absurdly too few buttons."
-      },
-      "criteria": {
-        "curiosity": 22,
-        "cast_comedy": 24,
-        "modern_contrast": 25,
-        "primary_sources": 23
-      },
-      "rationale": {
-        "curiosity": "A routine checkout gains an unfamiliar but concrete arithmetic system.",
-        "cast_comedy": "Different fixed roles can react to one escalating calculation rather than a fact list.",
-        "modern_contrast": "Online shopping provides a clear modern contrast; no invented historical prices are needed.",
-        "primary_sources": "The museum presents period accounts and a design brief; differentiate the article from the reproduced records."
-      },
-      "sources": [
-        {
-          "institution": "Royal Mint Museum",
-          "locator": "Decimalisation; old accounts and Royal Mint design brief, November 1966",
-          "url": "https://www.royalmintmuseum.org.uk/journal/history/decimalisation/",
-          "kind": "primary_record",
-          "anchors": [
-            "twelve pennies to the shilling and twenty shillings to the pound",
-            "design brief"
-          ],
-          "verified_on": "2026-11-14",
-          "anchors_present": true,
-          "download_error_type": null,
-          "download_http_status": null,
-          "text_sha256": "588c2299b663f4e3c380b60744769b00f346ced197ca3e5954a2e4e9cf9749c0",
-          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
-        }
-      ],
-      "author": "Codex native subscription agent; editorial hypotheses, not measured audience performance",
-      "original_editorial_assessment": 94,
-      "editorial_score": 94,
-      "score": 94,
-      "source_verified": true,
-      "primary_record_available": true,
-      "benchmark": {
-        "status": "unavailable",
-        "videos": [],
-        "raw_metrics_location": "private Studio cache, never Git",
-        "error_type": null,
-        "median_views_per_day": null,
-        "ctr": null,
-        "retention": null,
-        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
-      },
-      "reused_counterfactual": false,
-      "eligible": false
-    },
-    {
-      "id": "window-tax",
-      "title": "What If Every Window Came With a Tax Bill?",
-      "era": "Britain, 1696–1851",
-      "premise": "What if today the number of windows in your home determined a household tax?",
-      "benchmark_query": "window tax history Britain",
-      "tags": [
-        "history",
-        "historical comedy"
-      ],
-      "cast_gags": {
-        "crow": "Opens an archive book shaped like a property listing, then questions the sales pitch.",
-        "pip": "Chooses between daylight and an imagined modern tax bill.",
-        "mia": "Points out the absurd incentive without inventing a tax rate.",
-        "rex": "Counts windows with a smiling clipboard.",
-        "timmy": "Adds a toy window just as Rex finishes counting."
+        "crow": "Opens the tower book on an imagined canister inbox.",
+        "pip": "Physically sends an invented office memo.",
+        "mia": "Checks what the postal container actually carried and flags unavailable records.",
+        "rex": "Orders fictional instant delivery but still requires the paper form.",
+        "timmy": "Returns a huge paper reply without entering or riding any tube."
       },
       "criteria": {
         "curiosity": 24,
-        "cast_comedy": 24,
-        "modern_contrast": 25,
+        "cast_comedy": 25,
+        "modern_contrast": 24,
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "The everyday value of daylight conflicts with a documented tax base.",
-        "cast_comedy": "Counting visible windows gives the five fixed roles distinct physical actions.",
-        "modern_contrast": "An imagined apartment viewing makes a historical household duty legible.",
-        "primary_sources": "An actual dated receipt and archival reference are available; verify the page before production."
+        "curiosity": "A literal physical inbox offers an immediately readable reversal.",
+        "cast_comedy": "Canister entry, delayed reply and oversized memo create consequences.",
+        "modern_contrast": "The office memo is a counterfactual based on postal transport, not a documented corporate service.",
+        "primary_sources": "The institutional snapshot is a lead, not a primary system report; its live URL may be unavailable."
       },
       "sources": [
         {
-          "institution": "The National Archives",
-          "locator": "Window tax receipt, 25 March 1755, QAB 1/13/27",
-          "url": "https://www.nationalarchives.gov.uk/education/resources/georgian-britain-age-modernity/window-tax/",
-          "kind": "primary_record",
+          "url": "https://www.si.edu/collections/snapshot/pneumatic-mail-container",
+          "institution": "Smithsonian Institution / National Postal Museum",
+          "locator": "Pneumatic Mail Container institutional collection snapshot; live availability must be checked",
+          "kind": "institutional_context",
           "anchors": [
-            "Window tax receipt",
-            "1755"
+            "pneumatic",
+            "1897"
           ],
-          "verified_on": "2026-11-14",
+          "verified_on": "2026-11-17",
           "anchors_present": false,
           "download_error_type": "HTTPError",
-          "download_http_status": 410,
+          "download_http_status": 403,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "author": "Codex native subscription agent; editorial hypotheses, not measured audience performance",
-      "original_editorial_assessment": 98,
+      "fact_boundary": "No person, animal or oversized object rides the tube. Do not assert speed, network length, service dates or capacity without the original records.",
+      "research_questions": [
+        "[VERIFICAR] Locate a live primary postal report and exact container catalog record; a broken snapshot cannot pass source verification."
+      ],
+      "author": "Codex native research agent; editorial judgments, never measured YouTube performance",
+      "original_editorial_assessment": 91,
       "editorial_score": 73,
       "score": 73,
       "source_verified": false,
@@ -268,56 +73,270 @@
       "eligible": false
     },
     {
-      "id": "clothing-coupons",
-      "title": "What If Buying Socks Needed Coupons as Well as Money?",
-      "era": "Britain, 1941",
-      "premise": "What if today an online clothing checkout demanded ration coupons as well as money?",
-      "benchmark_query": "Britain clothing rationing coupons 1941",
+      "id": "twelve-second-boarding",
+      "title": "What If Your Flight Lasted Twelve Seconds?",
+      "era": "Kill Devil Hills, North Carolina, 17 December 1903",
+      "premise": "What if today your boarding process took an hour for a flight lasting the twelve seconds documented in the Wright first-flight photograph?",
+      "benchmark_query": "What If Your Flight Lasted Twelve Seconds? history",
       "tags": [
         "history",
         "historical comedy"
       ],
       "cast_gags": {
-        "crow": "Opens a clothing catalogue that turns into the archive notice.",
-        "pip": "Reaches a fictional online checkout with money but no usable coupons.",
-        "mia": "Points to the actual rule and rejects made-up coupon quantities.",
-        "rex": "Adds another imaginary checkout requirement with a false smile.",
-        "timmy": "Offers tiny paper coupons for an oversized pair of socks."
+        "crow": "Opens the tower book on a fictional airport boarding pass.",
+        "pip": "Completes a long invented airport queue for a tiny hop.",
+        "mia": "Separates a 1903 experimental flight from the fictional modern airline.",
+        "rex": "Advertises fictional premium boarding longer than the flight.",
+        "timmy": "Walks beside the fictional journey holding an oversized stopwatch."
       },
       "criteria": {
         "curiosity": 24,
+        "cast_comedy": 24,
+        "modern_contrast": 24,
+        "primary_sources": 0
+      },
+      "rationale": {
+        "curiosity": "A measured twelve-second flight overturns a familiar lengthy boarding ritual.",
+        "cast_comedy": "Queue, hop and oversized stopwatch create a visible cause and payoff.",
+        "modern_contrast": "The modern airline is an explicitly invented analogy.",
+        "primary_sources": "The archive identifies an actual dated photograph; page download and caption anchors must pass."
+      },
+      "sources": [
+        {
+          "url": "https://www.loc.gov/item/00652085/",
+          "institution": "Library of Congress",
+          "locator": "Wright Brothers Negatives, item 00652085; first-flight photograph, 17 December 1903",
+          "kind": "primary_record",
+          "anchors": [
+            "120 feet in 12 seconds",
+            "1903"
+          ],
+          "verified_on": "2026-11-17",
+          "anchors_present": false,
+          "download_error_type": "HTTPError",
+          "download_http_status": 403,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
+        }
+      ],
+      "fact_boundary": "The real event was an experimental powered flight, not a ticketed commercial service. Do not imply a real one-hour queue, airline or passenger fare in 1903.",
+      "research_questions": [
+        "[VERIFICAR] Inspect the complete original caption and diary before asserting details beyond the catalog."
+      ],
+      "author": "Codex native research agent; editorial judgments, never measured YouTube performance",
+      "original_editorial_assessment": 96,
+      "editorial_score": 72,
+      "score": 72,
+      "source_verified": false,
+      "primary_record_available": false,
+      "benchmark": {
+        "status": "unavailable",
+        "videos": [],
+        "raw_metrics_location": "private Studio cache, never Git",
+        "error_type": null,
+        "median_views_per_day": null,
+        "ctr": null,
+        "retention": null,
+        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
+      },
+      "reused_counterfactual": false,
+      "eligible": false
+    },
+    {
+      "id": "punch-card-profile",
+      "title": "What If Updating Your Profile Required Punching a Physical Card?",
+      "era": "United States census tabulation, circa 1890",
+      "premise": "What if today changing one profile detail meant returning to a physical punch-card desk modeled on the documented Hollerith equipment?",
+      "benchmark_query": "What If Updating Your Profile Required Punching a Physical Card? history",
+      "tags": [
+        "history",
+        "historical comedy"
+      ],
+      "cast_gags": {
+        "crow": "Opens a fictional archive account-settings page.",
+        "pip": "Carries a fictional profile update to a physical counter.",
+        "mia": "Uses the cataloged original plate to explain the material workflow.",
+        "rex": "Adds an invented approval queue for changing one field.",
+        "timmy": "Brings an oversized blank card; all labels are postproduction overlays."
+      },
+      "criteria": {
+        "curiosity": 23,
         "cast_comedy": 24,
         "modern_contrast": 25,
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "The extra non-cash condition creates an immediate curiosity gap.",
-        "cast_comedy": "Checkout, sock size and coupon handling offer distinct visual consequences.",
-        "modern_contrast": "Modern online retail is contrasted with a documented wartime purchase condition.",
-        "primary_sources": "The archive reproduces a contemporary notice; no numerical allowance is inferred."
+        "curiosity": "An ordinary digital edit becomes a physical processing task.",
+        "cast_comedy": "The queue, punch and oversized card provide escalating actions.",
+        "modern_contrast": "Modern account settings remain an explicit analogy, not a claim about census customer accounts.",
+        "primary_sources": "The museum holds a dated original component and records its inscription; no unsupported speed or savings figures are used."
       },
       "sources": [
         {
-          "institution": "The National Archives",
-          "locator": "Fair Shares: contemporary clothing-rationing notice/transcript, June 1941",
-          "url": "https://www.nationalarchives.gov.uk/education/resources/home-front-1939-1945-part-two/fair-shares/",
+          "url": "https://www.si.edu/object/nmah_694417",
+          "institution": "Smithsonian National Museum of American History",
+          "locator": "Punch Board for a Hollerith Pantograph Card Punch; record nmah_694417, catalog MA.317982.03",
           "kind": "primary_record",
           "anchors": [
-            "you will have to present coupons",
-            "1941"
+            "Census of population in 1890",
+            "January 8th 1889"
           ],
-          "verified_on": "2026-11-14",
+          "verified_on": "2026-11-17",
           "anchors_present": false,
           "download_error_type": "HTTPError",
-          "download_http_status": 410,
+          "download_http_status": 403,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "author": "Codex native subscription agent; editorial hypotheses, not measured audience performance",
-      "original_editorial_assessment": 97,
-      "editorial_score": 73,
-      "score": 73,
+      "fact_boundary": "Do not call every surviving device the exact 1890 machine. This item is a punch-board component dated approximately 1890, not a modern computer or whole tabulator.",
+      "research_questions": [
+        "[VERIFICAR] Check exact original card categories and operation before illustrating holes or reconstructing a complete machine."
+      ],
+      "author": "Codex native research agent; editorial judgments, never measured YouTube performance",
+      "original_editorial_assessment": 95,
+      "editorial_score": 72,
+      "score": 72,
+      "source_verified": false,
+      "primary_record_available": false,
+      "benchmark": {
+        "status": "unavailable",
+        "videos": [],
+        "raw_metrics_location": "private Studio cache, never Git",
+        "error_type": null,
+        "median_views_per_day": null,
+        "ctr": null,
+        "retention": null,
+        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
+      },
+      "reused_counterfactual": false,
+      "eligible": false
+    },
+    {
+      "id": "telephone-next-room",
+      "title": "What If Your New Phone Summoned Someone From the Next Room?",
+      "era": "Boston, Bell laboratory, 10 March 1876",
+      "premise": "What if today your boss launched a revolutionary phone by calling a colleague in the next room to come over?",
+      "benchmark_query": "What If Your New Phone Summoned Someone From the Next Room? history",
+      "tags": [
+        "history",
+        "historical comedy"
+      ],
+      "cast_gags": {
+        "crow": "Introduces an imagined office launch from the tower.",
+        "pip": "Installs the fictional office phone and receives a request to walk over.",
+        "mia": "Distinguishes the notebook account from later inventor-priority myths.",
+        "rex": "Rebrands the short fictional call as a corporate breakthrough.",
+        "timmy": "Carries an oversized wire prop across the invented office."
+      },
+      "criteria": {
+        "curiosity": 22,
+        "cast_comedy": 24,
+        "modern_contrast": 25,
+        "primary_sources": 0
+      },
+      "rationale": {
+        "curiosity": "Communication technology produces an inconvenient physical summons.",
+        "cast_comedy": "A call, walk and corporate announcement form a causal comic arc.",
+        "modern_contrast": "A modern product launch is fiction anchored to the documented experiment.",
+        "primary_sources": "The institutional page identifies the original notebook, but it is not itself the notebook transcript."
+      },
+      "sources": [
+        {
+          "url": "https://www.loc.gov/collections/alexander-graham-bell-papers/articles-and-essays/collection-highlights/",
+          "institution": "Library of Congress",
+          "locator": "Bell Family Papers collection highlights: scientific notebook entry dated 10 March 1876; institutional description pointing to the manuscript",
+          "kind": "institutional_catalog",
+          "anchors": [
+            "March 10, 1876",
+            "next room"
+          ],
+          "verified_on": "2026-11-17",
+          "anchors_present": false,
+          "download_error_type": "HTTPError",
+          "download_http_status": 403,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
+        }
+      ],
+      "fact_boundary": "No spilled-acid anecdote, invented emergency, sole-inventor claim or modern office launch is presented as historical fact.",
+      "research_questions": [
+        "[VERIFICAR] Open and cite the exact original notebook page; the curatorial page alone does not establish every spoken detail."
+      ],
+      "author": "Codex native research agent; editorial judgments, never measured YouTube performance",
+      "original_editorial_assessment": 91,
+      "editorial_score": 71,
+      "score": 71,
+      "source_verified": false,
+      "primary_record_available": false,
+      "benchmark": {
+        "status": "unavailable",
+        "videos": [],
+        "raw_metrics_location": "private Studio cache, never Git",
+        "error_type": null,
+        "median_views_per_day": null,
+        "ctr": null,
+        "retention": null,
+        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
+      },
+      "reused_counterfactual": false,
+      "eligible": false
+    },
+    {
+      "id": "telegraph-office-chat",
+      "title": "What If Your Team Chat Needed a Telegraph Operator?",
+      "era": "Washington and Baltimore telegraph demonstration, May 1844",
+      "premise": "What if today your urgent team-chat update had to travel as an operator-mediated telegraph message instead of a screen notification?",
+      "benchmark_query": "What If Your Team Chat Needed a Telegraph Operator? history",
+      "tags": [
+        "history",
+        "historical comedy"
+      ],
+      "cast_gags": {
+        "crow": "Opens an imagined work-chat discussion in the tower book.",
+        "pip": "Hands a fictional urgent memo to an operator.",
+        "mia": "Separates the dated correspondence from the inaugural message artifact.",
+        "rex": "Demands fictional instant replies while adding his own approval step.",
+        "timmy": "Queues a paper emoji that the fictional operator cannot simply tap on screen."
+      },
+      "criteria": {
+        "curiosity": 22,
+        "cast_comedy": 24,
+        "modern_contrast": 24,
+        "primary_sources": 0
+      },
+      "rationale": {
+        "curiosity": "A familiar notification becomes a physical chain of handoffs.",
+        "cast_comedy": "Urgency causes a queue, approval and oversized paper reaction.",
+        "modern_contrast": "The modern team chat and paper emoji are fictional contrasts.",
+        "primary_sources": "A contemporary Morse correspondence volume is identified; the precise image and context must be checked before scripting."
+      },
+      "sources": [
+        {
+          "url": "https://www.loc.gov/resource/mmorse.017001/?sp=198",
+          "institution": "Library of Congress",
+          "locator": "Samuel Finley Breese Morse Papers, bound volume 15 January-8 June 1844, image 198; correspondence, not the original inaugural message strip",
+          "kind": "primary_record",
+          "anchors": [
+            "What hath God wrought",
+            "1844"
+          ],
+          "verified_on": "2026-11-17",
+          "anchors_present": false,
+          "download_error_type": "HTTPError",
+          "download_http_status": 403,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
+        }
+      ],
+      "fact_boundary": "Do not call this correspondence page the original 24 May message strip or claim Morse invented all telegraphy. No unverified per-word fee or speed is asserted.",
+      "research_questions": [
+        "[VERIFICAR] Inspect image 198 and the original May 24 message artifact before quoting transmission details."
+      ],
+      "author": "Codex native research agent; editorial judgments, never measured YouTube performance",
+      "original_editorial_assessment": 92,
+      "editorial_score": 70,
+      "score": 70,
       "source_verified": false,
       "primary_record_available": false,
       "benchmark": {
@@ -335,7 +354,7 @@
     }
   ],
   "winner": null,
-  "provisional_editorial_winner": "calendar-reset",
+  "provisional_editorial_winner": "pneumatic-inbox",
   "benchmark_complete": false,
   "benchmark_attempted": false,
   "ranking_basis": "Editorial only; benchmark incomplete, no production winner",
@@ -345,6 +364,5 @@
     100
   ],
   "paid_model_calls": 0,
-  "verified_at": "2026-11-14T21:20:11.780072+00:00",
-  "input_sha256": "c72262ff825c326a5937c7449d11cb7025cf62735799fd7e14923705e14651c4"
+  "verified_at": "2026-11-17T14:17:31.419948+00:00"
 }
