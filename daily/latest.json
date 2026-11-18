@@ -1,187 +1,118 @@
 {
   "schema": "nevermore-ideation-2",
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "ideas": [
     {
-      "id": "pneumatic-inbox",
-      "title": "What If Your Inbox Arrived Through a Tube Under the Street?",
-      "era": "United States city postal networks, 1890s",
-      "premise": "What if today sending a work memo meant sealing the paper in a canister for an underground pneumatic-mail network?",
-      "benchmark_query": "What If Your Inbox Arrived Through a Tube Under the Street? history",
+      "id": "handwritten-cash-machine",
+      "title": "What If Your Cash Machine Needed a Handwritten Note?",
+      "era": "London, Bank of England running-cash fragment dated 1697",
+      "premise": "What if today a cash withdrawal required a clerk to finish a handwritten promise-to-pay instead of a machine dispensing standard notes?",
+      "benchmark_query": "What If Your Cash Machine Needed a Handwritten Note? history",
       "tags": [
         "history",
         "historical comedy"
       ],
       "cast_gags": {
-        "crow": "Opens the tower book on an imagined canister inbox.",
-        "pip": "Physically sends an invented office memo.",
-        "mia": "Checks what the postal container actually carried and flags unavailable records.",
-        "rex": "Orders fictional instant delivery but still requires the paper form.",
-        "timmy": "Returns a huge paper reply without entering or riding any tube."
-      },
-      "criteria": {
-        "curiosity": 24,
-        "cast_comedy": 25,
-        "modern_contrast": 24,
-        "primary_sources": 0
-      },
-      "rationale": {
-        "curiosity": "A literal physical inbox offers an immediately readable reversal.",
-        "cast_comedy": "Canister entry, delayed reply and oversized memo create consequences.",
-        "modern_contrast": "The office memo is a counterfactual based on postal transport, not a documented corporate service.",
-        "primary_sources": "The institutional snapshot is a lead, not a primary system report; its live URL may be unavailable."
-      },
-      "sources": [
-        {
-          "url": "https://www.si.edu/collections/snapshot/pneumatic-mail-container",
-          "institution": "Smithsonian Institution / National Postal Museum",
-          "locator": "Pneumatic Mail Container institutional collection snapshot; live availability must be checked",
-          "kind": "institutional_context",
-          "anchors": [
-            "pneumatic",
-            "1897"
-          ],
-          "verified_on": "2026-11-17",
-          "anchors_present": false,
-          "download_error_type": "HTTPError",
-          "download_http_status": 403,
-          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
-        }
-      ],
-      "fact_boundary": "No person, animal or oversized object rides the tube. Do not assert speed, network length, service dates or capacity without the original records.",
-      "research_questions": [
-        "[VERIFICAR] Locate a live primary postal report and exact container catalog record; a broken snapshot cannot pass source verification."
-      ],
-      "author": "Codex native research agent; editorial judgments, never measured YouTube performance",
-      "original_editorial_assessment": 91,
-      "editorial_score": 73,
-      "score": 73,
-      "source_verified": false,
-      "primary_record_available": false,
-      "benchmark": {
-        "status": "unavailable",
-        "videos": [],
-        "raw_metrics_location": "private Studio cache, never Git",
-        "error_type": null,
-        "median_views_per_day": null,
-        "ctr": null,
-        "retention": null,
-        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
-      },
-      "reused_counterfactual": false,
-      "eligible": false
-    },
-    {
-      "id": "twelve-second-boarding",
-      "title": "What If Your Flight Lasted Twelve Seconds?",
-      "era": "Kill Devil Hills, North Carolina, 17 December 1903",
-      "premise": "What if today your boarding process took an hour for a flight lasting the twelve seconds documented in the Wright first-flight photograph?",
-      "benchmark_query": "What If Your Flight Lasted Twelve Seconds? history",
-      "tags": [
-        "history",
-        "historical comedy"
-      ],
-      "cast_gags": {
-        "crow": "Opens the tower book on a fictional airport boarding pass.",
-        "pip": "Completes a long invented airport queue for a tiny hop.",
-        "mia": "Separates a 1903 experimental flight from the fictional modern airline.",
-        "rex": "Advertises fictional premium boarding longer than the flight.",
-        "timmy": "Walks beside the fictional journey holding an oversized stopwatch."
-      },
-      "criteria": {
-        "curiosity": 24,
-        "cast_comedy": 24,
-        "modern_contrast": 24,
-        "primary_sources": 0
-      },
-      "rationale": {
-        "curiosity": "A measured twelve-second flight overturns a familiar lengthy boarding ritual.",
-        "cast_comedy": "Queue, hop and oversized stopwatch create a visible cause and payoff.",
-        "modern_contrast": "The modern airline is an explicitly invented analogy.",
-        "primary_sources": "The archive identifies an actual dated photograph; page download and caption anchors must pass."
-      },
-      "sources": [
-        {
-          "url": "https://www.loc.gov/item/00652085/",
-          "institution": "Library of Congress",
-          "locator": "Wright Brothers Negatives, item 00652085; first-flight photograph, 17 December 1903",
-          "kind": "primary_record",
-          "anchors": [
-            "120 feet in 12 seconds",
-            "1903"
-          ],
-          "verified_on": "2026-11-17",
-          "anchors_present": false,
-          "download_error_type": "HTTPError",
-          "download_http_status": 403,
-          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
-        }
-      ],
-      "fact_boundary": "The real event was an experimental powered flight, not a ticketed commercial service. Do not imply a real one-hour queue, airline or passenger fare in 1903.",
-      "research_questions": [
-        "[VERIFICAR] Inspect the complete original caption and diary before asserting details beyond the catalog."
-      ],
-      "author": "Codex native research agent; editorial judgments, never measured YouTube performance",
-      "original_editorial_assessment": 96,
-      "editorial_score": 72,
-      "score": 72,
-      "source_verified": false,
-      "primary_record_available": false,
-      "benchmark": {
-        "status": "unavailable",
-        "videos": [],
-        "raw_metrics_location": "private Studio cache, never Git",
-        "error_type": null,
-        "median_views_per_day": null,
-        "ctr": null,
-        "retention": null,
-        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
-      },
-      "reused_counterfactual": false,
-      "eligible": false
-    },
-    {
-      "id": "punch-card-profile",
-      "title": "What If Updating Your Profile Required Punching a Physical Card?",
-      "era": "United States census tabulation, circa 1890",
-      "premise": "What if today changing one profile detail meant returning to a physical punch-card desk modeled on the documented Hollerith equipment?",
-      "benchmark_query": "What If Updating Your Profile Required Punching a Physical Card? history",
-      "tags": [
-        "history",
-        "historical comedy"
-      ],
-      "cast_gags": {
-        "crow": "Opens a fictional archive account-settings page.",
-        "pip": "Carries a fictional profile update to a physical counter.",
-        "mia": "Uses the cataloged original plate to explain the material workflow.",
-        "rex": "Adds an invented approval queue for changing one field.",
-        "timmy": "Brings an oversized blank card; all labels are postproduction overlays."
+        "crow": "Opens an imagined cash-machine screen in the tower book.",
+        "pip": "Waits while a fictional clerk writes a blank non-usable paper prop.",
+        "mia": "Points to the dated archival fragment and corrects claims about all early notes.",
+        "rex": "Sells imaginary instant cash while adding a handwriting queue.",
+        "timmy": "Brings an oversized quill to the fictional counter."
       },
       "criteria": {
         "curiosity": 23,
         "cast_comedy": 24,
         "modern_contrast": 25,
-        "primary_sources": 0
+        "primary_sources": 24
       },
       "rationale": {
-        "curiosity": "An ordinary digital edit becomes a physical processing task.",
-        "cast_comedy": "The queue, punch and oversized card provide escalating actions.",
-        "modern_contrast": "Modern account settings remain an explicit analogy, not a claim about census customer accounts.",
-        "primary_sources": "The museum holds a dated original component and records its inscription; no unsupported speed or savings figures are used."
+        "curiosity": "A supposedly automatic action becomes a slow personal writing task.",
+        "cast_comedy": "Waiting, added approval and an absurdly large quill form a causal comic arc.",
+        "modern_contrast": "A modern ATM is the invented contrast, not a historical device.",
+        "primary_sources": "The central bank catalogs a surviving 1697 handwritten fragment with a separate 1699 partly printed note."
       },
       "sources": [
         {
-          "url": "https://www.si.edu/object/nmah_694417",
-          "institution": "Smithsonian National Museum of American History",
-          "locator": "Punch Board for a Hollerith Pantograph Card Punch; record nmah_694417, catalog MA.317982.03",
+          "url": "https://www.bankofengland.co.uk/museum/online-collections/banknotes/early-banknotes",
+          "institution": "Bank of England Museum",
+          "locator": "Early banknotes; 1697 fragment of a running cash note, distinguished from the partly printed 1699 example",
           "kind": "primary_record",
           "anchors": [
-            "Census of population in 1890",
-            "January 8th 1889"
+            "Fragment of a running cash note",
+            "1697",
+            "handwritten fragment"
           ],
-          "verified_on": "2026-11-17",
+          "verified_on": "2026-11-18",
+          "anchors_present": true,
+          "download_error_type": null,
+          "download_http_status": null,
+          "text_sha256": "865c2041de4313e7bb2d58268d1fb47f8507477979604d231736a9fafd532698",
+          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
+        }
+      ],
+      "fact_boundary": "No claim that all early notes were wholly handwritten or used as ordinary small change. The ATM, queue and props are fiction. Do not recreate usable banknotes or give modern banking advice.",
+      "research_questions": [
+        "[VERIFICAR] Inspect the archival images and catalog identifiers before showing handwriting, denominations or withdrawal markings."
+      ],
+      "author": "Codex native research agent; editorial scores are judgments, not YouTube performance",
+      "original_editorial_assessment": 96,
+      "editorial_score": 96,
+      "score": 96,
+      "source_verified": true,
+      "primary_record_available": true,
+      "benchmark": {
+        "status": "unavailable",
+        "videos": [],
+        "raw_metrics_location": "private Studio cache, never Git",
+        "error_type": null,
+        "median_views_per_day": null,
+        "ctr": null,
+        "retention": null,
+        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
+      },
+      "reused_counterfactual": false,
+      "eligible": false
+    },
+    {
+      "id": "pedal-free-commute",
+      "title": "What If Your Rental Bike Had No Pedals?",
+      "era": "Draisine, circa 1818; Smithsonian TR.325369",
+      "premise": "What if today a rental-bike app unlocked a wooden two-wheeler that you had to propel with your feet like the cataloged draisine?",
+      "benchmark_query": "What If Your Rental Bike Had No Pedals? history",
+      "tags": [
+        "history",
+        "historical comedy"
+      ],
+      "cast_gags": {
+        "crow": "Introduces an imaginary commute from the tower.",
+        "pip": "Looks for pedals and then has to push along with his feet.",
+        "mia": "Distinguishes the surviving circa-1818 example from Drais original machine.",
+        "rex": "Markets imaginary pedal-free premium transport.",
+        "timmy": "Overtakes the stationary argument on foot in a closed safe cartoon set."
+      },
+      "criteria": {
+        "curiosity": 24,
+        "cast_comedy": 25,
+        "modern_contrast": 25,
+        "primary_sources": 0
+      },
+      "rationale": {
+        "curiosity": "An absent everyday component creates an immediate curiosity gap.",
+        "cast_comedy": "Unlock, search, physical effort and a walking overtaker form consequences.",
+        "modern_contrast": "The app and modern commute are explicitly invented.",
+        "primary_sources": "The museum holds a surviving early vehicle but says its exact origin is unknown."
+      },
+      "sources": [
+        {
+          "url": "https://www.si.edu/object/draisine-ca-1818%3Anmah_843083",
+          "institution": "Smithsonian National Museum of American History",
+          "locator": "Draisine, ca. 1818; nmah_843083; TR.325369 / catalog 325369",
+          "kind": "primary_record",
+          "anchors": [
+            "ca 1818",
+            "propelled by walking swiftly"
+          ],
+          "verified_on": "2026-11-18",
           "anchors_present": false,
           "download_error_type": "HTTPError",
           "download_http_status": 403,
@@ -189,14 +120,14 @@
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "Do not call every surviving device the exact 1890 machine. This item is a punch-board component dated approximately 1890, not a modern computer or whole tabulator.",
+      "fact_boundary": "Do not call this object Karl Drais personal 1817 prototype. No invented rental price, speed or accident statistics; no dangerous riding gag.",
       "research_questions": [
-        "[VERIFICAR] Check exact original card categories and operation before illustrating holes or reconstructing a complete machine."
+        "[VERIFICAR] Inspect the original object images and dimensions before reconstructing its steering and foot-propulsion movement."
       ],
-      "author": "Codex native research agent; editorial judgments, never measured YouTube performance",
-      "original_editorial_assessment": 95,
-      "editorial_score": 72,
-      "score": 72,
+      "author": "Codex native research agent; editorial scores are judgments, not YouTube performance",
+      "original_editorial_assessment": 97,
+      "editorial_score": 74,
+      "score": 74,
       "source_verified": false,
       "primary_record_available": false,
       "benchmark": {
@@ -213,61 +144,131 @@
       "eligible": false
     },
     {
-      "id": "telephone-next-room",
-      "title": "What If Your New Phone Summoned Someone From the Next Room?",
-      "era": "Boston, Bell laboratory, 10 March 1876",
-      "premise": "What if today your boss launched a revolutionary phone by calling a colleague in the next room to come over?",
-      "benchmark_query": "What If Your New Phone Summoned Someone From the Next Room? history",
+      "id": "charter-cafe-measures",
+      "title": "What If Your Cafe Needed a Medieval Measurement Charter?",
+      "era": "England, Magna Carta 1215, conventionally numbered clause 35",
+      "premise": "What if today Rex sold drinks in whatever cup size he liked until Mia brought the standard-measure demand recorded in Magna Carta?",
+      "benchmark_query": "What If Your Cafe Needed a Medieval Measurement Charter? history",
       "tags": [
         "history",
         "historical comedy"
       ],
       "cast_gags": {
-        "crow": "Introduces an imagined office launch from the tower.",
-        "pip": "Installs the fictional office phone and receives a request to walk over.",
-        "mia": "Distinguishes the notebook account from later inventor-priority myths.",
-        "rex": "Rebrands the short fictional call as a corporate breakthrough.",
-        "timmy": "Carries an oversized wire prop across the invented office."
+        "crow": "Opens the tower book on an imagined cafe menu.",
+        "pip": "Receives an unexpectedly tiny fictional cup.",
+        "mia": "Uses the translated charter clause to challenge inconsistent measures.",
+        "rex": "Rebrands shrinking cups in a clearly invented cafe.",
+        "timmy": "Produces an oversized measuring vessel rather than inventing manuscript writing."
       },
       "criteria": {
-        "curiosity": 22,
+        "curiosity": 24,
+        "cast_comedy": 25,
+        "modern_contrast": 25,
+        "primary_sources": 0
+      },
+      "rationale": {
+        "curiosity": "A familiar portion-size argument connects with a specific medieval clause.",
+        "cast_comedy": "A small serving causes a documentary challenge and a large measuring gag.",
+        "modern_contrast": "The cafe scenario is fictional; only the cited wording supplies the historical anchor.",
+        "primary_sources": "The educational translation points to an identifiable charter clause; current download and exact wording must pass."
+      },
+      "sources": [
+        {
+          "url": "https://www.nationalarchives.gov.uk/education/resources/magna-carta/british-library-magna-carta-1215-runnymede/",
+          "institution": "The National Archives / British Library charter",
+          "locator": "Educational English translation of Magna Carta 1215, standard measures clause conventionally numbered 35",
+          "kind": "primary_record",
+          "anchors": [
+            "standard measures of wine, ale, and corn",
+            "1215"
+          ],
+          "verified_on": "2026-11-18",
+          "anchors_present": false,
+          "download_error_type": "ValueError",
+          "download_http_status": null,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
+        }
+      ],
+      "fact_boundary": "The clause names wine, ale and corn; it did not regulate modern coffee, create modern units, or prove uniform enforcement. Clause numbering is editorial, not written numbers in the original charter.",
+      "research_questions": [
+        "[VERIFICAR] Confirm the original charter context, translation and historical units before using quantities or making enforcement claims."
+      ],
+      "author": "Codex native research agent; editorial scores are judgments, not YouTube performance",
+      "original_editorial_assessment": 97,
+      "editorial_score": 74,
+      "score": 74,
+      "source_verified": false,
+      "primary_record_available": false,
+      "benchmark": {
+        "status": "unavailable",
+        "videos": [],
+        "raw_metrics_location": "private Studio cache, never Git",
+        "error_type": null,
+        "median_views_per_day": null,
+        "ctr": null,
+        "retention": null,
+        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
+      },
+      "reused_counterfactual": false,
+      "eligible": false
+    },
+    {
+      "id": "cartwheel-pocket-workout",
+      "title": "What If Pocket Change Was a Workout?",
+      "era": "Britain, 1797 cartwheel copper penny",
+      "premise": "What if today a small coin payment meant carrying the weight of the documented one-ounce 1797 pennies?",
+      "benchmark_query": "What If Pocket Change Was a Workout? history",
+      "tags": [
+        "history",
+        "historical comedy"
+      ],
+      "cast_gags": {
+        "crow": "Introduces an invented ordinary shopping trip from the tower.",
+        "pip": "Carries fictional groceries and a disproportionately heavy coin purse.",
+        "mia": "Separates the specific 1797 penny from other coins and periods.",
+        "rex": "Advertises an imaginary weightless payment solution and hands over copper.",
+        "timmy": "Adds an oversized blank coin-shaped prop as a comic escalation."
+      },
+      "criteria": {
+        "curiosity": 24,
         "cast_comedy": 24,
         "modern_contrast": 25,
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "Communication technology produces an inconvenient physical summons.",
-        "cast_comedy": "A call, walk and corporate announcement form a causal comic arc.",
-        "modern_contrast": "A modern product launch is fiction anchored to the documented experiment.",
-        "primary_sources": "The institutional page identifies the original notebook, but it is not itself the notebook transcript."
+        "curiosity": "A low-value payment acquires a surprising physical burden.",
+        "cast_comedy": "Payment causes a load, a misleading sales pitch and an oversized prop payoff.",
+        "modern_contrast": "The present-day shopping situation is explicitly counterfactual.",
+        "primary_sources": "The museum describes the proclamation, but its account is not the original legal text."
       },
       "sources": [
         {
-          "url": "https://www.loc.gov/collections/alexander-graham-bell-papers/articles-and-essays/collection-highlights/",
-          "institution": "Library of Congress",
-          "locator": "Bell Family Papers collection highlights: scientific notebook entry dated 10 March 1876; institutional description pointing to the manuscript",
-          "kind": "institutional_catalog",
+          "url": "https://www.royalmintmuseum.org.uk/journal/curators-corner/penny/",
+          "institution": "Royal Mint Museum",
+          "locator": "Penny; curator account of cartwheel coins and the proclamation dated 26 July 1797",
+          "kind": "institutional_context",
           "anchors": [
-            "March 10, 1876",
-            "next room"
+            "penny should weigh one ounce",
+            "26 July 1797"
           ],
-          "verified_on": "2026-11-17",
-          "anchors_present": false,
-          "download_error_type": "HTTPError",
-          "download_http_status": 403,
-          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "verified_on": "2026-11-18",
+          "anchors_present": true,
+          "download_error_type": null,
+          "download_http_status": null,
+          "text_sha256": "3f3ac4ff8c0831e58894a5c2e6e81c6f07a99b6a947aae9d98fed26eb3cba906",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "No spilled-acid anecdote, invented emergency, sole-inventor claim or modern office launch is presented as historical fact.",
+      "fact_boundary": "The one-ounce specification concerns this penny. Do not apply it to all British money, modern prices or a large payment beyond the stated legal-tender limit. No exchange-rate or purchasing-power claims.",
       "research_questions": [
-        "[VERIFICAR] Open and cite the exact original notebook page; the curatorial page alone does not establish every spoken detail."
+        "[VERIFICAR] Inspect the original 1797 proclamation and the museum coin record before narrating legal scope or exact transaction arithmetic."
       ],
-      "author": "Codex native research agent; editorial judgments, never measured YouTube performance",
+      "author": "Codex native research agent; editorial scores are judgments, not YouTube performance",
       "original_editorial_assessment": 91,
-      "editorial_score": 71,
-      "score": 71,
-      "source_verified": false,
+      "editorial_score": 73,
+      "score": 73,
+      "source_verified": true,
       "primary_record_available": false,
       "benchmark": {
         "status": "unavailable",
@@ -283,45 +284,45 @@
       "eligible": false
     },
     {
-      "id": "telegraph-office-chat",
-      "title": "What If Your Team Chat Needed a Telegraph Operator?",
-      "era": "Washington and Baltimore telegraph demonstration, May 1844",
-      "premise": "What if today your urgent team-chat update had to travel as an operator-mediated telegraph message instead of a screen notification?",
-      "benchmark_query": "What If Your Team Chat Needed a Telegraph Operator? history",
+      "id": "copy-room-revolution",
+      "title": "What If Copying One Office Page Was the Newest Tech Launch?",
+      "era": "Xerox 914 introduction, 1959; museum object nmah_1085916",
+      "premise": "What if today Rex launched the office copier like a new app and immediately demanded a mountain of duplicate paperwork?",
+      "benchmark_query": "What If Copying One Office Page Was the Newest Tech Launch? history",
       "tags": [
         "history",
         "historical comedy"
       ],
       "cast_gags": {
-        "crow": "Opens an imagined work-chat discussion in the tower book.",
-        "pip": "Hands a fictional urgent memo to an operator.",
-        "mia": "Separates the dated correspondence from the inaugural message artifact.",
-        "rex": "Demands fictional instant replies while adding his own approval step.",
-        "timmy": "Queues a paper emoji that the fictional operator cannot simply tap on screen."
+        "crow": "Opens the tower book onto an imagined office technology launch.",
+        "pip": "Makes one fictional duplicate and receives a growing stack of requests.",
+        "mia": "Distinguishes the model introduction from the manufacture date of the museum specimen.",
+        "rex": "Declares an imaginary end to paperwork while ordering more copies.",
+        "timmy": "Returns a comically oversized stack of blank office pages."
       },
       "criteria": {
         "curiosity": 22,
-        "cast_comedy": 24,
-        "modern_contrast": 24,
+        "cast_comedy": 25,
+        "modern_contrast": 25,
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "A familiar notification becomes a physical chain of handoffs.",
-        "cast_comedy": "Urgency causes a queue, approval and oversized paper reaction.",
-        "modern_contrast": "The modern team chat and paper emoji are fictional contrasts.",
-        "primary_sources": "A contemporary Morse correspondence volume is identified; the precise image and context must be checked before scripting."
+        "curiosity": "An unremarkable machine is treated as a transformative new product.",
+        "cast_comedy": "One requested copy causes many new requests and a paperwork payoff.",
+        "modern_contrast": "The modern product launch is fiction, not a claim about a documented launch event.",
+        "primary_sources": "An identifiable museum object supplies the model and introduction year; performance details remain unverified."
       },
       "sources": [
         {
-          "url": "https://www.loc.gov/resource/mmorse.017001/?sp=198",
-          "institution": "Library of Congress",
-          "locator": "Samuel Finley Breese Morse Papers, bound volume 15 January-8 June 1844, image 198; correspondence, not the original inaugural message strip",
+          "url": "https://www.si.edu/object/xerox-914-plain-paper-copier%3Anmah_1085916",
+          "institution": "Smithsonian National Museum of American History",
+          "locator": "Xerox 914 Plain Paper Copier; nmah_1085916, institutional record identifying the 1959 model introduction",
           "kind": "primary_record",
           "anchors": [
-            "What hath God wrought",
-            "1844"
+            "Introduced in 1959",
+            "Xerox 914"
           ],
-          "verified_on": "2026-11-17",
+          "verified_on": "2026-11-18",
           "anchors_present": false,
           "download_error_type": "HTTPError",
           "download_http_status": 403,
@@ -329,14 +330,14 @@
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "Do not call this correspondence page the original 24 May message strip or claim Morse invented all telegraphy. No unverified per-word fee or speed is asserted.",
+      "fact_boundary": "Do not claim it was the first copying device ever or repeat fire anecdotes, prices, productivity gains or sales totals without additional sources.",
       "research_questions": [
-        "[VERIFICAR] Inspect image 198 and the original May 24 message artifact before quoting transmission details."
+        "[VERIFICAR] Check catalog and original product literature before depicting controls or quoting copy speed, purchase price or running cost."
       ],
-      "author": "Codex native research agent; editorial judgments, never measured YouTube performance",
-      "original_editorial_assessment": 92,
-      "editorial_score": 70,
-      "score": 70,
+      "author": "Codex native research agent; editorial scores are judgments, not YouTube performance",
+      "original_editorial_assessment": 94,
+      "editorial_score": 72,
+      "score": 72,
       "source_verified": false,
       "primary_record_available": false,
       "benchmark": {
@@ -354,7 +355,7 @@
     }
   ],
   "winner": null,
-  "provisional_editorial_winner": "pneumatic-inbox",
+  "provisional_editorial_winner": "handwritten-cash-machine",
   "benchmark_complete": false,
   "benchmark_attempted": false,
   "ranking_basis": "Editorial only; benchmark incomplete, no production winner",
@@ -364,5 +365,5 @@
     100
   ],
   "paid_model_calls": 0,
-  "verified_at": "2026-11-17T14:17:31.419948+00:00"
+  "verified_at": "2026-11-18T14:17:27.700241+00:00"
 }
