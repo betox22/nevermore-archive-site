@@ -1,48 +1,48 @@
 {
   "schema": "nevermore-ideation-2",
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "ideas": [
     {
-      "id": "handwritten-cash-machine",
-      "title": "What If Your Cash Machine Needed a Handwritten Note?",
-      "era": "London, Bank of England running-cash fragment dated 1697",
-      "premise": "What if today a cash withdrawal required a clerk to finish a handwritten promise-to-pay instead of a machine dispensing standard notes?",
-      "benchmark_query": "What If Your Cash Machine Needed a Handwritten Note? history",
+      "id": "laundry-cash-recovery",
+      "title": "What If Laundry Turned Your Savings Into an Archive Puzzle?",
+      "era": "Banknote fragments associated with Mary Maynard, 1855",
+      "premise": "What if today a laundry mistake left Pip assembling his cash like the damaged-note fragments cataloged from Mary Maynard in 1855?",
+      "benchmark_query": "What If Laundry Turned Your Savings Into an Archive Puzzle? history",
       "tags": [
         "history",
         "historical comedy"
       ],
       "cast_gags": {
-        "crow": "Opens an imagined cash-machine screen in the tower book.",
-        "pip": "Waits while a fictional clerk writes a blank non-usable paper prop.",
-        "mia": "Points to the dated archival fragment and corrects claims about all early notes.",
-        "rex": "Sells imaginary instant cash while adding a handwriting queue.",
-        "timmy": "Brings an oversized quill to the fictional counter."
+        "crow": "Opens the tower book onto an imagined forgotten pocket.",
+        "pip": "Finds fictional blank paper scraps after a laundry mishap.",
+        "mia": "Distinguishes the documented 1855 recovery from current bank policies.",
+        "rex": "Sells an invented perfectly secure pocket that was not laundry-proof.",
+        "timmy": "Treats the blank scraps as an oversized puzzle, then learns the documented outcome."
       },
       "criteria": {
-        "curiosity": 23,
+        "curiosity": 24,
         "cast_comedy": 24,
         "modern_contrast": 25,
         "primary_sources": 24
       },
       "rationale": {
-        "curiosity": "A supposedly automatic action becomes a slow personal writing task.",
-        "cast_comedy": "Waiting, added approval and an absurdly large quill form a causal comic arc.",
-        "modern_contrast": "A modern ATM is the invented contrast, not a historical device.",
-        "primary_sources": "The central bank catalogs a surviving 1697 handwritten fragment with a separate 1699 partly printed note."
+        "curiosity": "A daily mistake creates an immediate financial-looking mystery without giving financial advice.",
+        "cast_comedy": "Forgetting, washing, puzzling and checking the record form consequences.",
+        "modern_contrast": "The modern laundry scene is explicitly fictional.",
+        "primary_sources": "The institution catalogs surviving fragments and describes the named historical recovery; current-policy claims are excluded."
       },
       "sources": [
         {
           "url": "https://www.bankofengland.co.uk/museum/online-collections/banknotes/early-banknotes",
           "institution": "Bank of England Museum",
-          "locator": "Early banknotes; 1697 fragment of a running cash note, distinguished from the partly printed 1699 example",
+          "locator": "Early banknotes; Banknote fragments mounted on paper, 1855, Mary Maynard case",
           "kind": "primary_record",
           "anchors": [
-            "Fragment of a running cash note",
-            "1697",
-            "handwritten fragment"
+            "Mary Maynard",
+            "dress was laundered",
+            "1855"
           ],
-          "verified_on": "2026-11-18",
+          "verified_on": "2026-11-19",
           "anchors_present": true,
           "download_error_type": null,
           "download_http_status": null,
@@ -50,14 +50,14 @@
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "No claim that all early notes were wholly handwritten or used as ordinary small change. The ATM, queue and props are fiction. Do not recreate usable banknotes or give modern banking advice.",
+      "fact_boundary": "No nudity or depiction of undergarments: the modern gag uses an ordinary trouser pocket. Do not turn the historical replacement into a guarantee about current damaged-note exchanges or invent sums.",
       "research_questions": [
-        "[VERIFICAR] Inspect the archival images and catalog identifiers before showing handwriting, denominations or withdrawal markings."
+        "[VERIFICAR] Inspect the fragment image and archival reference before recreating markings; cite any amount directly from the catalog."
       ],
-      "author": "Codex native research agent; editorial scores are judgments, not YouTube performance",
-      "original_editorial_assessment": 96,
-      "editorial_score": 96,
-      "score": 96,
+      "author": "Codex native research agent; editorial judgments, never measured YouTube performance",
+      "original_editorial_assessment": 97,
+      "editorial_score": 97,
+      "score": 97,
       "source_verified": true,
       "primary_record_available": true,
       "benchmark": {
@@ -74,21 +74,92 @@
       "eligible": false
     },
     {
-      "id": "pedal-free-commute",
-      "title": "What If Your Rental Bike Had No Pedals?",
-      "era": "Draisine, circa 1818; Smithsonian TR.325369",
-      "premise": "What if today a rental-bike app unlocked a wooden two-wheeler that you had to propel with your feet like the cataloged draisine?",
-      "benchmark_query": "What If Your Rental Bike Had No Pedals? history",
+      "id": "debt-clearance-clay-case",
+      "title": "What If Paying a Bill Generated a Sealed Clay Envelope?",
+      "era": "Old Assyrian Trading Colony, ca. 20th-19th century BCE, probably Kultepe",
+      "premise": "What if today clearing a debt produced a physical clay-case confirmation instead of a small app notification?",
+      "benchmark_query": "What If Paying a Bill Generated a Sealed Clay Envelope? history",
       "tags": [
         "history",
         "historical comedy"
       ],
       "cast_gags": {
-        "crow": "Introduces an imaginary commute from the tower.",
-        "pip": "Looks for pedals and then has to push along with his feet.",
-        "mia": "Distinguishes the surviving circa-1818 example from Drais original machine.",
-        "rex": "Markets imaginary pedal-free premium transport.",
-        "timmy": "Overtakes the stationary argument on foot in a closed safe cartoon set."
+        "crow": "Opens a fictional payment-confirmation screen in the tower book.",
+        "pip": "Receives a fictional clay-sized package after clearing a modern bill.",
+        "mia": "Separates the repayment quittance from a new-loan contract and notes the text was repeated outside.",
+        "rex": "Praises the invented packaging as a paperless improvement.",
+        "timmy": "Produces a huge blank outer case to exaggerate the packaging burden."
+      },
+      "criteria": {
+        "curiosity": 25,
+        "cast_comedy": 25,
+        "modern_contrast": 25,
+        "primary_sources": 0
+      },
+      "rationale": {
+        "curiosity": "A tiny modern notification becomes a physical delivery.",
+        "cast_comedy": "Payment causes packaging, a records check and an oversized-package payoff.",
+        "modern_contrast": "The app and parcel-size joke are invented analogies.",
+        "primary_sources": "The museum identifies an original case and its matching tablet, with a specific transaction type."
+      },
+      "sources": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/328902?searchField=All",
+          "institution": "The Metropolitan Museum of Art",
+          "locator": "Clay case 66.245.16b for tablet 66.245.16a, quittance for a silver loan; collection record 328902",
+          "kind": "primary_record",
+          "anchors": [
+            "66.245.16b",
+            "discharge from debt",
+            "sealed clay envelope"
+          ],
+          "verified_on": "2026-11-19",
+          "anchors_present": false,
+          "download_error_type": "HTTPError",
+          "download_http_status": 429,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
+        }
+      ],
+      "fact_boundary": "Do not confuse case 66.245.16b with loan tablet 66.245.17a. The source says contents were repeated outside: never claim the case had to be smashed just to read the message. No invented inscriptions or interest rates.",
+      "research_questions": [
+        "[VERIFICAR] Inspect the tablet-case pairing, transcription and uncertain findspot before scripting names, amounts or seal details."
+      ],
+      "author": "Codex native research agent; editorial judgments, never measured YouTube performance",
+      "original_editorial_assessment": 99,
+      "editorial_score": 75,
+      "score": 75,
+      "source_verified": false,
+      "primary_record_available": false,
+      "benchmark": {
+        "status": "unavailable",
+        "videos": [],
+        "raw_metrics_location": "private Studio cache, never Git",
+        "error_type": null,
+        "median_views_per_day": null,
+        "ctr": null,
+        "retention": null,
+        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
+      },
+      "reused_counterfactual": false,
+      "eligible": false
+    },
+    {
+      "id": "desk-expiry-meter",
+      "title": "What If Your Office Desk Expired Like a Mechanical Parking Meter?",
+      "era": "US curbside parking meters, 1930s; Miller model late 1930s",
+      "premise": "What if today Rex put a mechanical parking-style coin timer on Pip's desk and demanded another coin whenever his workspace expired?",
+      "benchmark_query": "What If Your Office Desk Expired Like a Mechanical Parking Meter? history",
+      "tags": [
+        "history",
+        "historical comedy"
+      ],
+      "cast_gags": {
+        "crow": "Opens a fictional office floor plan in the tower book.",
+        "pip": "Pays an invented desk timer and immediately receives more work.",
+        "mia": "Distinguishes the museum Miller model from the earliest 1935 installations.",
+        "rex": "Markets the fictional desk fee as flexible workplace access.",
+        "timmy": "Carries an oversized blank coin while the adults argue about the imaginary timer."
       },
       "criteria": {
         "curiosity": 24,
@@ -97,22 +168,22 @@
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "An absent everyday component creates an immediate curiosity gap.",
-        "cast_comedy": "Unlock, search, physical effort and a walking overtaker form consequences.",
-        "modern_contrast": "The app and modern commute are explicitly invented.",
-        "primary_sources": "The museum holds a surviving early vehicle but says its exact origin is unknown."
+        "curiosity": "A familiar parking constraint invades an unrelated everyday workplace.",
+        "cast_comedy": "Payment triggers expiry, a sales pitch and an oversized-coin payoff.",
+        "modern_contrast": "The paid desk is a counterfactual, not a documented 1930s employment practice.",
+        "primary_sources": "The original museum device is identifiable; a successful catalog download must confirm its model and date."
       },
       "sources": [
         {
-          "url": "https://www.si.edu/object/draisine-ca-1818%3Anmah_843083",
+          "url": "https://www.si.edu/object/miller-parking-meter%3Anmah_1290920",
           "institution": "Smithsonian National Museum of American History",
-          "locator": "Draisine, ca. 1818; nmah_843083; TR.325369 / catalog 325369",
+          "locator": "Miller Parking Meter, museum record nmah_1290920; model introduced late 1930s, distinguished from first Oklahoma City meters of 1935",
           "kind": "primary_record",
           "anchors": [
-            "ca 1818",
-            "propelled by walking swiftly"
+            "Miller parking meter",
+            "late 1930s"
           ],
-          "verified_on": "2026-11-18",
+          "verified_on": "2026-11-19",
           "anchors_present": false,
           "download_error_type": "HTTPError",
           "download_http_status": 403,
@@ -120,12 +191,12 @@
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "Do not call this object Karl Drais personal 1817 prototype. No invented rental price, speed or accident statistics; no dangerous riding gag.",
+      "fact_boundary": "Never label this Miller artifact as the exact first 1935 parking meter. No invented original price, operating interval, revenue or company history; no reenacted unsafe driving.",
       "research_questions": [
-        "[VERIFICAR] Inspect the original object images and dimensions before reconstructing its steering and foot-propulsion movement."
+        "[VERIFICAR] Confirm the catalog and model operating instructions before showing the mechanism or quoting coin values and time intervals."
       ],
-      "author": "Codex native research agent; editorial scores are judgments, not YouTube performance",
-      "original_editorial_assessment": 97,
+      "author": "Codex native research agent; editorial judgments, never measured YouTube performance",
+      "original_editorial_assessment": 96,
       "editorial_score": 74,
       "score": 74,
       "source_verified": false,
@@ -144,60 +215,60 @@
       "eligible": false
     },
     {
-      "id": "charter-cafe-measures",
-      "title": "What If Your Cafe Needed a Medieval Measurement Charter?",
-      "era": "England, Magna Carta 1215, conventionally numbered clause 35",
-      "premise": "What if today Rex sold drinks in whatever cup size he liked until Mia brought the standard-measure demand recorded in Magna Carta?",
-      "benchmark_query": "What If Your Cafe Needed a Medieval Measurement Charter? history",
+      "id": "postage-before-send",
+      "title": "What If Your Send Button Needed a Postage Stamp?",
+      "era": "Britain, Penny Black issue dated 6 May 1840",
+      "premise": "What if today every fictional office message needed a physical postage stamp before anyone could press send?",
+      "benchmark_query": "What If Your Send Button Needed a Postage Stamp? history",
       "tags": [
         "history",
         "historical comedy"
       ],
       "cast_gags": {
-        "crow": "Opens the tower book on an imagined cafe menu.",
-        "pip": "Receives an unexpectedly tiny fictional cup.",
-        "mia": "Uses the translated charter clause to challenge inconsistent measures.",
-        "rex": "Rebrands shrinking cups in a clearly invented cafe.",
-        "timmy": "Produces an oversized measuring vessel rather than inventing manuscript writing."
+        "crow": "Opens a fictional office inbox in the tower.",
+        "pip": "Prepares an imagined email and has to find a physical stamp.",
+        "mia": "Separates the real dated stamp artifact from the invented digital office.",
+        "rex": "Calls the fictional extra step a productivity improvement.",
+        "timmy": "Brings a comically oversized blank stamp prop to a tiny send button."
       },
       "criteria": {
-        "curiosity": 24,
+        "curiosity": 23,
         "cast_comedy": 25,
         "modern_contrast": 25,
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "A familiar portion-size argument connects with a specific medieval clause.",
-        "cast_comedy": "A small serving causes a documentary challenge and a large measuring gag.",
-        "modern_contrast": "The cafe scenario is fictional; only the cited wording supplies the historical anchor.",
-        "primary_sources": "The educational translation points to an identifiable charter clause; current download and exact wording must pass."
+        "curiosity": "A familiar instant action acquires a physical prerequisite.",
+        "cast_comedy": "Drafting, searching, bureaucracy and an oversized prop form a causal gag.",
+        "modern_contrast": "The office-email service is fiction, not an 1840 technology claim.",
+        "primary_sources": "A museum holds an identifiable original stamp block with an issue date."
       },
       "sources": [
         {
-          "url": "https://www.nationalarchives.gov.uk/education/resources/magna-carta/british-library-magna-carta-1215-runnymede/",
-          "institution": "The National Archives / British Library charter",
-          "locator": "Educational English translation of Magna Carta 1215, standard measures clause conventionally numbered 35",
+          "url": "https://www.metmuseum.org/art/collection/search/211407",
+          "institution": "The Metropolitan Museum of Art",
+          "locator": "Unused block of four Penny Black postage stamps of Queen Victoria; after William Wyon; issued May 6, 1840; collection record 211407",
           "kind": "primary_record",
           "anchors": [
-            "standard measures of wine, ale, and corn",
-            "1215"
+            "Penny Black",
+            "issued May 6, 1840"
           ],
-          "verified_on": "2026-11-18",
+          "verified_on": "2026-11-19",
           "anchors_present": false,
-          "download_error_type": "ValueError",
-          "download_http_status": null,
+          "download_error_type": "HTTPError",
+          "download_http_status": 429,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "The clause names wine, ale and corn; it did not regulate modern coffee, create modern units, or prove uniform enforcement. Clause numbering is editorial, not written numbers in the original charter.",
+      "fact_boundary": "This proposal concerns a dated British postal artifact, not a tax on email. Do not call a penny a US cent, universalize postage rates or claim every earlier pre-issue cover is a fake.",
       "research_questions": [
-        "[VERIFICAR] Confirm the original charter context, translation and historical units before using quantities or making enforcement claims."
+        "[VERIFICAR] Consult the original postal reform rules before making claims about payment, weight limits or rates."
       ],
-      "author": "Codex native research agent; editorial scores are judgments, not YouTube performance",
-      "original_editorial_assessment": 97,
-      "editorial_score": 74,
-      "score": 74,
+      "author": "Codex native research agent; editorial judgments, never measured YouTube performance",
+      "original_editorial_assessment": 96,
+      "editorial_score": 73,
+      "score": 73,
       "source_verified": false,
       "primary_record_available": false,
       "benchmark": {
@@ -214,128 +285,58 @@
       "eligible": false
     },
     {
-      "id": "cartwheel-pocket-workout",
-      "title": "What If Pocket Change Was a Workout?",
-      "era": "Britain, 1797 cartwheel copper penny",
-      "premise": "What if today a small coin payment meant carrying the weight of the documented one-ounce 1797 pennies?",
-      "benchmark_query": "What If Pocket Change Was a Workout? history",
+      "id": "shield-biting-meeting-mascot",
+      "title": "What If Your Meeting Mascot Bit Its Own Shield?",
+      "era": "Medieval Lewis chessmen; modern Met curator discussion, 2011",
+      "premise": "What if today the office meeting mascot copied the shield-biting gesture shown on a Lewis chessman instead of holding a stress toy?",
+      "benchmark_query": "What If Your Meeting Mascot Bit Its Own Shield? history",
       "tags": [
         "history",
         "historical comedy"
       ],
       "cast_gags": {
-        "crow": "Introduces an invented ordinary shopping trip from the tower.",
-        "pip": "Carries fictional groceries and a disproportionately heavy coin purse.",
-        "mia": "Separates the specific 1797 penny from other coins and periods.",
-        "rex": "Advertises an imaginary weightless payment solution and hands over copper.",
-        "timmy": "Adds an oversized blank coin-shaped prop as a comic escalation."
+        "crow": "Introduces an imagined meeting prop from the tower.",
+        "pip": "Looks at the depicted gesture during a fictional difficult meeting.",
+        "mia": "Separates a carved gesture and curator interpretation from proven combat behavior.",
+        "rex": "Makes an invented presentation about calm workplace culture.",
+        "timmy": "Holds an oversized blank shield-shaped toy; no teeth injury or real biting stunt."
       },
       "criteria": {
         "curiosity": 24,
         "cast_comedy": 24,
-        "modern_contrast": 25,
+        "modern_contrast": 24,
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "A low-value payment acquires a surprising physical burden.",
-        "cast_comedy": "Payment causes a load, a misleading sales pitch and an oversized prop payoff.",
-        "modern_contrast": "The present-day shopping situation is explicitly counterfactual.",
-        "primary_sources": "The museum describes the proclamation, but its account is not the original legal text."
+        "curiosity": "A distinctive carved gesture resembles a familiar exaggerated reaction.",
+        "cast_comedy": "A difficult meeting leads to a prop comparison, correction and payoff.",
+        "modern_contrast": "All office behavior is fiction, not a reconstruction of medieval meetings.",
+        "primary_sources": "The museum discussion is attributable context, not a primary written report of battlefield behavior."
       },
       "sources": [
         {
-          "url": "https://www.royalmintmuseum.org.uk/journal/curators-corner/penny/",
-          "institution": "Royal Mint Museum",
-          "locator": "Penny; curator account of cartwheel coins and the proclamation dated 26 July 1797",
+          "url": "https://www.metmuseum.org/exhibitions/listings/2011/the-game-of-kings-medieval-ivory-chessmen-from-the-isle-of-lewis/exhibition-blog/game-of-kings/blog/maddens-moves",
+          "institution": "The Metropolitan Museum of Art",
+          "locator": "Madden's Moves, The Game of Kings exhibition blog; curator description of a Lewis berserker warder",
           "kind": "institutional_context",
           "anchors": [
-            "penny should weigh one ounce",
-            "26 July 1797"
+            "Berserker",
+            "biting the top of his shield"
           ],
-          "verified_on": "2026-11-18",
-          "anchors_present": true,
-          "download_error_type": null,
-          "download_http_status": null,
-          "text_sha256": "3f3ac4ff8c0831e58894a5c2e6e81c6f07a99b6a947aae9d98fed26eb3cba906",
-          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
-        }
-      ],
-      "fact_boundary": "The one-ounce specification concerns this penny. Do not apply it to all British money, modern prices or a large payment beyond the stated legal-tender limit. No exchange-rate or purchasing-power claims.",
-      "research_questions": [
-        "[VERIFICAR] Inspect the original 1797 proclamation and the museum coin record before narrating legal scope or exact transaction arithmetic."
-      ],
-      "author": "Codex native research agent; editorial scores are judgments, not YouTube performance",
-      "original_editorial_assessment": 91,
-      "editorial_score": 73,
-      "score": 73,
-      "source_verified": true,
-      "primary_record_available": false,
-      "benchmark": {
-        "status": "unavailable",
-        "videos": [],
-        "raw_metrics_location": "private Studio cache, never Git",
-        "error_type": null,
-        "median_views_per_day": null,
-        "ctr": null,
-        "retention": null,
-        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
-      },
-      "reused_counterfactual": false,
-      "eligible": false
-    },
-    {
-      "id": "copy-room-revolution",
-      "title": "What If Copying One Office Page Was the Newest Tech Launch?",
-      "era": "Xerox 914 introduction, 1959; museum object nmah_1085916",
-      "premise": "What if today Rex launched the office copier like a new app and immediately demanded a mountain of duplicate paperwork?",
-      "benchmark_query": "What If Copying One Office Page Was the Newest Tech Launch? history",
-      "tags": [
-        "history",
-        "historical comedy"
-      ],
-      "cast_gags": {
-        "crow": "Opens the tower book onto an imagined office technology launch.",
-        "pip": "Makes one fictional duplicate and receives a growing stack of requests.",
-        "mia": "Distinguishes the model introduction from the manufacture date of the museum specimen.",
-        "rex": "Declares an imaginary end to paperwork while ordering more copies.",
-        "timmy": "Returns a comically oversized stack of blank office pages."
-      },
-      "criteria": {
-        "curiosity": 22,
-        "cast_comedy": 25,
-        "modern_contrast": 25,
-        "primary_sources": 0
-      },
-      "rationale": {
-        "curiosity": "An unremarkable machine is treated as a transformative new product.",
-        "cast_comedy": "One requested copy causes many new requests and a paperwork payoff.",
-        "modern_contrast": "The modern product launch is fiction, not a claim about a documented launch event.",
-        "primary_sources": "An identifiable museum object supplies the model and introduction year; performance details remain unverified."
-      },
-      "sources": [
-        {
-          "url": "https://www.si.edu/object/xerox-914-plain-paper-copier%3Anmah_1085916",
-          "institution": "Smithsonian National Museum of American History",
-          "locator": "Xerox 914 Plain Paper Copier; nmah_1085916, institutional record identifying the 1959 model introduction",
-          "kind": "primary_record",
-          "anchors": [
-            "Introduced in 1959",
-            "Xerox 914"
-          ],
-          "verified_on": "2026-11-18",
+          "verified_on": "2026-11-19",
           "anchors_present": false,
           "download_error_type": "HTTPError",
-          "download_http_status": 403,
+          "download_http_status": 429,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "Do not claim it was the first copying device ever or repeat fire anecdotes, prices, productivity gains or sales totals without additional sources.",
+      "fact_boundary": "Do not diagnose the original sitter or assert drugs, frenzy or universal Viking shield-biting. No violence, blood or injury. Rook is a modern comparison to the warder role, not proof of identical medieval rules.",
       "research_questions": [
-        "[VERIFICAR] Check catalog and original product literature before depicting controls or quoting copy speed, purchase price or running cost."
+        "[VERIFICAR] Locate the exact warder object number, dating and original catalog before drawing the piece or asserting its workshop."
       ],
-      "author": "Codex native research agent; editorial scores are judgments, not YouTube performance",
-      "original_editorial_assessment": 94,
+      "author": "Codex native research agent; editorial judgments, never measured YouTube performance",
+      "original_editorial_assessment": 90,
       "editorial_score": 72,
       "score": 72,
       "source_verified": false,
@@ -355,7 +356,7 @@
     }
   ],
   "winner": null,
-  "provisional_editorial_winner": "handwritten-cash-machine",
+  "provisional_editorial_winner": "laundry-cash-recovery",
   "benchmark_complete": false,
   "benchmark_attempted": false,
   "ranking_basis": "Editorial only; benchmark incomplete, no production winner",
@@ -365,5 +366,5 @@
     100
   ],
   "paid_model_calls": 0,
-  "verified_at": "2026-11-18T14:17:27.700241+00:00"
+  "verified_at": "2026-11-19T14:10:50.497350+00:00"
 }
