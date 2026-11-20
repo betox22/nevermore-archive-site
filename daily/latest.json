@@ -1,63 +1,63 @@
 {
   "schema": "nevermore-ideation-2",
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "ideas": [
     {
-      "id": "laundry-cash-recovery",
-      "title": "What If Laundry Turned Your Savings Into an Archive Puzzle?",
-      "era": "Banknote fragments associated with Mary Maynard, 1855",
-      "premise": "What if today a laundry mistake left Pip assembling his cash like the damaged-note fragments cataloged from Mary Maynard in 1855?",
-      "benchmark_query": "What If Laundry Turned Your Savings Into an Archive Puzzle? history",
+      "id": "wavy-edge-contract-login",
+      "title": "What If Your Contract Password Was Its Wavy Edge?",
+      "era": "New Place property record, 1597",
+      "premise": "What if today Pip could authenticate a fictional office contract only by matching its wavy paper edge to the other copies?",
+      "benchmark_query": "What If Your Contract Password Was Its Wavy Edge? history",
       "tags": [
         "history",
         "historical comedy"
       ],
       "cast_gags": {
-        "crow": "Opens the tower book onto an imagined forgotten pocket.",
-        "pip": "Finds fictional blank paper scraps after a laundry mishap.",
-        "mia": "Distinguishes the documented 1855 recovery from current bank policies.",
-        "rex": "Sells an invented perfectly secure pocket that was not laundry-proof.",
-        "timmy": "Treats the blank scraps as an oversized puzzle, then learns the documented outcome."
+        "crow": "Opens the book to the documented archival reference.",
+        "pip": "Brings the wrong fictional jagged copy to a meeting.",
+        "mia": "Explains the documented three-part record without giving current legal advice.",
+        "rex": "Treats a crooked edge as an invented office login failure.",
+        "timmy": "Solves the physical matching puzzle while adults demand a digital reset."
       },
       "criteria": {
         "curiosity": 24,
-        "cast_comedy": 24,
+        "cast_comedy": 25,
         "modern_contrast": 25,
         "primary_sources": 24
       },
       "rationale": {
-        "curiosity": "A daily mistake creates an immediate financial-looking mystery without giving financial advice.",
-        "cast_comedy": "Forgetting, washing, puzzling and checking the record form consequences.",
-        "modern_contrast": "The modern laundry scene is explicitly fictional.",
-        "primary_sources": "The institution catalogs surviving fragments and describes the named historical recovery; current-policy claims are excluded."
+        "curiosity": "A familiar modern task acquires a visible historical obstacle; this is editorial judgment, not measured demand.",
+        "cast_comedy": "The listed fictional actions cause a problem, attempted fix and physical payoff.",
+        "modern_contrast": "The modern office or household is explicitly imagined, not a historical reconstruction.",
+        "primary_sources": "The named institution identifies a specific surviving document or object; access, anchor matching and semantic limits remain separate checks."
       },
       "sources": [
         {
-          "url": "https://www.bankofengland.co.uk/museum/online-collections/banknotes/early-banknotes",
-          "institution": "Bank of England Museum",
-          "locator": "Early banknotes; Banknote fragments mounted on paper, 1855, Mary Maynard case",
+          "url": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/william-shakespeare/",
+          "institution": "The National Archives, UK",
+          "locator": "Foot of fine for New Place, 1597; CP 25/2/237/39ELIZIEASTER",
           "kind": "primary_record",
           "anchors": [
-            "Mary Maynard",
-            "dress was laundered",
-            "1855"
+            "CP 25/2/237/39ELIZIEASTER",
+            "wavy lines",
+            "1597"
           ],
-          "verified_on": "2026-11-19",
+          "verified_on": "2026-11-20",
           "anchors_present": true,
           "download_error_type": null,
           "download_http_status": null,
-          "text_sha256": "865c2041de4313e7bb2d58268d1fb47f8507477979604d231736a9fafd532698",
+          "text_sha256": "86a9d91139a161bd9b7e62367ec25c86e770a16a615a8ec801aabb5548acc8d3",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "No nudity or depiction of undergarments: the modern gag uses an ordinary trouser pocket. Do not turn the historical replacement into a guarantee about current damaged-note exchanges or invent sums.",
+      "fact_boundary": "The surviving record concerns the 1597 New Place transaction. The imagined office authentication is a metaphor, not a universal historical rule or current legal requirement.",
       "research_questions": [
-        "[VERIFICAR] Inspect the fragment image and archival reference before recreating markings; cite any amount directly from the catalog."
+        "[VERIFICAR] Read the actual record and institutional explanation; blocked retrieval cannot be replaced by search snippets."
       ],
-      "author": "Codex native research agent; editorial judgments, never measured YouTube performance",
-      "original_editorial_assessment": 97,
-      "editorial_score": 97,
-      "score": 97,
+      "author": "Codex native research; no model API, audience estimates or invented metrics",
+      "original_editorial_assessment": 98,
+      "editorial_score": 98,
+      "score": 98,
       "source_verified": true,
       "primary_record_available": true,
       "benchmark": {
@@ -74,63 +74,63 @@
       "eligible": false
     },
     {
-      "id": "debt-clearance-clay-case",
-      "title": "What If Paying a Bill Generated a Sealed Clay Envelope?",
-      "era": "Old Assyrian Trading Colony, ca. 20th-19th century BCE, probably Kultepe",
-      "premise": "What if today clearing a debt produced a physical clay-case confirmation instead of a small app notification?",
-      "benchmark_query": "What If Paying a Bill Generated a Sealed Clay Envelope? history",
+      "id": "rough-draft-review-marathon",
+      "title": "What If Your Office Memo Needed a 1776 Revision Committee?",
+      "era": "Philadelphia, June 1776; Declaration rough draft",
+      "premise": "What if today Pip's ordinary office memo had to survive handwritten revisions like the surviving 1776 Declaration rough draft?",
+      "benchmark_query": "What If Your Office Memo Needed a 1776 Revision Committee? history",
       "tags": [
         "history",
         "historical comedy"
       ],
       "cast_gags": {
-        "crow": "Opens a fictional payment-confirmation screen in the tower book.",
-        "pip": "Receives a fictional clay-sized package after clearing a modern bill.",
-        "mia": "Separates the repayment quittance from a new-loan contract and notes the text was repeated outside.",
-        "rex": "Praises the invented packaging as a paperless improvement.",
-        "timmy": "Produces a huge blank outer case to exaggerate the packaging burden."
+        "crow": "Opens the tower book to a marked-up draft.",
+        "pip": "Brings one fictional sentence for approval.",
+        "mia": "Separates documented manuscript edits from invented office dialogue.",
+        "rex": "Adds another fictional review round with a pleased smile.",
+        "timmy": "Unrolls an oversized blank revision strip that pushes the memo off the desk."
       },
       "criteria": {
-        "curiosity": 25,
-        "cast_comedy": 25,
-        "modern_contrast": 25,
-        "primary_sources": 0
+        "curiosity": 23,
+        "cast_comedy": 24,
+        "modern_contrast": 24,
+        "primary_sources": 24
       },
       "rationale": {
-        "curiosity": "A tiny modern notification becomes a physical delivery.",
-        "cast_comedy": "Payment causes packaging, a records check and an oversized-package payoff.",
-        "modern_contrast": "The app and parcel-size joke are invented analogies.",
-        "primary_sources": "The museum identifies an original case and its matching tablet, with a specific transaction type."
+        "curiosity": "A familiar modern task acquires a visible historical obstacle; this is editorial judgment, not measured demand.",
+        "cast_comedy": "The listed fictional actions cause a problem, attempted fix and physical payoff.",
+        "modern_contrast": "The modern office or household is explicitly imagined, not a historical reconstruction.",
+        "primary_sources": "The named institution identifies a specific surviving document or object; access, anchor matching and semantic limits remain separate checks."
       },
       "sources": [
         {
-          "url": "https://www.metmuseum.org/art/collection/search/328902?searchField=All",
-          "institution": "The Metropolitan Museum of Art",
-          "locator": "Clay case 66.245.16b for tablet 66.245.16a, quittance for a silver loan; collection record 328902",
+          "url": "https://www.loc.gov/exhibits/declara/declara4.html",
+          "institution": "Library of Congress",
+          "locator": "Jefferson Papers, Manuscript Division; exhibition object 3, original Rough draught, June 1776",
           "kind": "primary_record",
           "anchors": [
-            "66.245.16b",
-            "discharge from debt",
-            "sealed clay envelope"
+            "original Rough draught",
+            "John Adams",
+            "Benjamin Franklin"
           ],
-          "verified_on": "2026-11-19",
-          "anchors_present": false,
-          "download_error_type": "HTTPError",
-          "download_http_status": 429,
-          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "verified_on": "2026-11-20",
+          "anchors_present": true,
+          "download_error_type": null,
+          "download_http_status": null,
+          "text_sha256": "c12fac83bb932df6e82eee2121b20b8c48b2350163d457961c4e4928f697a44a",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "Do not confuse case 66.245.16b with loan tablet 66.245.17a. The source says contents were repeated outside: never claim the case had to be smashed just to read the message. No invented inscriptions or interest rates.",
+      "fact_boundary": "The office memo and cast dialogue are fiction. Do not turn exhibit commentary into an exact count of edits or claim every deletion came from the same person.",
       "research_questions": [
-        "[VERIFICAR] Inspect the tablet-case pairing, transcription and uncertain findspot before scripting names, amounts or seal details."
+        "[VERIFICAR] Read the facsimile/transcript for any particular wording, deletion or attribution before scripting it."
       ],
-      "author": "Codex native research agent; editorial judgments, never measured YouTube performance",
-      "original_editorial_assessment": 99,
-      "editorial_score": 75,
-      "score": 75,
-      "source_verified": false,
-      "primary_record_available": false,
+      "author": "Codex native research; no model API, audience estimates or invented metrics",
+      "original_editorial_assessment": 95,
+      "editorial_score": 95,
+      "score": 95,
+      "source_verified": true,
+      "primary_record_available": true,
       "benchmark": {
         "status": "unavailable",
         "videos": [],
@@ -145,45 +145,46 @@
       "eligible": false
     },
     {
-      "id": "desk-expiry-meter",
-      "title": "What If Your Office Desk Expired Like a Mechanical Parking Meter?",
-      "era": "US curbside parking meters, 1930s; Miller model late 1930s",
-      "premise": "What if today Rex put a mechanical parking-style coin timer on Pip's desk and demanded another coin whenever his workspace expired?",
-      "benchmark_query": "What If Your Office Desk Expired Like a Mechanical Parking Meter? history",
+      "id": "tally-stick-retention-disaster",
+      "title": "What If Deleting Old Receipts Could Burn Down Your Office?",
+      "era": "Medieval receipt objects c.1293-1294; Westminster fire context 1834",
+      "premise": "What if today Rex tried to clear Pip's physical receipt archive with the disastrously wrong disposal method recalled in Parliament's 1834 fire account?",
+      "benchmark_query": "What If Deleting Old Receipts Could Burn Down Your Office? history",
       "tags": [
         "history",
         "historical comedy"
       ],
       "cast_gags": {
-        "crow": "Opens a fictional office floor plan in the tower book.",
-        "pip": "Pays an invented desk timer and immediately receives more work.",
-        "mia": "Distinguishes the museum Miller model from the earliest 1935 installations.",
-        "rex": "Markets the fictional desk fee as flexible workplace access.",
-        "timmy": "Carries an oversized blank coin while the adults argue about the imaginary timer."
+        "crow": "Opens the archive book to an old receipt object.",
+        "pip": "Attempts an imagined office clean-up with wooden receipts.",
+        "mia": "Stops an unsafe fictional disposal plan before anyone lights anything.",
+        "rex": "Insists that deleting records should also heat the office.",
+        "timmy": "Produces an oversized fire-safety checklist instead of a match."
       },
       "criteria": {
-        "curiosity": 24,
-        "cast_comedy": 25,
+        "curiosity": 25,
+        "cast_comedy": 23,
         "modern_contrast": 25,
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "A familiar parking constraint invades an unrelated everyday workplace.",
-        "cast_comedy": "Payment triggers expiry, a sales pitch and an oversized-coin payoff.",
-        "modern_contrast": "The paid desk is a counterfactual, not a documented 1930s employment practice.",
-        "primary_sources": "The original museum device is identifiable; a successful catalog download must confirm its model and date."
+        "curiosity": "A familiar modern task acquires a visible historical obstacle; this is editorial judgment, not measured demand.",
+        "cast_comedy": "The listed fictional actions cause a problem, attempted fix and physical payoff.",
+        "modern_contrast": "The modern office or household is explicitly imagined, not a historical reconstruction.",
+        "primary_sources": "The named institution identifies a specific surviving document or object; access, anchor matching and semantic limits remain separate checks."
       },
       "sources": [
         {
-          "url": "https://www.si.edu/object/miller-parking-meter%3Anmah_1290920",
-          "institution": "Smithsonian National Museum of American History",
-          "locator": "Miller Parking Meter, museum record nmah_1290920; model introduced late 1930s, distinguished from first Oklahoma City meters of 1935",
+          "url": "https://www.parliament.uk/about/living-heritage/building/palace/estatehistory/from-the-parliamentary-collections/fire-of-westminster/tallysticks/",
+          "institution": "UK Parliament / Parliamentary Archives",
+          "locator": "Medieval Tally Sticks c.1293-1294; catalogue displayed HL/PO/RO/1/195; institutional fire commentary",
           "kind": "primary_record",
           "anchors": [
-            "Miller parking meter",
-            "late 1930s"
+            "Tally sticks",
+            "16 October 1834",
+            "HL/PO/RO/1/195"
           ],
-          "verified_on": "2026-11-19",
+          "verified_on": "2026-11-20",
           "anchors_present": false,
           "download_error_type": "HTTPError",
           "download_http_status": 403,
@@ -191,82 +192,12 @@
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "Never label this Miller artifact as the exact first 1935 parking meter. No invented original price, operating interval, revenue or company history; no reenacted unsafe driving.",
+      "fact_boundary": "Surviving tally sticks are primary objects; the fire narrative on this page is institutional secondary commentary. No flames near people, injury jokes, invented damage totals or assertion that this object was burned.",
       "research_questions": [
-        "[VERIFICAR] Confirm the catalog and model operating instructions before showing the mechanism or quoting coin values and time intervals."
+        "[VERIFICAR] Obtain a contemporary inquiry or eyewitness record before treating the precise causal fire sequence as primary-record evidence."
       ],
-      "author": "Codex native research agent; editorial judgments, never measured YouTube performance",
-      "original_editorial_assessment": 96,
-      "editorial_score": 74,
-      "score": 74,
-      "source_verified": false,
-      "primary_record_available": false,
-      "benchmark": {
-        "status": "unavailable",
-        "videos": [],
-        "raw_metrics_location": "private Studio cache, never Git",
-        "error_type": null,
-        "median_views_per_day": null,
-        "ctr": null,
-        "retention": null,
-        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
-      },
-      "reused_counterfactual": false,
-      "eligible": false
-    },
-    {
-      "id": "postage-before-send",
-      "title": "What If Your Send Button Needed a Postage Stamp?",
-      "era": "Britain, Penny Black issue dated 6 May 1840",
-      "premise": "What if today every fictional office message needed a physical postage stamp before anyone could press send?",
-      "benchmark_query": "What If Your Send Button Needed a Postage Stamp? history",
-      "tags": [
-        "history",
-        "historical comedy"
-      ],
-      "cast_gags": {
-        "crow": "Opens a fictional office inbox in the tower.",
-        "pip": "Prepares an imagined email and has to find a physical stamp.",
-        "mia": "Separates the real dated stamp artifact from the invented digital office.",
-        "rex": "Calls the fictional extra step a productivity improvement.",
-        "timmy": "Brings a comically oversized blank stamp prop to a tiny send button."
-      },
-      "criteria": {
-        "curiosity": 23,
-        "cast_comedy": 25,
-        "modern_contrast": 25,
-        "primary_sources": 0
-      },
-      "rationale": {
-        "curiosity": "A familiar instant action acquires a physical prerequisite.",
-        "cast_comedy": "Drafting, searching, bureaucracy and an oversized prop form a causal gag.",
-        "modern_contrast": "The office-email service is fiction, not an 1840 technology claim.",
-        "primary_sources": "A museum holds an identifiable original stamp block with an issue date."
-      },
-      "sources": [
-        {
-          "url": "https://www.metmuseum.org/art/collection/search/211407",
-          "institution": "The Metropolitan Museum of Art",
-          "locator": "Unused block of four Penny Black postage stamps of Queen Victoria; after William Wyon; issued May 6, 1840; collection record 211407",
-          "kind": "primary_record",
-          "anchors": [
-            "Penny Black",
-            "issued May 6, 1840"
-          ],
-          "verified_on": "2026-11-19",
-          "anchors_present": false,
-          "download_error_type": "HTTPError",
-          "download_http_status": 429,
-          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
-        }
-      ],
-      "fact_boundary": "This proposal concerns a dated British postal artifact, not a tax on email. Do not call a penny a US cent, universalize postage rates or claim every earlier pre-issue cover is a fake.",
-      "research_questions": [
-        "[VERIFICAR] Consult the original postal reform rules before making claims about payment, weight limits or rates."
-      ],
-      "author": "Codex native research agent; editorial judgments, never measured YouTube performance",
-      "original_editorial_assessment": 96,
+      "author": "Codex native research; no model API, audience estimates or invented metrics",
+      "original_editorial_assessment": 97,
       "editorial_score": 73,
       "score": 73,
       "source_verified": false,
@@ -285,60 +216,132 @@
       "eligible": false
     },
     {
-      "id": "shield-biting-meeting-mascot",
-      "title": "What If Your Meeting Mascot Bit Its Own Shield?",
-      "era": "Medieval Lewis chessmen; modern Met curator discussion, 2011",
-      "premise": "What if today the office meeting mascot copied the shield-biting gesture shown on a Lewis chessman instead of holding a stress toy?",
-      "benchmark_query": "What If Your Meeting Mascot Bit Its Own Shield? history",
+      "id": "road-book-before-gps",
+      "title": "What If Your GPS Was an 1886 Cycling Road Book?",
+      "era": "Boston, 1886",
+      "premise": "What if today Pip had to navigate a fictional commute with an 1886 printed cycling road book instead of turn-by-turn GPS?",
+      "benchmark_query": "1886 cycling road book Boston history navigation",
       "tags": [
         "history",
         "historical comedy"
       ],
       "cast_gags": {
-        "crow": "Introduces an imagined meeting prop from the tower.",
-        "pip": "Looks at the depicted gesture during a fictional difficult meeting.",
-        "mia": "Separates a carved gesture and curator interpretation from proven combat behavior.",
-        "rex": "Makes an invented presentation about calm workplace culture.",
-        "timmy": "Holds an oversized blank shield-shaped toy; no teeth injury or real biting stunt."
+        "crow": "Opens the tower book to the surviving printed guide.",
+        "pip": "Stops at an imagined modern junction to find the correct page.",
+        "mia": "Separates what the historical guide actually says from fictional present-day roads.",
+        "rex": "Insists the imaginary paper navigation subscription has unlimited battery.",
+        "timmy": "Unfolds an oversized blank route insert that blocks the view until everyone stops safely."
       },
       "criteria": {
-        "curiosity": 24,
+        "curiosity": 23,
         "cast_comedy": 24,
-        "modern_contrast": 24,
+        "modern_contrast": 25,
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "A distinctive carved gesture resembles a familiar exaggerated reaction.",
-        "cast_comedy": "A difficult meeting leads to a prop comparison, correction and payoff.",
-        "modern_contrast": "All office behavior is fiction, not a reconstruction of medieval meetings.",
-        "primary_sources": "The museum discussion is attributable context, not a primary written report of battlefield behavior."
+        "curiosity": "A familiar modern task acquires a visible historical obstacle; this is editorial judgment, not measured demand.",
+        "cast_comedy": "The listed fictional actions cause a problem, attempted fix and physical payoff.",
+        "modern_contrast": "The modern office or household is explicitly imagined, not a historical reconstruction.",
+        "primary_sources": "The named institution identifies a specific surviving document or object; access, anchor matching and semantic limits remain separate checks."
       },
       "sources": [
         {
-          "url": "https://www.metmuseum.org/exhibitions/listings/2011/the-game-of-kings-medieval-ivory-chessmen-from-the-isle-of-lewis/exhibition-blog/game-of-kings/blog/maddens-moves",
-          "institution": "The Metropolitan Museum of Art",
-          "locator": "Madden's Moves, The Game of Kings exhibition blog; curator description of a Lewis berserker warder",
-          "kind": "institutional_context",
+          "url": "https://www.loc.gov/item/01020007/",
+          "institution": "Library of Congress",
+          "locator": "Arthur L. Atkins, Cyclist's road book of Boston and vicinity, Boston 1886; F73.5 .A87; LCCN 01020007",
+          "kind": "primary_record",
           "anchors": [
-            "Berserker",
-            "biting the top of his shield"
+            "Cyclist's road book of Boston and vicinity",
+            "1886",
+            "01020007"
           ],
-          "verified_on": "2026-11-19",
+          "verified_on": "2026-11-20",
           "anchors_present": false,
           "download_error_type": "HTTPError",
-          "download_http_status": 429,
+          "download_http_status": 403,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "Do not diagnose the original sitter or assert drugs, frenzy or universal Viking shield-biting. No violence, blood or injury. Rook is a modern comparison to the warder role, not proof of identical medieval rules.",
+      "fact_boundary": "The book exists; the modern GPS substitution and cast behavior are explicit fiction. No assertion that all nineteenth-century cyclists used it, and no historical road condition or speed inferred from catalog metadata.",
       "research_questions": [
-        "[VERIFICAR] Locate the exact warder object number, dating and original catalog before drawing the piece or asserting its workshop."
+        "[VERIFICAR] Read the digitized pages and cite an actual route or instruction before describing its contents. No current routing advice."
       ],
-      "author": "Codex native research agent; editorial judgments, never measured YouTube performance",
-      "original_editorial_assessment": 90,
+      "author": "Codex native research; no model API, audience estimates or invented metrics",
+      "original_editorial_assessment": 96,
       "editorial_score": 72,
       "score": 72,
+      "source_verified": false,
+      "primary_record_available": false,
+      "benchmark": {
+        "status": "unavailable",
+        "videos": [],
+        "raw_metrics_location": "private Studio cache, never Git",
+        "error_type": null,
+        "median_views_per_day": null,
+        "ctr": null,
+        "retention": null,
+        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
+      },
+      "reused_counterfactual": false,
+      "eligible": false
+    },
+    {
+      "id": "shopping-cart-paper-permissions",
+      "title": "What If Your Shopping Cart Needed Paper Permissions?",
+      "era": "Britain, ration book 1940",
+      "premise": "What if today Pip's fictional grocery app accepted money but also required the paper coupons documented in a 1940 ration book?",
+      "benchmark_query": "What If Your Shopping Cart Needed Paper Permissions? history",
+      "tags": [
+        "history",
+        "historical comedy"
+      ],
+      "cast_gags": {
+        "crow": "Opens the tower book to the dated ration-book record.",
+        "pip": "Reaches an imagined checkout with cash and no required coupon.",
+        "mia": "Explains rationed items without mocking food shortages.",
+        "rex": "Calls an invented extra checkout form a convenience feature.",
+        "timmy": "Brings a comically oversized blank coupon that cannot fit the slot."
+      },
+      "criteria": {
+        "curiosity": 23,
+        "cast_comedy": 23,
+        "modern_contrast": 25,
+        "primary_sources": 0
+      },
+      "rationale": {
+        "curiosity": "A familiar modern task acquires a visible historical obstacle; this is editorial judgment, not measured demand.",
+        "cast_comedy": "The listed fictional actions cause a problem, attempted fix and physical payoff.",
+        "modern_contrast": "The modern office or household is explicitly imagined, not a historical reconstruction.",
+        "primary_sources": "The named institution identifies a specific surviving document or object; access, anchor matching and semantic limits remain separate checks."
+      },
+      "sources": [
+        {
+          "url": "https://www.nationalarchives.gov.uk/education/resources/home-front-1939-1945-part-two/ration-book/",
+          "institution": "The National Archives, UK",
+          "locator": "Ration Book, 1940; BT 131/40; reproduced primary document and transcript",
+          "kind": "primary_record",
+          "anchors": [
+            "BT 131/40",
+            "Ration Book, 1940",
+            "coupons"
+          ],
+          "verified_on": "2026-11-20",
+          "anchors_present": false,
+          "download_error_type": "HTTPError",
+          "download_http_status": 410,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
+        }
+      ],
+      "fact_boundary": "Humor targets fictional administration, not people enduring wartime shortages. Do not claim every food was rationed, specify allowances without dated support, or imply coupons replaced money.",
+      "research_questions": [
+        "[VERIFICAR] Check the facsimile, date and commodity-specific conditions before stating an allowance or purchase rule."
+      ],
+      "author": "Codex native research; no model API, audience estimates or invented metrics",
+      "original_editorial_assessment": 95,
+      "editorial_score": 71,
+      "score": 71,
       "source_verified": false,
       "primary_record_available": false,
       "benchmark": {
@@ -356,7 +359,7 @@
     }
   ],
   "winner": null,
-  "provisional_editorial_winner": "laundry-cash-recovery",
+  "provisional_editorial_winner": "wavy-edge-contract-login",
   "benchmark_complete": false,
   "benchmark_attempted": false,
   "ranking_basis": "Editorial only; benchmark incomplete, no production winner",
@@ -366,5 +369,5 @@
     100
   ],
   "paid_model_calls": 0,
-  "verified_at": "2026-11-19T14:10:50.497350+00:00"
+  "verified_at": "2026-11-20T17:14:54.676297+00:00"
 }
