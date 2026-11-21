@@ -1,60 +1,60 @@
 {
   "schema": "nevermore-ideation-2",
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "ideas": [
     {
-      "id": "wavy-edge-contract-login",
-      "title": "What If Your Contract Password Was Its Wavy Edge?",
-      "era": "New Place property record, 1597",
-      "premise": "What if today Pip could authenticate a fictional office contract only by matching its wavy paper edge to the other copies?",
-      "benchmark_query": "What If Your Contract Password Was Its Wavy Edge? history",
+      "id": "coronation-date-already-struck",
+      "title": "What If Your Rescheduled Meeting Was Already Struck in Metal?",
+      "era": "Britain, Edward VII coronation medal, 1902",
+      "premise": "What if today Pip had already issued fictional metal meeting invitations when Rex changed the date, echoing the original date described on Edward VII's coronation medal?",
+      "benchmark_query": "What If Your Rescheduled Meeting Was Already Struck in Metal? history",
       "tags": [
         "history",
         "historical comedy"
       ],
       "cast_gags": {
-        "crow": "Opens the book to the documented archival reference.",
-        "pip": "Brings the wrong fictional jagged copy to a meeting.",
-        "mia": "Explains the documented three-part record without giving current legal advice.",
-        "rex": "Treats a crooked edge as an invented office login failure.",
-        "timmy": "Solves the physical matching puzzle while adults demand a digital reset."
+        "crow": "Opens the archive book to the pictured medal.",
+        "pip": "Carries a fictional stack of permanently dated invitations.",
+        "mia": "Separates the original medal inscription from the later event date.",
+        "rex": "Treats rescheduling as a one-click update while holding a metal object.",
+        "timmy": "Brings an absurdly large eraser that plainly cannot edit metal."
       },
       "criteria": {
-        "curiosity": 24,
-        "cast_comedy": 25,
+        "curiosity": 25,
+        "cast_comedy": 24,
         "modern_contrast": 25,
         "primary_sources": 24
       },
       "rationale": {
-        "curiosity": "A familiar modern task acquires a visible historical obstacle; this is editorial judgment, not measured demand.",
-        "cast_comedy": "The listed fictional actions cause a problem, attempted fix and physical payoff.",
-        "modern_contrast": "The modern office or household is explicitly imagined, not a historical reconstruction.",
-        "primary_sources": "The named institution identifies a specific surviving document or object; access, anchor matching and semantic limits remain separate checks."
+        "curiosity": "A familiar task collides with a specific physical record; this is an editorial estimate, not audience measurement.",
+        "cast_comedy": "The five fictional cast actions form an obstacle, attempted solution and visible payoff.",
+        "modern_contrast": "The present-day office or home analogy is explicitly imagined, not a historical technological claim.",
+        "primary_sources": "A named surviving print, receipt, book or medal is identified; exact claims and retrieval remain separate checks."
       },
       "sources": [
         {
-          "url": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/william-shakespeare/",
-          "institution": "The National Archives, UK",
-          "locator": "Foot of fine for New Place, 1597; CP 25/2/237/39ELIZIEASTER",
+          "url": "https://www.royalmintmuseum.org.uk/journal/curators-corner/crowned/medals/",
+          "institution": "Royal Mint Museum",
+          "locator": "Medals for coronations; pictured Edward VII coronation medal, original inscription and 1902 postponement context",
           "kind": "primary_record",
           "anchors": [
-            "CP 25/2/237/39ELIZIEASTER",
-            "wavy lines",
-            "1597"
+            "Edward VII",
+            "26 JUNE 1902",
+            "9 August"
           ],
-          "verified_on": "2026-11-20",
+          "verified_on": "2026-11-21",
           "anchors_present": true,
           "download_error_type": null,
           "download_http_status": null,
-          "text_sha256": "86a9d91139a161bd9b7e62367ec25c86e770a16a615a8ec801aabb5548acc8d3",
+          "text_sha256": "19cd2c1b88814ef09283c3437bfaf0697c4c2ff15b7ebee5a9e27d7f4024ff19",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "The surviving record concerns the 1597 New Place transaction. The imagined office authentication is a metaphor, not a universal historical rule or current legal requirement.",
+      "fact_boundary": "This concerns a medal and the museum's description of an original inscription, not a coin denomination or proof every distributed specimen had the earlier date. Humor targets planning; never the king's illness or people who suffered.",
       "research_questions": [
-        "[VERIFICAR] Read the actual record and institutional explanation; blocked retrieval cannot be replaced by search snippets."
+        "[VERIFICAR] Inspect the medal image and establish which original/revised version is pictured before describing its lettering or quantities."
       ],
-      "author": "Codex native research; no model API, audience estimates or invented metrics",
+      "author": "Codex native research; no model API and no invented audience metrics",
       "original_editorial_assessment": 98,
       "editorial_score": 98,
       "score": 98,
@@ -74,132 +74,61 @@
       "eligible": false
     },
     {
-      "id": "rough-draft-review-marathon",
-      "title": "What If Your Office Memo Needed a 1776 Revision Committee?",
-      "era": "Philadelphia, June 1776; Declaration rough draft",
-      "premise": "What if today Pip's ordinary office memo had to survive handwritten revisions like the surviving 1776 Declaration rough draft?",
-      "benchmark_query": "What If Your Office Memo Needed a 1776 Revision Committee? history",
+      "id": "taxed-desktop-window-confusion",
+      "title": "What If Your Desktop Windows Came With a Tax Receipt?",
+      "era": "Britain, window-tax receipt dated 25 March 1755",
+      "premise": "What if today Rex tried to apply the physical-house window tax documented in a 1755 receipt to every window on Pip's fictional computer screen?",
+      "benchmark_query": "What If Your Desktop Windows Came With a Tax Receipt? history",
       "tags": [
         "history",
         "historical comedy"
       ],
       "cast_gags": {
-        "crow": "Opens the tower book to a marked-up draft.",
-        "pip": "Brings one fictional sentence for approval.",
-        "mia": "Separates documented manuscript edits from invented office dialogue.",
-        "rex": "Adds another fictional review round with a pleased smile.",
-        "timmy": "Unrolls an oversized blank revision strip that pushes the memo off the desk."
-      },
-      "criteria": {
-        "curiosity": 23,
-        "cast_comedy": 24,
-        "modern_contrast": 24,
-        "primary_sources": 24
-      },
-      "rationale": {
-        "curiosity": "A familiar modern task acquires a visible historical obstacle; this is editorial judgment, not measured demand.",
-        "cast_comedy": "The listed fictional actions cause a problem, attempted fix and physical payoff.",
-        "modern_contrast": "The modern office or household is explicitly imagined, not a historical reconstruction.",
-        "primary_sources": "The named institution identifies a specific surviving document or object; access, anchor matching and semantic limits remain separate checks."
-      },
-      "sources": [
-        {
-          "url": "https://www.loc.gov/exhibits/declara/declara4.html",
-          "institution": "Library of Congress",
-          "locator": "Jefferson Papers, Manuscript Division; exhibition object 3, original Rough draught, June 1776",
-          "kind": "primary_record",
-          "anchors": [
-            "original Rough draught",
-            "John Adams",
-            "Benjamin Franklin"
-          ],
-          "verified_on": "2026-11-20",
-          "anchors_present": true,
-          "download_error_type": null,
-          "download_http_status": null,
-          "text_sha256": "c12fac83bb932df6e82eee2121b20b8c48b2350163d457961c4e4928f697a44a",
-          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
-        }
-      ],
-      "fact_boundary": "The office memo and cast dialogue are fiction. Do not turn exhibit commentary into an exact count of edits or claim every deletion came from the same person.",
-      "research_questions": [
-        "[VERIFICAR] Read the facsimile/transcript for any particular wording, deletion or attribution before scripting it."
-      ],
-      "author": "Codex native research; no model API, audience estimates or invented metrics",
-      "original_editorial_assessment": 95,
-      "editorial_score": 95,
-      "score": 95,
-      "source_verified": true,
-      "primary_record_available": true,
-      "benchmark": {
-        "status": "unavailable",
-        "videos": [],
-        "raw_metrics_location": "private Studio cache, never Git",
-        "error_type": null,
-        "median_views_per_day": null,
-        "ctr": null,
-        "retention": null,
-        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
-      },
-      "reused_counterfactual": false,
-      "eligible": false
-    },
-    {
-      "id": "tally-stick-retention-disaster",
-      "title": "What If Deleting Old Receipts Could Burn Down Your Office?",
-      "era": "Medieval receipt objects c.1293-1294; Westminster fire context 1834",
-      "premise": "What if today Rex tried to clear Pip's physical receipt archive with the disastrously wrong disposal method recalled in Parliament's 1834 fire account?",
-      "benchmark_query": "What If Deleting Old Receipts Could Burn Down Your Office? history",
-      "tags": [
-        "history",
-        "historical comedy"
-      ],
-      "cast_gags": {
-        "crow": "Opens the archive book to an old receipt object.",
-        "pip": "Attempts an imagined office clean-up with wooden receipts.",
-        "mia": "Stops an unsafe fictional disposal plan before anyone lights anything.",
-        "rex": "Insists that deleting records should also heat the office.",
-        "timmy": "Produces an oversized fire-safety checklist instead of a match."
+        "crow": "Opens the tower book to the dated receipt.",
+        "pip": "Opens several imagined desktop panels, then receives a fictional demand.",
+        "mia": "Points out that the historical document concerns a dwelling house, not software.",
+        "rex": "Attempts to count every drawn rectangle as another window.",
+        "timmy": "Offers an oversized cardboard minimize button and exposes the absurd extension."
       },
       "criteria": {
         "curiosity": 25,
-        "cast_comedy": 23,
+        "cast_comedy": 25,
         "modern_contrast": 25,
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "A familiar modern task acquires a visible historical obstacle; this is editorial judgment, not measured demand.",
-        "cast_comedy": "The listed fictional actions cause a problem, attempted fix and physical payoff.",
-        "modern_contrast": "The modern office or household is explicitly imagined, not a historical reconstruction.",
-        "primary_sources": "The named institution identifies a specific surviving document or object; access, anchor matching and semantic limits remain separate checks."
+        "curiosity": "A familiar task collides with a specific physical record; this is an editorial estimate, not audience measurement.",
+        "cast_comedy": "The five fictional cast actions form an obstacle, attempted solution and visible payoff.",
+        "modern_contrast": "The present-day office or home analogy is explicitly imagined, not a historical technological claim.",
+        "primary_sources": "A named surviving print, receipt, book or medal is identified; exact claims and retrieval remain separate checks."
       },
       "sources": [
         {
-          "url": "https://www.parliament.uk/about/living-heritage/building/palace/estatehistory/from-the-parliamentary-collections/fire-of-westminster/tallysticks/",
-          "institution": "UK Parliament / Parliamentary Archives",
-          "locator": "Medieval Tally Sticks c.1293-1294; catalogue displayed HL/PO/RO/1/195; institutional fire commentary",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/georgian-britain-age-modernity/window-tax/",
+          "institution": "The National Archives, UK",
+          "locator": "Window tax receipt, 25 March 1755; QAB 1/13/27; primary transcript with institutional context",
           "kind": "primary_record",
           "anchors": [
-            "Tally sticks",
-            "16 October 1834",
-            "HL/PO/RO/1/195"
+            "25",
+            "1755",
+            "QAB 1/13/27"
           ],
-          "verified_on": "2026-11-20",
+          "verified_on": "2026-11-21",
           "anchors_present": false,
           "download_error_type": "HTTPError",
-          "download_http_status": 403,
+          "download_http_status": 410,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "Surviving tally sticks are primary objects; the fire narrative on this page is institutional secondary commentary. No flames near people, injury jokes, invented damage totals or assertion that this object was burned.",
+      "fact_boundary": "The receipt is primary evidence of a specific assessment. Software taxation and the cast dispute are fiction. Do not give current tax advice, universalize rates or assert a primary proof of the bricked-window anecdote from this receipt.",
       "research_questions": [
-        "[VERIFICAR] Obtain a contemporary inquiry or eyewitness record before treating the precise causal fire sequence as primary-record evidence."
+        "[VERIFICAR] Inspect the receipt image and transcription before quoting its sum, taxpayer, collector or a rate; distinguish historical commentary from the primary document."
       ],
-      "author": "Codex native research; no model API, audience estimates or invented metrics",
-      "original_editorial_assessment": 97,
-      "editorial_score": 73,
-      "score": 73,
+      "author": "Codex native research; no model API and no invented audience metrics",
+      "original_editorial_assessment": 99,
+      "editorial_score": 75,
+      "score": 75,
       "source_verified": false,
       "primary_record_available": false,
       "benchmark": {
@@ -216,21 +145,92 @@
       "eligible": false
     },
     {
-      "id": "road-book-before-gps",
-      "title": "What If Your GPS Was an 1886 Cycling Road Book?",
-      "era": "Boston, 1886",
-      "premise": "What if today Pip had to navigate a fictional commute with an 1886 printed cycling road book instead of turn-by-turn GPS?",
-      "benchmark_query": "1886 cycling road book Boston history navigation",
+      "id": "cardboard-three-dimensional-meeting",
+      "title": "What If Your Virtual Meeting Needed Two Paper Pictures?",
+      "era": "Turn of the twentieth century; stereoscope book cataloged 1899",
+      "premise": "What if today Pip's fictional virtual meeting required a stereoscope and paired paper pictures instead of a live video call?",
+      "benchmark_query": "What If Your Virtual Meeting Needed Two Paper Pictures? history",
       "tags": [
         "history",
         "historical comedy"
       ],
       "cast_gags": {
-        "crow": "Opens the tower book to the surviving printed guide.",
-        "pip": "Stops at an imagined modern junction to find the correct page.",
-        "mia": "Separates what the historical guide actually says from fictional present-day roads.",
-        "rex": "Insists the imaginary paper navigation subscription has unlimited battery.",
-        "timmy": "Unfolds an oversized blank route insert that blocks the view until everyone stops safely."
+        "crow": "Opens the archive book to the stereoscope publication.",
+        "pip": "Holds a fictional pair of still pictures while waiting for a reply.",
+        "mia": "Explains that an optical still-image device is not a historical live video service.",
+        "rex": "Insists an imaginary second photograph is the new subscription tier.",
+        "timmy": "Turns the pair upside down and forces everyone to notice that nobody is live."
+      },
+      "criteria": {
+        "curiosity": 24,
+        "cast_comedy": 25,
+        "modern_contrast": 25,
+        "primary_sources": 0
+      },
+      "rationale": {
+        "curiosity": "A familiar task collides with a specific physical record; this is an editorial estimate, not audience measurement.",
+        "cast_comedy": "The five fictional cast actions form an obstacle, attempted solution and visible payoff.",
+        "modern_contrast": "The present-day office or home analogy is explicitly imagined, not a historical technological claim.",
+        "primary_sources": "A named surviving print, receipt, book or medal is identified; exact claims and retrieval remain separate checks."
+      },
+      "sources": [
+        {
+          "url": "https://www.loc.gov/item/99002661/",
+          "institution": "Library of Congress",
+          "locator": "The stereoscope and stereoscopic photographs; 1899 catalog record, LCCN 99002661",
+          "kind": "primary_record",
+          "anchors": [
+            "stereoscope",
+            "1899",
+            "99002661"
+          ],
+          "verified_on": "2026-11-21",
+          "anchors_present": false,
+          "download_error_type": "HTTPError",
+          "download_http_status": 403,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
+        }
+      ],
+      "fact_boundary": "The optical device and book are historical; a virtual meeting is an explicit modern comic analogy. Do not claim historical live video, universal household ownership or a first invention date based only on this catalog.",
+      "research_questions": [
+        "[VERIFICAR] Read the digitized book and an institutional optics explanation before describing exact viewer operation or quoting its author."
+      ],
+      "author": "Codex native research; no model API and no invented audience metrics",
+      "original_editorial_assessment": 97,
+      "editorial_score": 74,
+      "score": 74,
+      "source_verified": false,
+      "primary_record_available": false,
+      "benchmark": {
+        "status": "unavailable",
+        "videos": [],
+        "raw_metrics_location": "private Studio cache, never Git",
+        "error_type": null,
+        "median_views_per_day": null,
+        "ctr": null,
+        "retention": null,
+        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
+      },
+      "reused_counterfactual": false,
+      "eligible": false
+    },
+    {
+      "id": "catalog-home-shopping-scroll",
+      "title": "What If Your House-Hunting App Was a 1929 Printed Catalog?",
+      "era": "United States, Sears Honor Bilt title page, copyright 1929",
+      "premise": "What if today Pip chose an imagined future home from the surviving 1929 Sears Honor Bilt printed catalog page instead of endlessly scrolling a property app?",
+      "benchmark_query": "What If Your House-Hunting App Was a 1929 Printed Catalog? history",
+      "tags": [
+        "history",
+        "historical comedy"
+      ],
+      "cast_gags": {
+        "crow": "Opens the book to the catalog title-page reference.",
+        "pip": "Tries to pinch-zoom an imagined paper house listing.",
+        "mia": "Distinguishes the pictured advertisement from a delivery or affordability guarantee.",
+        "rex": "Announces that a page turn is the imaginary premium search feature.",
+        "timmy": "Unfolds an oversized fictional catalog that occupies more room than the desk."
       },
       "criteria": {
         "curiosity": 23,
@@ -239,23 +239,23 @@
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "A familiar modern task acquires a visible historical obstacle; this is editorial judgment, not measured demand.",
-        "cast_comedy": "The listed fictional actions cause a problem, attempted fix and physical payoff.",
-        "modern_contrast": "The modern office or household is explicitly imagined, not a historical reconstruction.",
-        "primary_sources": "The named institution identifies a specific surviving document or object; access, anchor matching and semantic limits remain separate checks."
+        "curiosity": "A familiar task collides with a specific physical record; this is an editorial estimate, not audience measurement.",
+        "cast_comedy": "The five fictional cast actions form an obstacle, attempted solution and visible payoff.",
+        "modern_contrast": "The present-day office or home analogy is explicitly imagined, not a historical technological claim.",
+        "primary_sources": "A named surviving print, receipt, book or medal is identified; exact claims and retrieval remain separate checks."
       },
       "sources": [
         {
-          "url": "https://www.loc.gov/item/01020007/",
-          "institution": "Library of Congress",
-          "locator": "Arthur L. Atkins, Cyclist's road book of Boston and vicinity, Boston 1886; F73.5 .A87; LCCN 01020007",
+          "url": "https://www.loc.gov/pictures/item/92509896/marc/",
+          "institution": "Library of Congress, Prints and Photographs Division",
+          "locator": "Sears, Roebuck and Co. Honor Bilt Modern Homes title page; c1929; LC-USZ62-94702; LCCN 92509896",
           "kind": "primary_record",
           "anchors": [
-            "Cyclist's road book of Boston and vicinity",
-            "1886",
-            "01020007"
+            "Honor Bilt Modern Homes",
+            "1929",
+            "92509896"
           ],
-          "verified_on": "2026-11-20",
+          "verified_on": "2026-11-21",
           "anchors_present": false,
           "download_error_type": "HTTPError",
           "download_http_status": 403,
@@ -263,11 +263,11 @@
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "The book exists; the modern GPS substitution and cast behavior are explicit fiction. No assertion that all nineteenth-century cyclists used it, and no historical road condition or speed inferred from catalog metadata.",
+      "fact_boundary": "The primary title page supports a dated house-catalog illustration. It does not by itself establish a kit price, piece count, delivery promise or DIY assembly time. No current housing or investment advice.",
       "research_questions": [
-        "[VERIFICAR] Read the digitized pages and cite an actual route or instruction before describing its contents. No current routing advice."
+        "[VERIFICAR] Read the full original catalog and an identifiable order specification before claiming what a buyer actually received or paid."
       ],
-      "author": "Codex native research; no model API, audience estimates or invented metrics",
+      "author": "Codex native research; no model API and no invented audience metrics",
       "original_editorial_assessment": 96,
       "editorial_score": 72,
       "score": 72,
@@ -287,59 +287,59 @@
       "eligible": false
     },
     {
-      "id": "shopping-cart-paper-permissions",
-      "title": "What If Your Shopping Cart Needed Paper Permissions?",
-      "era": "Britain, ration book 1940",
-      "premise": "What if today Pip's fictional grocery app accepted money but also required the paper coupons documented in a 1940 ration book?",
-      "benchmark_query": "What If Your Shopping Cart Needed Paper Permissions? history",
+      "id": "office-garden-mobilisation",
+      "title": "What If the Office Lawn Became an Archive-Inspired Vegetable Plot?",
+      "era": "United States, National War Garden Commission poster, 1919",
+      "premise": "What if today Rex turned Pip's fictional office lawn into a vegetable plot after seeing the real National War Garden Commission poster reproduced by the Library of Congress?",
+      "benchmark_query": "What If the Office Lawn Became an Archive-Inspired Vegetable Plot? history",
       "tags": [
         "history",
         "historical comedy"
       ],
       "cast_gags": {
-        "crow": "Opens the tower book to the dated ration-book record.",
-        "pip": "Reaches an imagined checkout with cash and no required coupon.",
-        "mia": "Explains rationed items without mocking food shortages.",
-        "rex": "Calls an invented extra checkout form a convenience feature.",
-        "timmy": "Brings a comically oversized blank coupon that cannot fit the slot."
+        "crow": "Opens the book to the dated poster reproduction.",
+        "pip": "Measures an imagined lawn instead of the meeting room.",
+        "mia": "Distinguishes a historical public campaign from a compulsory rule for every office.",
+        "rex": "Renames an imaginary spreadsheet a crop rotation plan.",
+        "timmy": "Brings one huge blank seed packet that dwarfs the tiny planter."
       },
       "criteria": {
-        "curiosity": 23,
-        "cast_comedy": 23,
+        "curiosity": 22,
+        "cast_comedy": 24,
         "modern_contrast": 25,
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "A familiar modern task acquires a visible historical obstacle; this is editorial judgment, not measured demand.",
-        "cast_comedy": "The listed fictional actions cause a problem, attempted fix and physical payoff.",
-        "modern_contrast": "The modern office or household is explicitly imagined, not a historical reconstruction.",
-        "primary_sources": "The named institution identifies a specific surviving document or object; access, anchor matching and semantic limits remain separate checks."
+        "curiosity": "A familiar task collides with a specific physical record; this is an editorial estimate, not audience measurement.",
+        "cast_comedy": "The five fictional cast actions form an obstacle, attempted solution and visible payoff.",
+        "modern_contrast": "The present-day office or home analogy is explicitly imagined, not a historical technological claim.",
+        "primary_sources": "A named surviving print, receipt, book or medal is identified; exact claims and retrieval remain separate checks."
       },
       "sources": [
         {
-          "url": "https://www.nationalarchives.gov.uk/education/resources/home-front-1939-1945-part-two/ration-book/",
-          "institution": "The National Archives, UK",
-          "locator": "Ration Book, 1940; BT 131/40; reproduced primary document and transcript",
+          "url": "https://www.loc.gov/exhibitions/world-war-i-american-experiences/about-this-exhibition/over-here/home-front-contributions/world-war-i-gardeners/",
+          "institution": "Library of Congress",
+          "locator": "Maginel Wright Enright [Barney], War Gardens over the Top, Washington: National War Garden Commission, 1919; exhibit 071.00.00",
           "kind": "primary_record",
           "anchors": [
-            "BT 131/40",
-            "Ration Book, 1940",
-            "coupons"
+            "1919",
+            "National War Garden Commission",
+            "071.00.00"
           ],
-          "verified_on": "2026-11-20",
+          "verified_on": "2026-11-21",
           "anchors_present": false,
           "download_error_type": "HTTPError",
-          "download_http_status": 410,
+          "download_http_status": 403,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "Humor targets fictional administration, not people enduring wartime shortages. Do not claim every food was rationed, specify allowances without dated support, or imply coupons replaced money.",
+      "fact_boundary": "Humor concerns an invented office policy, not wartime hunger or bereavement. The poster and its date are primary visual evidence; campaign reach and output figures need separate sources. No invented harvest statistics.",
       "research_questions": [
-        "[VERIFICAR] Check the facsimile, date and commodity-specific conditions before stating an allowance or purchase rule."
+        "[VERIFICAR] Inspect the poster and any dated campaign directive before quoting slogans, recruitment rules or claims about schoolchildren."
       ],
-      "author": "Codex native research; no model API, audience estimates or invented metrics",
-      "original_editorial_assessment": 95,
+      "author": "Codex native research; no model API and no invented audience metrics",
+      "original_editorial_assessment": 94,
       "editorial_score": 71,
       "score": 71,
       "source_verified": false,
@@ -359,7 +359,7 @@
     }
   ],
   "winner": null,
-  "provisional_editorial_winner": "wavy-edge-contract-login",
+  "provisional_editorial_winner": "coronation-date-already-struck",
   "benchmark_complete": false,
   "benchmark_attempted": false,
   "ranking_basis": "Editorial only; benchmark incomplete, no production winner",
@@ -369,5 +369,5 @@
     100
   ],
   "paid_model_calls": 0,
-  "verified_at": "2026-11-20T17:14:54.676297+00:00"
+  "verified_at": "2026-11-21T14:10:35.083578+00:00"
 }
