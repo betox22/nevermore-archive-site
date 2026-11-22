@@ -1,60 +1,60 @@
 {
   "schema": "nevermore-ideation-2",
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "ideas": [
     {
-      "id": "coronation-date-already-struck",
-      "title": "What If Your Rescheduled Meeting Was Already Struck in Metal?",
-      "era": "Britain, Edward VII coronation medal, 1902",
-      "premise": "What if today Pip had already issued fictional metal meeting invitations when Rex changed the date, echoing the original date described on Edward VII's coronation medal?",
-      "benchmark_query": "What If Your Rescheduled Meeting Was Already Struck in Metal? history",
+      "id": "wooden-birthday-rsvp",
+      "title": "What If Your Birthday RSVP Arrived on a Wooden Tablet?",
+      "era": "Roman Britain, museum catalog date AD 97/103",
+      "premise": "What if today Pip received a fictional office birthday invitation on thin wood, like the surviving invitation from Claudia Severa to Sulpicia Lepidina?",
+      "benchmark_query": "What If Your Birthday RSVP Arrived on a Wooden Tablet? history",
       "tags": [
         "history",
         "historical comedy"
       ],
       "cast_gags": {
-        "crow": "Opens the archive book to the pictured medal.",
-        "pip": "Carries a fictional stack of permanently dated invitations.",
-        "mia": "Separates the original medal inscription from the later event date.",
-        "rex": "Treats rescheduling as a one-click update while holding a metal object.",
-        "timmy": "Brings an absurdly large eraser that plainly cannot edit metal."
+        "crow": "Opens the book to the actual invitation reference.",
+        "pip": "Looks for an imaginary accept button on a wooden prop.",
+        "mia": "Separates the real personal invitation from the invented corporate event.",
+        "rex": "Calls the fictional office birthday mandatory without attributing that rule to Rome.",
+        "timmy": "Delivers an absurdly large blank reply while the adults search for the send icon."
       },
       "criteria": {
-        "curiosity": 25,
-        "cast_comedy": 24,
+        "curiosity": 24,
+        "cast_comedy": 25,
         "modern_contrast": 25,
         "primary_sources": 24
       },
       "rationale": {
-        "curiosity": "A familiar task collides with a specific physical record; this is an editorial estimate, not audience measurement.",
-        "cast_comedy": "The five fictional cast actions form an obstacle, attempted solution and visible payoff.",
-        "modern_contrast": "The present-day office or home analogy is explicitly imagined, not a historical technological claim.",
-        "primary_sources": "A named surviving print, receipt, book or medal is identified; exact claims and retrieval remain separate checks."
+        "curiosity": "A concrete surviving record creates an immediate modern mismatch; this is editorial judgment, not measured audience demand.",
+        "cast_comedy": "The fictional cast actions create a problem, attempted fix and physical payoff while preserving their roles.",
+        "modern_contrast": "Present-day technology or office rules are explicit comic inventions, never claims about the original artifact.",
+        "primary_sources": "Identified original objects or documents are separated from catalog summaries and later institutional interpretation; access still needs checking."
       },
       "sources": [
         {
-          "url": "https://www.royalmintmuseum.org.uk/journal/curators-corner/crowned/medals/",
-          "institution": "Royal Mint Museum",
-          "locator": "Medals for coronations; pictured Edward VII coronation medal, original inscription and 1902 postponement context",
+          "url": "https://artsandculture.google.com/asset/writing-tablet-with-a-letter-inviting-sulpicia-lepidina-the-commander-s-wife-to-a-birthday-party/kAHBJkxO7nDWsw?hl=en",
+          "institution": "British Museum via Google Arts & Culture",
+          "locator": "Vindolanda invitation; registration 1986,1001.64; museum date 97/103",
           "kind": "primary_record",
           "anchors": [
-            "Edward VII",
-            "26 JUNE 1902",
-            "9 August"
+            "1986,1001.64",
+            "Claudia Severa",
+            "Sulpicia Lepidina"
           ],
-          "verified_on": "2026-11-21",
+          "verified_on": "2026-11-22",
           "anchors_present": true,
           "download_error_type": null,
           "download_http_status": null,
-          "text_sha256": "19cd2c1b88814ef09283c3437bfaf0697c4c2ff15b7ebee5a9e27d7f4024ff19",
+          "text_sha256": "d00477faee817be4ca413415c728bf0a90bbaa199ba94dd134f8104bc90f6b26",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "This concerns a medal and the museum's description of an original inscription, not a coin denomination or proof every distributed specimen had the earlier date. Humor targets planning; never the king's illness or people who suffered.",
+      "fact_boundary": "The modern office party is fiction; the original is a personal invitation, not proof of compulsory birthday attendance. No earliest-ever handwriting superlative, invented historic dialogue or claim that every line was written by Severa.",
       "research_questions": [
-        "[VERIFICAR] Inspect the medal image and establish which original/revised version is pictured before describing its lettering or quantities."
+        "[VERIFICAR] Read the museum translation and distinguish scribal text from the later hand before quoting words or dating an individual line."
       ],
-      "author": "Codex native research; no model API and no invented audience metrics",
+      "author": "Codex native research; no model API, fabricated audience metrics or production authorization",
       "original_editorial_assessment": 98,
       "editorial_score": 98,
       "score": 98,
@@ -74,21 +74,21 @@
       "eligible": false
     },
     {
-      "id": "taxed-desktop-window-confusion",
-      "title": "What If Your Desktop Windows Came With a Tax Receipt?",
-      "era": "Britain, window-tax receipt dated 25 March 1755",
-      "premise": "What if today Rex tried to apply the physical-house window tax documented in a 1755 receipt to every window on Pip's fictional computer screen?",
-      "benchmark_query": "What If Your Desktop Windows Came With a Tax Receipt? history",
+      "id": "clay-customer-review",
+      "title": "What If Your Customer Review Had to Be Written in Clay?",
+      "era": "Old Babylonian complaint tablet; date and translation require source confirmation",
+      "premise": "What if today Pip had to submit a fictional complaint on clay instead of a review app, using the real complaint tablet associated with Ea-nasir as the research starting point?",
+      "benchmark_query": "What If Your Customer Review Had to Be Written in Clay? history",
       "tags": [
         "history",
         "historical comedy"
       ],
       "cast_gags": {
-        "crow": "Opens the tower book to the dated receipt.",
-        "pip": "Opens several imagined desktop panels, then receives a fictional demand.",
-        "mia": "Points out that the historical document concerns a dwelling house, not software.",
-        "rex": "Attempts to count every drawn rectangle as another window.",
-        "timmy": "Offers an oversized cardboard minimize button and exposes the absurd extension."
+        "crow": "Opens the book to the registered tablet and the unresolved translation check.",
+        "pip": "Wants a fictional refund but must carry an oversized blank clay review prop.",
+        "mia": "Stops invented quotations and asks for the actual translated record.",
+        "rex": "Treats the imagined complaint process as an opportunity to add another form.",
+        "timmy": "Brings a huge blank rating stamp that cannot fit on the tiny modern counter."
       },
       "criteria": {
         "curiosity": 25,
@@ -97,35 +97,34 @@
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "A familiar task collides with a specific physical record; this is an editorial estimate, not audience measurement.",
-        "cast_comedy": "The five fictional cast actions form an obstacle, attempted solution and visible payoff.",
-        "modern_contrast": "The present-day office or home analogy is explicitly imagined, not a historical technological claim.",
-        "primary_sources": "A named surviving print, receipt, book or medal is identified; exact claims and retrieval remain separate checks."
+        "curiosity": "A concrete surviving record creates an immediate modern mismatch; this is editorial judgment, not measured audience demand.",
+        "cast_comedy": "The fictional cast actions create a problem, attempted fix and physical payoff while preserving their roles.",
+        "modern_contrast": "Present-day technology or office rules are explicit comic inventions, never claims about the original artifact.",
+        "primary_sources": "Identified original objects or documents are separated from catalog summaries and later institutional interpretation; access still needs checking."
       },
       "sources": [
         {
-          "url": "https://www.nationalarchives.gov.uk/education/resources/georgian-britain-age-modernity/window-tax/",
-          "institution": "The National Archives, UK",
-          "locator": "Window tax receipt, 25 March 1755; QAB 1/13/27; primary transcript with institutional context",
+          "url": "https://www.britishmuseum.org/collection/object/W_1953-0411-71",
+          "institution": "British Museum",
+          "locator": "Complaint tablet associated with Ea-nasir; registration 1953,0411.71",
           "kind": "primary_record",
           "anchors": [
-            "25",
-            "1755",
-            "QAB 1/13/27"
+            "1953,0411.71",
+            "copper"
           ],
-          "verified_on": "2026-11-21",
+          "verified_on": "2026-11-22",
           "anchors_present": false,
           "download_error_type": "HTTPError",
-          "download_http_status": 410,
+          "download_http_status": 403,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "The receipt is primary evidence of a specific assessment. Software taxation and the cast dispute are fiction. Do not give current tax advice, universalize rates or assert a primary proof of the bricked-window anecdote from this receipt.",
+      "fact_boundary": "No oldest-ever customer-complaint claim, invented quoted review, fake cuneiform or certainty about the tablet's precise date without a retrieved catalog and translation. Modern sales dialogue is fiction, not the recorded words of Ea-nasir.",
       "research_questions": [
-        "[VERIFICAR] Inspect the receipt image and transcription before quoting its sum, taxpayer, collector or a rate; distinguish historical commentary from the primary document."
+        "[VERIFICAR] Retrieve the object entry and a reliable translation before asserting the sender, copper quality, date, delivery details or an actual remedy."
       ],
-      "author": "Codex native research; no model API and no invented audience metrics",
+      "author": "Codex native research; no model API, fabricated audience metrics or production authorization",
       "original_editorial_assessment": 99,
       "editorial_score": 75,
       "score": 75,
@@ -145,21 +144,21 @@
       "eligible": false
     },
     {
-      "id": "cardboard-three-dimensional-meeting",
-      "title": "What If Your Virtual Meeting Needed Two Paper Pictures?",
-      "era": "Turn of the twentieth century; stereoscope book cataloged 1899",
-      "premise": "What if today Pip's fictional virtual meeting required a stereoscope and paired paper pictures instead of a live video call?",
-      "benchmark_query": "What If Your Virtual Meeting Needed Two Paper Pictures? history",
+      "id": "utility-apps-on-a-chain",
+      "title": "What If Your Everyday Apps Had to Hang From Your Belt?",
+      "era": "Probably French chatelaine, fourth quarter 19th century",
+      "premise": "What if today Pip had to carry fictional writing and messaging tools on a belt chain, using the physical format of the chatelaine cataloged by The Met?",
+      "benchmark_query": "What If Your Everyday Apps Had to Hang From Your Belt? history",
       "tags": [
         "history",
         "historical comedy"
       ],
       "cast_gags": {
-        "crow": "Opens the archive book to the stereoscope publication.",
-        "pip": "Holds a fictional pair of still pictures while waiting for a reply.",
-        "mia": "Explains that an optical still-image device is not a historical live video service.",
-        "rex": "Insists an imaginary second photograph is the new subscription tier.",
-        "timmy": "Turns the pair upside down and forces everyone to notice that nobody is live."
+        "crow": "Opens the archive book to the named object record.",
+        "pip": "Attempts to find a pencil among invented oversized hanging tools.",
+        "mia": "Separates this specific object from universal rules about women or households.",
+        "rex": "Adds another imaginary attachment while calling it a simplification.",
+        "timmy": "Brings a giant blank notebook that makes the office-tool overload obvious."
       },
       "criteria": {
         "curiosity": 24,
@@ -168,36 +167,36 @@
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "A familiar task collides with a specific physical record; this is an editorial estimate, not audience measurement.",
-        "cast_comedy": "The five fictional cast actions form an obstacle, attempted solution and visible payoff.",
-        "modern_contrast": "The present-day office or home analogy is explicitly imagined, not a historical technological claim.",
-        "primary_sources": "A named surviving print, receipt, book or medal is identified; exact claims and retrieval remain separate checks."
+        "curiosity": "A concrete surviving record creates an immediate modern mismatch; this is editorial judgment, not measured audience demand.",
+        "cast_comedy": "The fictional cast actions create a problem, attempted fix and physical payoff while preserving their roles.",
+        "modern_contrast": "Present-day technology or office rules are explicit comic inventions, never claims about the original artifact.",
+        "primary_sources": "Identified original objects or documents are separated from catalog summaries and later institutional interpretation; access still needs checking."
       },
       "sources": [
         {
-          "url": "https://www.loc.gov/item/99002661/",
-          "institution": "Library of Congress",
-          "locator": "The stereoscope and stereoscopic photographs; 1899 catalog record, LCCN 99002661",
+          "url": "https://www.metmuseum.org/art/collection/search/156786",
+          "institution": "The Metropolitan Museum of Art",
+          "locator": "Chatelaine, probably French, fourth quarter 19th century; object 2009.300.2007a-f",
           "kind": "primary_record",
           "anchors": [
-            "stereoscope",
-            "1899",
-            "99002661"
+            "Chatelaine",
+            "2009.300.2007",
+            "wax holder"
           ],
-          "verified_on": "2026-11-21",
+          "verified_on": "2026-11-22",
           "anchors_present": false,
           "download_error_type": "HTTPError",
-          "download_http_status": 403,
+          "download_http_status": 429,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "The optical device and book are historical; a virtual meeting is an explicit modern comic analogy. Do not claim historical live video, universal household ownership or a first invention date based only on this catalog.",
+      "fact_boundary": "Modern apps are a metaphor, not historical software. No claim every woman wore one or every example contained the same implements. Do not infer operation, value or exact dimensions from an unexamined image.",
       "research_questions": [
-        "[VERIFICAR] Read the digitized book and an institutional optics explanation before describing exact viewer operation or quoting its author."
+        "[VERIFICAR] Inspect the object image and identify each attached tool before drawing or naming it; keep the museum's probably French qualification."
       ],
-      "author": "Codex native research; no model API and no invented audience metrics",
-      "original_editorial_assessment": 97,
+      "author": "Codex native research; no model API, fabricated audience metrics or production authorization",
+      "original_editorial_assessment": 98,
       "editorial_score": 74,
       "score": 74,
       "source_verified": false,
@@ -216,61 +215,77 @@
       "eligible": false
     },
     {
-      "id": "catalog-home-shopping-scroll",
-      "title": "What If Your House-Hunting App Was a 1929 Printed Catalog?",
-      "era": "United States, Sears Honor Bilt title page, copyright 1929",
-      "premise": "What if today Pip chose an imagined future home from the surviving 1929 Sears Honor Bilt printed catalog page instead of endlessly scrolling a property app?",
-      "benchmark_query": "What If Your House-Hunting App Was a 1929 Printed Catalog? history",
+      "id": "secondhand-rhino-design-brief",
+      "title": "What If Your Design Brief Described an Animal Nobody Had Seen?",
+      "era": "Durer woodcut design 1515; LOC impression associated with ca.1620",
+      "premise": "What if today Rex demanded a fictional perfectly realistic office mascot while Pip had only a second-hand description, echoing the documented history of Durer's rhinoceros image?",
+      "benchmark_query": "What If Your Design Brief Described an Animal Nobody Had Seen? history",
       "tags": [
         "history",
         "historical comedy"
       ],
       "cast_gags": {
-        "crow": "Opens the book to the catalog title-page reference.",
-        "pip": "Tries to pinch-zoom an imagined paper house listing.",
-        "mia": "Distinguishes the pictured advertisement from a delivery or affordability guarantee.",
-        "rex": "Announces that a page turn is the imaginary premium search feature.",
-        "timmy": "Unfolds an oversized fictional catalog that occupies more room than the desk."
+        "crow": "Opens the book to the actual print and its edition caveat.",
+        "pip": "Draws an explicitly fictional mascot from an unhelpful office email.",
+        "mia": "Distinguishes the documented print from an anatomical observation.",
+        "rex": "Demands certainty while withholding the imagined reference.",
+        "timmy": "Adds a detachable oversized cardboard armor piece, making the misunderstanding visible."
       },
       "criteria": {
-        "curiosity": 23,
+        "curiosity": 25,
         "cast_comedy": 24,
         "modern_contrast": 25,
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "A familiar task collides with a specific physical record; this is an editorial estimate, not audience measurement.",
-        "cast_comedy": "The five fictional cast actions form an obstacle, attempted solution and visible payoff.",
-        "modern_contrast": "The present-day office or home analogy is explicitly imagined, not a historical technological claim.",
-        "primary_sources": "A named surviving print, receipt, book or medal is identified; exact claims and retrieval remain separate checks."
+        "curiosity": "A concrete surviving record creates an immediate modern mismatch; this is editorial judgment, not measured audience demand.",
+        "cast_comedy": "The fictional cast actions create a problem, attempted fix and physical payoff while preserving their roles.",
+        "modern_contrast": "Present-day technology or office rules are explicit comic inventions, never claims about the original artifact.",
+        "primary_sources": "Identified original objects or documents are separated from catalog summaries and later institutional interpretation; access still needs checking."
       },
       "sources": [
         {
-          "url": "https://www.loc.gov/pictures/item/92509896/marc/",
-          "institution": "Library of Congress, Prints and Photographs Division",
-          "locator": "Sears, Roebuck and Co. Honor Bilt Modern Homes title page; c1929; LC-USZ62-94702; LCCN 92509896",
+          "url": "https://www.loc.gov/item/2002712730/",
+          "institution": "Library of Congress",
+          "locator": "Rhinoceros / AD monogram; LCCN 2002712730; LC-DIG-ppmsca-40076; distinguish 1515 design from later impression",
           "kind": "primary_record",
           "anchors": [
-            "Honor Bilt Modern Homes",
-            "1929",
-            "92509896"
+            "Rhinoceros",
+            "2002712730",
+            "1515"
           ],
-          "verified_on": "2026-11-21",
+          "verified_on": "2026-11-22",
           "anchors_present": false,
           "download_error_type": "HTTPError",
           "download_http_status": 403,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
+        },
+        {
+          "url": "https://www.loc.gov/preservation/conservators/durer/index.html",
+          "institution": "Library of Congress, Conservation",
+          "locator": "Technical Examination and Conservation of Durer's Rhinoceros; original block/later Hondius impression and second-hand account",
+          "kind": "institutional_commentary",
+          "anchors": [
+            "1620",
+            "second-hand account"
+          ],
+          "verified_on": "2026-11-22",
+          "anchors_present": true,
+          "download_error_type": null,
+          "download_http_status": null,
+          "text_sha256": "d3f3d8f567ae7841a95539095a8fbe91408fb9aed993b8238d010940bdd05e5f",
+          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "The primary title page supports a dated house-catalog illustration. It does not by itself establish a kit price, piece count, delivery promise or DIY assembly time. No current housing or investment advice.",
+      "fact_boundary": "The print is primary visual evidence, not accurate rhinoceros anatomy. The second-hand-account explanation is institutional commentary, not a primary eyewitness statement. No animal injury and no claim that the LOC sheet itself was printed in 1515.",
       "research_questions": [
-        "[VERIFICAR] Read the full original catalog and an identifiable order specification before claiming what a buyer actually received or paid."
+        "[VERIFICAR] Inspect the image, edition notes and contemporary account before attributing a detail or quoting what Durer knew."
       ],
-      "author": "Codex native research; no model API and no invented audience metrics",
-      "original_editorial_assessment": 96,
-      "editorial_score": 72,
-      "score": 72,
+      "author": "Codex native research; no model API, fabricated audience metrics or production authorization",
+      "original_editorial_assessment": 98,
+      "editorial_score": 74,
+      "score": 74,
       "source_verified": false,
       "primary_record_available": false,
       "benchmark": {
@@ -287,61 +302,61 @@
       "eligible": false
     },
     {
-      "id": "office-garden-mobilisation",
-      "title": "What If the Office Lawn Became an Archive-Inspired Vegetable Plot?",
-      "era": "United States, National War Garden Commission poster, 1919",
-      "premise": "What if today Rex turned Pip's fictional office lawn into a vegetable plot after seeing the real National War Garden Commission poster reproduced by the Library of Congress?",
-      "benchmark_query": "What If the Office Lawn Became an Archive-Inspired Vegetable Plot? history",
+      "id": "exchange-rate-paper-questionnaire",
+      "title": "What If Checking an Exchange Rate Meant Opening an Archive File?",
+      "era": "Bank of England papers, 1797-1798",
+      "premise": "What if today Pip's fictional instant currency lookup had to use the physical memorandum and question-sheet format cataloged in the Bank of England's Spanish-dollar papers?",
+      "benchmark_query": "What If Checking an Exchange Rate Meant Opening an Archive File? history",
       "tags": [
         "history",
         "historical comedy"
       ],
       "cast_gags": {
-        "crow": "Opens the book to the dated poster reproduction.",
-        "pip": "Measures an imagined lawn instead of the meeting room.",
-        "mia": "Distinguishes a historical public campaign from a compulsory rule for every office.",
-        "rex": "Renames an imaginary spreadsheet a crop rotation plan.",
-        "timmy": "Brings one huge blank seed packet that dwarfs the tiny planter."
+        "crow": "Opens the book to the archive locator, not an invented exchange table.",
+        "pip": "Expects an instant fictional lookup and receives a paper folder.",
+        "mia": "Explains that the catalog identifies papers but does not reproduce every answer.",
+        "rex": "Announces imaginary instant service while adding another question sheet.",
+        "timmy": "Unrolls an oversized blank questionnaire that hides the tiny requested number."
       },
       "criteria": {
-        "curiosity": 22,
-        "cast_comedy": 24,
+        "curiosity": 23,
+        "cast_comedy": 25,
         "modern_contrast": 25,
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "A familiar task collides with a specific physical record; this is an editorial estimate, not audience measurement.",
-        "cast_comedy": "The five fictional cast actions form an obstacle, attempted solution and visible payoff.",
-        "modern_contrast": "The present-day office or home analogy is explicitly imagined, not a historical technological claim.",
-        "primary_sources": "A named surviving print, receipt, book or medal is identified; exact claims and retrieval remain separate checks."
+        "curiosity": "A concrete surviving record creates an immediate modern mismatch; this is editorial judgment, not measured audience demand.",
+        "cast_comedy": "The fictional cast actions create a problem, attempted fix and physical payoff while preserving their roles.",
+        "modern_contrast": "Present-day technology or office rules are explicit comic inventions, never claims about the original artifact.",
+        "primary_sources": "Identified original objects or documents are separated from catalog summaries and later institutional interpretation; access still needs checking."
       },
       "sources": [
         {
-          "url": "https://www.loc.gov/exhibitions/world-war-i-american-experiences/about-this-exhibition/over-here/home-front-contributions/world-war-i-gardeners/",
-          "institution": "Library of Congress",
-          "locator": "Maginel Wright Enright [Barney], War Gardens over the Top, Washington: National War Garden Commission, 1919; exhibit 071.00.00",
-          "kind": "primary_record",
+          "url": "https://www.bankofengland.co.uk/CalmView/Record.aspx?id=M6%2F59&src=calmview.catalog",
+          "institution": "Bank of England Archive",
+          "locator": "M6/59, Papers about the price of Spanish dollars and the value of silver; memorandum 31 Jul 1797 and Privy Council questions/answers 1798; original ref 0695",
+          "kind": "institutional_catalog",
           "anchors": [
-            "1919",
-            "National War Garden Commission",
-            "071.00.00"
+            "M6/59",
+            "31 Jul 1797",
+            "1798"
           ],
-          "verified_on": "2026-11-21",
+          "verified_on": "2026-11-22",
           "anchors_present": false,
-          "download_error_type": "HTTPError",
-          "download_http_status": 403,
+          "download_error_type": "TimeoutError",
+          "download_http_status": null,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "Humor concerns an invented office policy, not wartime hunger or bereavement. The poster and its date are primary visual evidence; campaign reach and output figures need separate sources. No invented harvest statistics.",
+      "fact_boundary": "The record establishes that papers are cataloged, not that every historical transaction required this workflow. No exchange rate, investment advice, document quotation or coin-countermark detail is inferred from catalog metadata. The source is catalog evidence, not an inspected original.",
       "research_questions": [
-        "[VERIFICAR] Inspect the poster and any dated campaign directive before quoting slogans, recruitment rules or claims about schoolchildren."
+        "[VERIFICAR] Obtain and read the original M6/59 memorandum and answers before stating rates, policy, exact questions or any mandatory process."
       ],
-      "author": "Codex native research; no model API and no invented audience metrics",
-      "original_editorial_assessment": 94,
-      "editorial_score": 71,
-      "score": 71,
+      "author": "Codex native research; no model API, fabricated audience metrics or production authorization",
+      "original_editorial_assessment": 96,
+      "editorial_score": 73,
+      "score": 73,
       "source_verified": false,
       "primary_record_available": false,
       "benchmark": {
@@ -359,7 +374,7 @@
     }
   ],
   "winner": null,
-  "provisional_editorial_winner": "coronation-date-already-struck",
+  "provisional_editorial_winner": "wooden-birthday-rsvp",
   "benchmark_complete": false,
   "benchmark_attempted": false,
   "ranking_basis": "Editorial only; benchmark incomplete, no production winner",
@@ -369,5 +384,5 @@
     100
   ],
   "paid_model_calls": 0,
-  "verified_at": "2026-11-21T14:10:35.083578+00:00"
+  "verified_at": "2026-11-22T14:15:39.086152+00:00"
 }
