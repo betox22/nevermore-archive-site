@@ -1,80 +1,65 @@
 {
   "schema": "nevermore-ideation-2",
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "ideas": [
     {
-      "id": "sales-dashboard-ceramic-balls",
-      "title": "Your Sales Dashboard Is a Drawer of Balls",
-      "era": "United States, circa 1890; broad catalog range 1865-1915",
-      "premise": "What if today Rex replaced the sales dashboard with a Simplex cash register that counts sales using ceramic balls?",
-      "benchmark_query": "Your Sales Dashboard Is a Drawer of Balls history",
+      "id": "tethered-office-reading-copy",
+      "title": "The Shared Document Has a Metal Cable",
+      "era": "Late medieval Europe; Nuremberg printing, 1488; Cheb library context",
+      "premise": "What if today the shared office reference book could be read at the table but physically could not be taken to your desk, like a chained library book?",
+      "benchmark_query": "The Shared Document Has a Metal Cable history",
       "tags": [
         "history",
         "historical comedy",
         "modern counterfactual"
       ],
       "criteria": {
-        "curiosity": 24,
+        "curiosity": 23,
         "cast_comedy": 24,
         "modern_contrast": 25,
         "primary_sources": 23
       },
       "rationale": {
-        "curiosity": "The physical reveal of a dashboard full of balls gives the curiosity gap a precise object.",
-        "cast_comedy": "A dropped or misplaced fictional ball can trigger escalating office confusion without inventing historical failure rates.",
-        "modern_contrast": "Spreadsheet reporting contrasts directly with a surviving mechanical counting object.",
-        "primary_sources": "The Henry Ford provides object 80.33.1 and an institutional explanation of the counting method; catalog dating remains broad."
+        "curiosity": "A literal restriction on moving a document reveals a real preservation and security practice.",
+        "cast_comedy": "The cast can escalate an attempt to share one book while Mia points out that it is readable, not forbidden.",
+        "modern_contrast": "Digital copy permissions become a clearly labeled analogy to a physical tether.",
+        "primary_sources": "The Czech national library supplies a dated volume and explains chaining; the original fastening and broader access rules need inspection."
       },
       "cast_gags": {
-        "crow": "Raven files the most literal attempt to make sales figures tangible.",
-        "pip": "Pip carefully registers one imaginary sale with a ball.",
-        "mia": "Mia separates the sales-count drawer from the money drawer.",
-        "rex": "Rex asks for a live dashboard and is handed a very heavy drawer.",
-        "timmy": "Timmy rolls one loose prop across the meeting table while everyone watches."
+        "crow": "Raven calls this an imaginary office sharing policy with unusually tangible limits.",
+        "pip": "Pip pulls up his chair when the book refuses to follow him.",
+        "mia": "Mia reminds everyone that the point is to let readers study while keeping the book in place.",
+        "rex": "Rex declares remote access solved by moving his desk beside the reading table.",
+        "timmy": "Timmy brings a second chair and quietly creates the first useful collaboration."
       },
       "sources": [
         {
-          "url": "https://artsandculture.google.com/asset/simplex-cash-register-circa-1890/MwGtaz2CWeJc9A?hl=en",
-          "institution": "The Henry Ford via Google Arts & Culture",
-          "locator": "Simplex Cash Register, circa 1890; object 80.33.1; image THF137735; date field 1865/1915",
+          "url": "https://artsandculture.google.com/asset/summa-casuum-conscientiae/cQHp57gANF7zZw?hl=en",
+          "institution": "National Library of the Czech Republic via Google Arts & Culture",
+          "locator": "Summa casuum conscientiae; 1488; printed in Nurnberg; chained books description and Cheb Franciscan library context",
           "kind": "primary_record",
           "anchors": [
-            "Simplex",
-            "80.33.1",
-            "THF137735"
+            "Summa casuum conscientiae",
+            "1488",
+            "Libri catenati",
+            "Cheb"
           ],
-          "verified_on": "2026-11-23",
+          "verified_on": "2026-11-24",
           "anchors_present": true,
           "download_error_type": null,
           "download_http_status": null,
-          "text_sha256": "a1a26cbe0a0fb781c9cf4baeb01ade1875cce1d60e5737054e1ead2bb67aac7d",
-          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
-        },
-        {
-          "url": "https://artsandculture.google.com/story/early-computing-the-henry-ford/bgVhwp2NnpB3Jg?hl=en",
-          "institution": "The Henry Ford via Google Arts & Culture",
-          "locator": "Early Computing; Simplex Cash Register section",
-          "kind": "institutional_commentary",
-          "anchors": [
-            "ceramic balls",
-            "daily totals"
-          ],
-          "verified_on": "2026-11-23",
-          "anchors_present": true,
-          "download_error_type": null,
-          "download_http_status": null,
-          "text_sha256": "6e106ec4c526426f7d4bd82a959b6c1d56b08c8f0754f7dc4cec489d4357e081",
+          "text_sha256": "080902f84af795f1fca1fb675df5f581515f5f467480d75b61f4d17290308174",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "The museum explains a ball-counting sales register. The modern dashboard and loose-ball gag are fiction. The title says circa 1890 while the date field spans 1865/1915; do not assert an exact manufacturing year, price, or universal retail adoption.",
+      "fact_boundary": "The institution describes chaining as a safeguard allowing study or copying, not as a ban on reading. Office software comparisons are fiction. Do not claim every medieval library used chains, that all users had unrestricted access, or that all surviving volumes retain their original chains.",
       "research_questions": [
-        "[VERIFICAR] Inspect the object manual or a curator-confirmed mechanism before claiming how denominations, corrections, or refunds were encoded."
+        "[VERIFICAR] Confirm this copy's shelfmark, provenance and surviving attachment hardware before asserting details about its particular chain or reader admission."
       ],
       "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
-      "original_editorial_assessment": 96,
-      "editorial_score": 96,
-      "score": 96,
+      "original_editorial_assessment": 95,
+      "editorial_score": 95,
+      "score": 95,
       "source_verified": true,
       "primary_record_available": true,
       "benchmark": {
@@ -91,57 +76,58 @@
       "eligible": false
     },
     {
-      "id": "patented-office-dish-duty",
-      "title": "Your Office Kitchen Needs an 1886 Patent",
-      "era": "United States, 1886",
-      "premise": "What if today the office tried to solve its dirty-cup feud with the dishwashing machine in Josephine Cochran's 1886 patent?",
-      "benchmark_query": "Your Office Kitchen Needs an 1886 Patent history",
+      "id": "platform-shoe-promotion-ladder",
+      "title": "Your Promotion Comes With Platform Shoes",
+      "era": "Venice, pair dated 1600-1620",
+      "premise": "What if today the meeting status symbol was a pair of raised Venetian chopines instead of a job title?",
+      "benchmark_query": "Your Promotion Comes With Platform Shoes history",
       "tags": [
         "history",
         "historical comedy",
         "modern counterfactual"
       ],
       "criteria": {
-        "curiosity": 21,
+        "curiosity": 22,
         "cast_comedy": 24,
-        "modern_contrast": 24,
+        "modern_contrast": 23,
         "primary_sources": 23
       },
       "rationale": {
-        "curiosity": "A familiar office argument opens onto a real patent, with a concrete reveal rather than an invention superlative.",
-        "cast_comedy": "The cast can turn a passive-aggressive cup dispute into a causal attempt to build a solution.",
-        "modern_contrast": "Shared-kitchen etiquette contrasts directly with a documented nineteenth-century machine.",
-        "primary_sources": "A museum-hosted patent drawing has a patent number and grant date; detailed operation still needs the full specification."
+        "curiosity": "A visible status symbol makes the historical object and joke clear in the opening beat.",
+        "cast_comedy": "Pip, Mia and Rex can expose the fictional assumption that height equals authority.",
+        "modern_contrast": "A dress-code status signal translates readily to a modern meeting without inventing a historic law.",
+        "primary_sources": "Victoria and Albert Museum supplies a particular Venetian pair, dimensions and date range; no universal height rule follows."
       },
       "cast_gags": {
-        "crow": "Raven opens a folder on the least glamorous office arms race.",
-        "pip": "Pip tries to identify his mug beneath a mountain of unwashed cups.",
-        "mia": "Mia replaces Rex's motivational dishwashing memo with a patent drawing.",
-        "rex": "Rex markets the machine as an employee-engagement initiative while avoiding the sink.",
-        "timmy": "Timmy adds one final spoon just as the demonstration is declared finished."
+        "crow": "Raven opens the file on a literal but entirely fictional promotion ladder.",
+        "pip": "Pip discovers that his borrowed status shoes do not improve his argument.",
+        "mia": "Mia lowers the meeting podium so evidence remains visible to everyone.",
+        "rex": "Rex makes a taller name card to compete with the footwear.",
+        "timmy": "Timmy places the tiny badge at table height and asks why anyone needed the extra elevation."
       },
       "sources": [
         {
-          "url": "https://artsandculture.google.com/asset/josephine-cochran-patent-us355139-0/dgG04cpa_0PljQ",
-          "institution": "National Women's History Museum via Google Arts & Culture",
-          "locator": "Josephine Cochran Patent US355139-0; patent 355,139; grant 28 December 1886; metadata creation 31 December 1885",
+          "url": "https://artsandculture.google.com/asset/8wFJYTRJPgEl_w?childAssetId=dQE0MAjiNVZM4g",
+          "institution": "Victoria and Albert Museum via Google Arts & Culture",
+          "locator": "Pair of chopines; Venetian pair; 1600/1620; height 9 cm each; asset 8wFJYTRJPgEl_w",
           "kind": "primary_record",
           "anchors": [
-            "355,139",
-            "Patented Dec. 28, 1886",
-            "DISH WASHING MACHINE"
+            "Pair of chopines",
+            "1600/1620",
+            "Height: 9 cm each",
+            "Venice"
           ],
-          "verified_on": "2026-11-23",
+          "verified_on": "2026-11-24",
           "anchors_present": true,
           "download_error_type": null,
           "download_http_status": null,
-          "text_sha256": "88fc6bc3bf5b05a02223b5b05d02a099ca0a4c582bea5b625d9998dcb1ad54c4",
+          "text_sha256": "c8da78c5df1aa7b313f91a9b3f91907490cc35038aaac1abd96d51b4adb90255",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "The institutional record identifies a patent drawing and grant date. The office feud is fiction. Do not call this the first dishwasher, confuse application with grant, invent a quotation, or assert a measured cleaning speed.",
+      "fact_boundary": "The museum connects raised shoes and dress with status and identifies this indoor pair. The modern promotion system is fiction. Do not confuse these nine-centimetre shoes with other much taller examples, universalize the custom, invent a law, or make women the target of the joke.",
       "research_questions": [
-        "[VERIFICAR] Read the complete patent claims before explaining rack motion or hydraulic operation; establish which features the drawing actually documents."
+        "[VERIFICAR] Confirm the museum inventory number and distinguish direct physical evidence from curatorial interpretations of status before expanding the costume discussion."
       ],
       "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
       "original_editorial_assessment": 92,
@@ -163,63 +149,62 @@
       "eligible": false
     },
     {
-      "id": "breakroom-butter-wheel",
-      "title": "The Office Snack Machine Runs on Elbow Grease",
-      "era": "Western India, early twentieth century, catalog date 1901-1930",
-      "premise": "What if today the office snack break required Pip to turn a wheel-and-rope butter churner before anybody could claim the butter?",
-      "benchmark_query": "The Office Snack Machine Runs on Elbow Grease history",
+      "id": "dice-gated-team-challenge",
+      "title": "Please Roll Before Joining the Meeting",
+      "era": "Ur, Early Dynastic III; board dated circa 2600-2400 BCE",
+      "premise": "What if today joining a team challenge required the right dice throw, using the entry rule described for the Royal Game of Ur?",
+      "benchmark_query": "Please Roll Before Joining the Meeting history",
       "tags": [
         "history",
         "historical comedy",
         "modern counterfactual"
       ],
       "criteria": {
-        "curiosity": 20,
+        "curiosity": 22,
         "cast_comedy": 23,
-        "modern_contrast": 23,
-        "primary_sources": 22
+        "modern_contrast": 24,
+        "primary_sources": 23
       },
       "rationale": {
-        "curiosity": "A hand-powered snack break has a clear physical reveal without a fake productivity claim.",
-        "cast_comedy": "The cast can build one escalating queue around a real mechanism, aiming jokes at office management.",
-        "modern_contrast": "Push-button convenience contrasts with a cataloged hand-operated churner.",
-        "primary_sources": "Sanskriti Museums identifies a specific object, place, date range, and materials; prevalence and output are not established."
+        "curiosity": "A simple participation hurdle reveals a specific surviving ancient board rather than claiming the oldest game.",
+        "cast_comedy": "Pip can remain stuck outside while Rex confuses luck with merit; Mia can explain the actual rule boundary.",
+        "modern_contrast": "Modern access screens become an explicitly fictional physical board-game queue.",
+        "primary_sources": "British Museum identifies board 1928,1009.378 and separates surviving inlay from missing pieces; reconstructed rules require care."
       },
       "cast_gags": {
-        "crow": "Raven introduces a fictional wellness policy that accidentally makes sense only to Rex.",
-        "pip": "Pip turns the wheel while his break clock keeps running.",
-        "mia": "Mia demonstrates why the rope transfers motion rather than generating free labor.",
-        "rex": "Rex calls the queue a team-building success before helping himself.",
-        "timmy": "Timmy attaches an imaginary number dispenser and instantly becomes queue manager."
+        "crow": "Raven opens the archive on a fictional login process involving dice.",
+        "pip": "Pip prepares a perfect presentation but cannot enter the imagined team challenge.",
+        "mia": "Mia stops Rex from treating a lucky roll as historical evidence of talent.",
+        "rex": "Rex invents a leadership badge for reaching a rosette first.",
+        "timmy": "Timmy reaches the waiting area with snacks while Pip is still rolling."
       },
       "sources": [
         {
-          "url": "https://artsandculture.google.com/asset/butter-churner/bAGTIUiWMz_UeA?hl=en",
-          "institution": "Sanskriti Museums via Google Arts & Culture",
-          "locator": "Butter Churner; Western India; 1901/1930; Early 20th Century; wood, iron, glass and jute rope",
+          "url": "https://artsandculture.google.com/asset/the-royal-game-of-ur/MwE2MMZNSKiTwQ",
+          "institution": "British Museum via Google Arts & Culture",
+          "locator": "The Royal Game of Ur; registration 1928,1009.378; Early Dynastic III; date field -2600/-2400",
           "kind": "primary_record",
           "anchors": [
-            "Butter Churner",
-            "1901/1930",
-            "Western India",
-            "four small wheels"
+            "1928,1009.378",
+            "twenty squares",
+            "specific throws of the dice"
           ],
-          "verified_on": "2026-11-23",
+          "verified_on": "2026-11-24",
           "anchors_present": true,
           "download_error_type": null,
           "download_http_status": null,
-          "text_sha256": "941374a406528b7cd298cfa29380ab8adea0b78bbcf3d92b2d30610020986f89",
+          "text_sha256": "558612c45881019b52be27d979c7631e99537899542e05d79d87f999d95f2ab5",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "A specific museum object combines a wheel and rope with a churning rod. The office policy is fiction, not evidence of historical workplace rules. Avoid generalizing one object to all India or treating domestic labor as a punchline.",
+      "fact_boundary": "The object and institutional description document a board and an entry condition described from ancient references. Modern workplace participation is fiction, not an ancient employment rule. Do not call Ur the origin of chess or backgammon; this board's own gaming pieces do not survive.",
       "research_questions": [
-        "[VERIFICAR] Establish regional use, provenance, operator effort and output only from further documented evidence; no invented minutes, yields or health claims."
+        "[VERIFICAR] Identify the particular ancient rules document and its date before presenting one reconstruction as the exact rules used with this third-millennium board."
       ],
       "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
-      "original_editorial_assessment": 88,
-      "editorial_score": 88,
-      "score": 88,
+      "original_editorial_assessment": 92,
+      "editorial_score": 92,
+      "score": 92,
       "source_verified": true,
       "primary_record_available": true,
       "benchmark": {
@@ -236,78 +221,64 @@
       "eligible": false
     },
     {
-      "id": "coins-have-jury-duty",
-      "title": "Your Spare Change Has Jury Duty",
-      "era": "England, documented from at least 1282; surviving standards from 1477",
-      "premise": "What if today your spare change had to face an independent jury before Rex would accept it at the office coffee counter?",
-      "benchmark_query": "Your Spare Change Has Jury Duty history",
+      "id": "hair-powder-budget-three-zeros",
+      "title": "The Budget Speech That Added Three Zeros",
+      "era": "United Kingdom, House of Commons, 8 April 1869",
+      "premise": "What if today your finance meeting replayed an 1869 budget speech that inflated a hair-powder duty from 925 pounds to 925,000 before correcting itself?",
+      "benchmark_query": "The Budget Speech That Added Three Zeros history",
       "tags": [
         "history",
         "historical comedy",
         "modern counterfactual"
       ],
       "criteria": {
-        "curiosity": 23,
-        "cast_comedy": 23,
-        "modern_contrast": 24,
+        "curiosity": 24,
+        "cast_comedy": 24,
+        "modern_contrast": 25,
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "The reversal puts coins on trial and immediately promises an explainable historical mechanism.",
-        "cast_comedy": "Rex can obstruct a tiny purchase until Mia distinguishes inspection from theatrical prosecution.",
-        "modern_contrast": "Routine contactless convenience contrasts with sampling and physical coin tests.",
-        "primary_sources": "Royal Mint Museum interpretation and a collection overview are located; no original medieval proceeding has been inspected."
+        "curiosity": "A documented correction gives the hook a precise surprise without inventing a fiscal scandal.",
+        "cast_comedy": "Rex can celebrate an imaginary windfall until Mia removes three zeros and Pip puts away the celebration.",
+        "modern_contrast": "Spreadsheet scale errors provide an immediate modern analogy to a parliamentary speech.",
+        "primary_sources": "Hansard supplies a dated primary speech with the mistaken and corrected figures; a proposed repeal is not proof of enactment."
       },
       "cast_gags": {
-        "crow": "Raven announces that the defendant is a coin, not its owner.",
-        "pip": "Pip arrives with exact change and discovers a ceremonial waiting room.",
-        "mia": "Mia brings scales to stop Rex judging the coin by its expression.",
-        "rex": "Rex wears a comically oversized robe to supervise one imaginary coffee purchase.",
-        "timmy": "Timmy volunteers a chocolate coin; Mia removes it before any real test."
+        "crow": "Raven distinguishes what a speaker said from what the Treasury actually collected.",
+        "pip": "Pip orders imaginary celebration snacks before hearing the correction.",
+        "mia": "Mia moves the decimal scale on Rex's fictional slide back into reality.",
+        "rex": "Rex announces a vast budget increase and then quietly folds the slide into his pocket.",
+        "timmy": "Timmy returns the giant celebration banner and keeps a tiny paper flag."
       },
       "sources": [
         {
-          "url": "https://www.royalmintmuseum.org.uk/journal/history/trial-of-the-pyx/",
-          "institution": "Royal Mint Museum",
-          "locator": "Trial of the Pyx; opening paragraph and explanation of jury tests",
-          "kind": "institutional_commentary",
+          "url": "https://hansard.parliament.uk/Commons/1869-04-08/debates/7a9aa3ab-c929-46c8-8229-aca257614159/WaysAndMeans%E2%80%94FinancialStatement",
+          "institution": "UK Parliament, Historic Hansard",
+          "locator": "Ways and Means - Financial Statement; Commons 8 April 1869; hair-powder passage, columns 391-392",
+          "kind": "primary_record",
           "anchors": [
-            "1282",
-            "weight, diameter and composition"
+            "hair powder",
+            "925,000",
+            "I mean",
+            "925 a year"
           ],
-          "verified_on": "2026-11-23",
-          "anchors_present": true,
-          "download_error_type": null,
-          "download_http_status": null,
-          "text_sha256": "212b00e16c6d2f97de03b36e959919d46c797c195273f6f0510126bbf7040aec",
-          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
-        },
-        {
-          "url": "https://www.royalmintmuseum.org.uk/collection/trial-plates/",
-          "institution": "Royal Mint Museum",
-          "locator": "Trial Plates collection overview; standards described as dating from 1477",
-          "kind": "institutional_catalog",
-          "anchors": [
-            "1477",
-            "gold and silver trial plates"
-          ],
-          "verified_on": "2026-11-23",
-          "anchors_present": true,
-          "download_error_type": null,
-          "download_http_status": null,
-          "text_sha256": "ac80142f58d24b7e205ff1a87a16dad8fb5fd336003dd890eabe31c78cf3135b",
+          "verified_on": "2026-11-24",
+          "anchors_present": false,
+          "download_error_type": "HTTPError",
+          "download_http_status": 403,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "The coffee-counter tribunal is invented. The museum describes independent checking since at least 1282 and later surviving standards; neither establishes that every historical customer had coins individually approved. Collection overview is not a transcript of a medieval trial.",
+      "fact_boundary": "The speech records a mistaken revenue figure and immediate correction while proposing abolition. The modern slide, celebration and actions are fiction. Do not claim the government actually collected the inflated amount or that this speech alone proves repeal, fraud, or modern purchasing power.",
       "research_questions": [
-        "[VERIFICAR] Locate an original trial record and period-specific sampling rules before narrating medieval procedure, penalties, or uninterrupted annual operation."
+        "[VERIFICAR] Check the enacted legislation before stating the repeal date; corroborate the corrected receipt with fiscal accounts if it becomes a substantive revenue claim."
       ],
       "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
-      "original_editorial_assessment": 88,
-      "editorial_score": 70,
-      "score": 70,
-      "source_verified": true,
+      "original_editorial_assessment": 97,
+      "editorial_score": 73,
+      "score": 73,
+      "source_verified": false,
       "primary_record_available": false,
       "benchmark": {
         "status": "unavailable",
@@ -323,48 +294,48 @@
       "eligible": false
     },
     {
-      "id": "helpdesk-physical-bug-attachment",
-      "title": "IT Support Wants the Actual Bug",
-      "era": "Cambridge, Massachusetts, 1947",
-      "premise": "What if today IT refused to close Pip's ticket until he attached the actual physical bug, inspired by the moth preserved in a 1947 computer logbook?",
-      "benchmark_query": "IT Support Wants the Actual Bug history",
+      "id": "refrigerator-needs-ice-delivery",
+      "title": "Your Fridge Needs Another Delivery",
+      "era": "United States, advertisement published 1913; earlier date field is separately qualified",
+      "premise": "What if today your kitchen refrigerator needed replacement blocks of ice rather than just an electricity connection, as in the Monroe icebox advertisement?",
+      "benchmark_query": "Your Fridge Needs Another Delivery history",
       "tags": [
         "history",
         "historical comedy",
         "modern counterfactual"
       ],
       "criteria": {
-        "curiosity": 23,
-        "cast_comedy": 22,
+        "curiosity": 21,
+        "cast_comedy": 23,
         "modern_contrast": 24,
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "A literal attachment rule provides an immediate physical payoff for a familiar software phrase.",
-        "cast_comedy": "The team can escalate a support ticket without turning a disputed origin myth into a fact.",
-        "modern_contrast": "An online attachment workflow becomes a tangible museum-record problem.",
-        "primary_sources": "Smithsonian identifies the actual logbook and accession; local retrieval and wording must still pass the anchor check."
+        "curiosity": "A familiar appliance with an unexpected consumable has an immediate, tangible reveal.",
+        "cast_comedy": "Pip waits for a refill while Rex discovers that branding something modern does not eliminate maintenance.",
+        "modern_contrast": "The routine electricity assumption turns into an explicitly fictional delivery-tracking problem.",
+        "primary_sources": "Smithsonian locates a 1913 advertisement with a catalog ID; conflicting date fields and successful retrieval must be disclosed."
       },
       "cast_gags": {
-        "crow": "Raven distinguishes a real insect record from the myth that it invented the word bug.",
-        "pip": "Pip dutifully uploads a screenshot and receives an imaginary request for a specimen.",
-        "mia": "Mia points to the institutional record instead of crediting one celebrity with everything.",
-        "rex": "Rex expands the attachment field into a ridiculous oversized evidence tray.",
-        "timmy": "Timmy submits a paper moth that Mia labels fictional before the punchline."
+        "crow": "Raven separates a real advertisement from claims about every historical household.",
+        "pip": "Pip repeatedly refreshes an imaginary ice-delivery tracker before packing lunch.",
+        "mia": "Mia checks the drip tray rather than accepting Rex's invented maintenance-free slogan.",
+        "rex": "Rex attempts to sell a fictional app update for a cabinet that needs ice.",
+        "timmy": "Timmy arrives with an empty lunch container and an inconveniently practical question."
       },
       "sources": [
         {
-          "url": "https://www.si.edu/object/eniac-electronic-numerator-integrator-and-computer%3Anmah_334663",
-          "institution": "Smithsonian Institution / National Museum of American History",
-          "locator": "Log Book With Computer Bug; nmah_334663; ID 1994.0191.01; 1947",
+          "url": "https://www.si.edu/object/monroe-american-homes-and-gardens%3Asilgoi_68369",
+          "institution": "Smithsonian Libraries and Archives",
+          "locator": "The Monroe from American Homes and Gardens; catalog 182094; record silgoi_68369; publication 1913; separate Date field 1900-1905",
           "kind": "primary_record",
           "anchors": [
-            "Log Book With Computer Bug",
-            "1947",
-            "Mark II",
-            "1994.0191.01"
+            "The Monroe",
+            "1913",
+            "182094",
+            "ice blocks"
           ],
-          "verified_on": "2026-11-23",
+          "verified_on": "2026-11-24",
           "anchors_present": false,
           "download_error_type": "HTTPError",
           "download_http_status": 403,
@@ -372,14 +343,14 @@
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "Smithsonian describes a moth preserved by the Mark II team and explicitly says engineering bugs predate it. Do not claim Hopper found it personally, owned this book, coined bug, or established the first software error. The modern support rule is fictional.",
+      "fact_boundary": "Institutional metadata identifies a magazine advertisement; its explanatory notes describe replacement ice and a drip tray. The publication date is not proof of manufacture date. The modern app and slogan are fiction; retrieval failures leave the source locally unverified, and no universal delivery interval or food-safety guarantee is asserted.",
       "research_questions": [
-        "[VERIFICAR] Confirm the original page date and wording from a legible reproduction before quoting it; do not substitute the ENIAC-looking URL slug for the record's Mark II description."
+        "[VERIFICAR] Read the original advertisement at a legible resolution, resolve the 1900-1905 versus 1913 metadata distinction, and document local supply conditions before quantifying ice use or cost."
       ],
       "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
-      "original_editorial_assessment": 91,
-      "editorial_score": 69,
-      "score": 69,
+      "original_editorial_assessment": 90,
+      "editorial_score": 68,
+      "score": 68,
       "source_verified": false,
       "primary_record_available": false,
       "benchmark": {
@@ -397,7 +368,7 @@
     }
   ],
   "winner": null,
-  "provisional_editorial_winner": "sales-dashboard-ceramic-balls",
+  "provisional_editorial_winner": "tethered-office-reading-copy",
   "benchmark_complete": false,
   "benchmark_attempted": false,
   "ranking_basis": "Editorial only; benchmark incomplete, no production winner",
@@ -407,5 +378,5 @@
     100
   ],
   "paid_model_calls": 0,
-  "verified_at": "2026-11-23T14:13:48.966770+00:00"
+  "verified_at": "2026-11-24T14:08:02.798746+00:00"
 }
