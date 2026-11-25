@@ -1,13 +1,13 @@
 {
   "schema": "nevermore-ideation-2",
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "ideas": [
     {
-      "id": "tethered-office-reading-copy",
-      "title": "The Shared Document Has a Metal Cable",
-      "era": "Late medieval Europe; Nuremberg printing, 1488; Cheb library context",
-      "premise": "What if today the shared office reference book could be read at the table but physically could not be taken to your desk, like a chained library book?",
-      "benchmark_query": "The Shared Document Has a Metal Cable history",
+      "id": "celebrity-feed-printed-on-card",
+      "title": "Your Celebrity Feed Arrives on Cardboard",
+      "era": "Britain, 1860s; Camille Silvy photograph of Adelina Patti identified as 1865",
+      "premise": "What if today following your favorite performer meant collecting a small mounted photographic card instead of refreshing a feed?",
+      "benchmark_query": "Your Celebrity Feed Arrives on Cardboard history",
       "tags": [
         "history",
         "historical comedy",
@@ -15,51 +15,51 @@
       ],
       "criteria": {
         "curiosity": 23,
-        "cast_comedy": 24,
-        "modern_contrast": 25,
+        "cast_comedy": 23,
+        "modern_contrast": 24,
         "primary_sources": 23
       },
       "rationale": {
-        "curiosity": "A literal restriction on moving a document reveals a real preservation and security practice.",
-        "cast_comedy": "The cast can escalate an attempt to share one book while Mia points out that it is readable, not forbidden.",
-        "modern_contrast": "Digital copy permissions become a clearly labeled analogy to a physical tether.",
-        "primary_sources": "The Czech national library supplies a dated volume and explains chaining; the original fastening and broader access rules need inspection."
+        "curiosity": "The physical feed reveal is grounded in a particular theatrical portrait rather than a generic nostalgia claim.",
+        "cast_comedy": "Rex can invent a fictional subscription scheme while Mia separates a collectible portrait from actual celebrity access.",
+        "modern_contrast": "Collecting and displaying performer photographs creates an immediate contrast with online following.",
+        "primary_sources": "Victoria and Albert Museum identifies a Silvy portrait of Adelina Patti and explains the card format; sales totals and individual behavior remain unknown."
       },
       "cast_gags": {
-        "crow": "Raven calls this an imaginary office sharing policy with unusually tangible limits.",
-        "pip": "Pip pulls up his chair when the book refuses to follow him.",
-        "mia": "Mia reminds everyone that the point is to let readers study while keeping the book in place.",
-        "rex": "Rex declares remote access solved by moving his desk beside the reading table.",
-        "timmy": "Timmy brings a second chair and quietly creates the first useful collaboration."
+        "crow": "Raven introduces a real portrait format and labels the modern feed analogy as a joke.",
+        "pip": "Pip looks for an imaginary refresh button on a mounted paper portrait.",
+        "mia": "Mia explains that collecting a photograph is not a personal message from the performer.",
+        "rex": "Rex offers a fictional premium cardboard-feed membership with a larger empty album.",
+        "timmy": "Timmy turns the album page and asks whether that counts as an update."
       },
       "sources": [
         {
-          "url": "https://artsandculture.google.com/asset/summa-casuum-conscientiae/cQHp57gANF7zZw?hl=en",
-          "institution": "National Library of the Czech Republic via Google Arts & Culture",
-          "locator": "Summa casuum conscientiae; 1488; printed in Nurnberg; chained books description and Cheb Franciscan library context",
+          "url": "https://artsandculture.google.com/asset/guy-little-theatrical-photograph-silvy-camille-l%C3%A9on-louis/FgEMWv5aILSNcA?hl=en",
+          "institution": "Victoria and Albert Museum via Google Arts & Culture",
+          "locator": "Guy Little Theatrical Photograph; Camille Silvy; Adelina Patti as Linda, 1865; catalog range 1860/1869; Guy Little bequest",
           "kind": "primary_record",
           "anchors": [
-            "Summa casuum conscientiae",
-            "1488",
-            "Libri catenati",
-            "Cheb"
+            "Adelina Patti",
+            "1865",
+            "1860/1869",
+            "Guy Little"
           ],
-          "verified_on": "2026-11-24",
+          "verified_on": "2026-11-25",
           "anchors_present": true,
           "download_error_type": null,
           "download_http_status": null,
-          "text_sha256": "080902f84af795f1fca1fb675df5f581515f5f467480d75b61f4d17290308174",
+          "text_sha256": "a576fe29079259922bcc6fb64051cebf66de8ad8e4fd62a1a69916ec4b798a34",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "The institution describes chaining as a safeguard allowing study or copying, not as a ban on reading. Office software comparisons are fiction. Do not claim every medieval library used chains, that all users had unrestricted access, or that all surviving volumes retain their original chains.",
+      "fact_boundary": "The artifact and curatorial account support a small theatrical photograph and collecting context. The feed, refresh button and membership are fiction. A portrait in a role is not a photograph of an actual event in that role; no invented signature, personal endorsement, sales figure, or universal collecting practice.",
       "research_questions": [
-        "[VERIFICAR] Confirm this copy's shelfmark, provenance and surviving attachment hardware before asserting details about its particular chain or reader admission."
+        "[VERIFICAR] Establish the exact inventory number and distinguish the portrait's 1865 identification from the broader catalog decade before expanding the distribution or pricing story."
       ],
       "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
-      "original_editorial_assessment": 95,
-      "editorial_score": 95,
-      "score": 95,
+      "original_editorial_assessment": 93,
+      "editorial_score": 93,
+      "score": 93,
       "source_verified": true,
       "primary_record_available": true,
       "benchmark": {
@@ -76,58 +76,74 @@
       "eligible": false
     },
     {
-      "id": "platform-shoe-promotion-ladder",
-      "title": "Your Promotion Comes With Platform Shoes",
-      "era": "Venice, pair dated 1600-1620",
-      "premise": "What if today the meeting status symbol was a pair of raised Venetian chopines instead of a job title?",
-      "benchmark_query": "Your Promotion Comes With Platform Shoes history",
+      "id": "beach-changing-room-on-wheels",
+      "title": "Your Beach Changing Room Needs a Parking Space",
+      "era": "Britain; 1788 artwork and separate 1901 Great Yarmouth photographic context",
+      "premise": "What if today a trip to the beach required a changing room on wheels that went towards the water with you, like a historical bathing machine?",
+      "benchmark_query": "Your Beach Changing Room Needs a Parking Space history",
       "tags": [
         "history",
         "historical comedy",
         "modern counterfactual"
       ],
       "criteria": {
-        "curiosity": 22,
-        "cast_comedy": 24,
-        "modern_contrast": 23,
-        "primary_sources": 23
+        "curiosity": 23,
+        "cast_comedy": 23,
+        "modern_contrast": 24,
+        "primary_sources": 22
       },
       "rationale": {
-        "curiosity": "A visible status symbol makes the historical object and joke clear in the opening beat.",
-        "cast_comedy": "Pip, Mia and Rex can expose the fictional assumption that height equals authority.",
-        "modern_contrast": "A dress-code status signal translates readily to a modern meeting without inventing a historic law.",
-        "primary_sources": "Victoria and Albert Museum supplies a particular Venetian pair, dimensions and date range; no universal height rule follows."
+        "curiosity": "An unexpectedly mobile room creates a specific visual reveal rather than a vague Victorian anecdote.",
+        "cast_comedy": "A fictional parking dispute can escalate from Pip wanting a swim to Rex managing an entire wheeled room.",
+        "modern_contrast": "Current beach convenience contrasts with a documented historical contraption.",
+        "primary_sources": "A dated Yale artwork and a museum archive explanation are identified; neither establishes a universal legal requirement."
       },
       "cast_gags": {
-        "crow": "Raven opens the file on a literal but entirely fictional promotion ladder.",
-        "pip": "Pip discovers that his borrowed status shoes do not improve his argument.",
-        "mia": "Mia lowers the meeting podium so evidence remains visible to everyone.",
-        "rex": "Rex makes a taller name card to compete with the footwear.",
-        "timmy": "Timmy places the tiny badge at table height and asks why anyone needed the extra elevation."
+        "crow": "Raven opens a fictional travel review about bringing the room to the beach.",
+        "pip": "Pip packs a towel and discovers the fictional booking also includes a wheeled cabin.",
+        "mia": "Mia points out the difference between the documented object and Rex's invented parking policy.",
+        "rex": "Rex issues a tiny imaginary parking permit for an enormous changing room.",
+        "timmy": "Timmy carries a miniature reserved sign to the empty stretch of beach."
       },
       "sources": [
         {
-          "url": "https://artsandculture.google.com/asset/8wFJYTRJPgEl_w?childAssetId=dQE0MAjiNVZM4g",
-          "institution": "Victoria and Albert Museum via Google Arts & Culture",
-          "locator": "Pair of chopines; Venetian pair; 1600/1620; height 9 cm each; asset 8wFJYTRJPgEl_w",
+          "url": "https://artsandculture.google.com/asset/bathing-machine-on-the-common-near-southsea-castle-john-nixon-ca-1760%E2%80%931818-british/mgE6ZT3ywfS6xg",
+          "institution": "Yale Center for British Art via Google Arts & Culture",
+          "locator": "John Nixon, Bathing Machine on the Common, near Southsea Castle; 1788; Paul Mellon Collection; asset mgE6ZT3ywfS6xg",
           "kind": "primary_record",
           "anchors": [
-            "Pair of chopines",
-            "1600/1620",
-            "Height: 9 cm each",
-            "Venice"
+            "Bathing Machine on the Common",
+            "1788",
+            "Yale Center for British Art"
           ],
-          "verified_on": "2026-11-24",
+          "verified_on": "2026-11-25",
           "anchors_present": true,
           "download_error_type": null,
           "download_http_status": null,
-          "text_sha256": "c8da78c5df1aa7b313f91a9b3f91907490cc35038aaac1abd96d51b4adb90255",
+          "text_sha256": "dd62f7ed6d538b3a02b68b414ba23dc02e93803280772228b4fb7ba971599414",
+          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
+        },
+        {
+          "url": "https://artsandculture.google.com/story/JAUhonXKHTwJKw",
+          "institution": "Time and Tide Museum via Google Arts & Culture",
+          "locator": "The Percy Trett Photographic Archive; Bathing Machines on the Beach, dated 1901-09-05; accompanying explanatory paragraph",
+          "kind": "institutional_commentary",
+          "anchors": [
+            "Bathing Machines on the Beach",
+            "1901-09-05",
+            "changing inside"
+          ],
+          "verified_on": "2026-11-25",
+          "anchors_present": true,
+          "download_error_type": null,
+          "download_http_status": null,
+          "text_sha256": "b3611d6dee4a8a7acfabd0e49a9323216f18434e796f47a2b95dbc7c93b851d3",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "The museum connects raised shoes and dress with status and identifies this indoor pair. The modern promotion system is fiction. Do not confuse these nine-centimetre shoes with other much taller examples, universalize the custom, invent a law, or make women the target of the joke.",
+      "fact_boundary": "The wheeled-room booking and permit are fiction. A 1788 representation and a separate 1901 image are not the same object or era. The museum explanation of modesty is not evidence that every beachgoer was legally compelled to use a machine. No changing bodies or nudity would be depicted.",
       "research_questions": [
-        "[VERIFICAR] Confirm the museum inventory number and distinguish direct physical evidence from curatorial interpretations of status before expanding the costume discussion."
+        "[VERIFICAR] Establish place-specific operating practices, access and charges from contemporary records before narrating who could hire one or how it was moved."
       ],
       "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
       "original_editorial_assessment": 92,
@@ -149,11 +165,84 @@
       "eligible": false
     },
     {
-      "id": "dice-gated-team-challenge",
-      "title": "Please Roll Before Joining the Meeting",
-      "era": "Ur, Early Dynastic III; board dated circa 2600-2400 BCE",
-      "premise": "What if today joining a team challenge required the right dice throw, using the entry rule described for the Royal Game of Ur?",
-      "benchmark_query": "Please Roll Before Joining the Meeting history",
+      "id": "roman-soil-upgrade-before-dashboard",
+      "title": "The Productivity Upgrade Is an Iron Blade",
+      "era": "Roman Britain; object catalog date 1-399 CE; Great Witcombe findspot",
+      "premise": "What if today the productivity consultant offered Pip a Roman plough coulter instead of another farm dashboard, because the heavy soil needed a physical cut?",
+      "benchmark_query": "The Productivity Upgrade Is an Iron Blade history",
+      "tags": [
+        "history",
+        "historical comedy",
+        "modern counterfactual"
+      ],
+      "criteria": {
+        "curiosity": 19,
+        "cast_comedy": 21,
+        "modern_contrast": 22,
+        "primary_sources": 22
+      },
+      "rationale": {
+        "curiosity": "A physical mechanism supplies a useful payoff, although the hook is less surprising than the other candidates.",
+        "cast_comedy": "The joke targets Rex's abstract promises while Mia explains the actual order of operations.",
+        "modern_contrast": "An imaginary software-sales pitch contrasts with a documented soil-working tool.",
+        "primary_sources": "British Museum identifies coulter 1819,0313.1 and describes its action ahead of the plough-share; no numerical yield evidence is supplied."
+      },
+      "cast_gags": {
+        "crow": "Raven distinguishes a genuine mechanism from a fictional consultant's grand promises.",
+        "pip": "Pip shows a harmless cutaway of difficult soil instead of another chart.",
+        "mia": "Mia uses an editorial diagram to show the vertical cut before the share undercuts the furrow.",
+        "rex": "Rex tries to invoice the imaginary dashboard before noticing it cannot cut anything.",
+        "timmy": "Timmy labels the harmless model with two removable editorial arrows, keeping all real blades off the set."
+      },
+      "sources": [
+        {
+          "url": "https://artsandculture.google.com/asset/iron-plough-coulter/PwEkmJV3B0hjzg?hl=en",
+          "institution": "British Museum via Google Arts & Culture",
+          "locator": "Iron plough coulter; registration 1819,0313.1; Great Witcombe; Romano-British; date field 1/399",
+          "kind": "primary_record",
+          "anchors": [
+            "1819,0313.1",
+            "vertical cut",
+            "Great Witcombe",
+            "heavy soils"
+          ],
+          "verified_on": "2026-11-25",
+          "anchors_present": true,
+          "download_error_type": null,
+          "download_http_status": null,
+          "text_sha256": "c13e61f5a09691a28a052130be73cdf1e537b30c3ec8b7ffbf148a0c287c7976",
+          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
+        }
+      ],
+      "fact_boundary": "The institutional account explains an iron tool working ahead of the share. The consultant, software comparison and invoice are fiction. The broad date field is not a precise invention date. Do not claim Romans invented all iron ploughs or that one tool delivers a measured yield gain; no real cutting demonstration is proposed.",
+      "research_questions": [
+        "[VERIFICAR] Verify local adoption and surviving plough assembly evidence before reconstructing the complete equipment, traction or labor requirements."
+      ],
+      "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
+      "original_editorial_assessment": 84,
+      "editorial_score": 84,
+      "score": 84,
+      "source_verified": true,
+      "primary_record_available": true,
+      "benchmark": {
+        "status": "unavailable",
+        "videos": [],
+        "raw_metrics_location": "private Studio cache, never Git",
+        "error_type": null,
+        "median_views_per_day": null,
+        "ctr": null,
+        "retention": null,
+        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
+      },
+      "reused_counterfactual": false,
+      "eligible": false
+    },
+    {
+      "id": "lion-shaped-handwashing-station",
+      "title": "Your Hands Have an Appointment With a Lion",
+      "era": "Nuremberg, circa 1400; copper-alloy object",
+      "premise": "What if today the handwashing station before lunch was a lion-shaped water vessel, like the aquamanile cataloged at The Met?",
+      "benchmark_query": "Your Hands Have an Appointment With a Lion history",
       "tags": [
         "history",
         "historical comedy",
@@ -163,121 +252,49 @@
         "curiosity": 22,
         "cast_comedy": 23,
         "modern_contrast": 24,
-        "primary_sources": 23
-      },
-      "rationale": {
-        "curiosity": "A simple participation hurdle reveals a specific surviving ancient board rather than claiming the oldest game.",
-        "cast_comedy": "Pip can remain stuck outside while Rex confuses luck with merit; Mia can explain the actual rule boundary.",
-        "modern_contrast": "Modern access screens become an explicitly fictional physical board-game queue.",
-        "primary_sources": "British Museum identifies board 1928,1009.378 and separates surviving inlay from missing pieces; reconstructed rules require care."
-      },
-      "cast_gags": {
-        "crow": "Raven opens the archive on a fictional login process involving dice.",
-        "pip": "Pip prepares a perfect presentation but cannot enter the imagined team challenge.",
-        "mia": "Mia stops Rex from treating a lucky roll as historical evidence of talent.",
-        "rex": "Rex invents a leadership badge for reaching a rosette first.",
-        "timmy": "Timmy reaches the waiting area with snacks while Pip is still rolling."
-      },
-      "sources": [
-        {
-          "url": "https://artsandculture.google.com/asset/the-royal-game-of-ur/MwE2MMZNSKiTwQ",
-          "institution": "British Museum via Google Arts & Culture",
-          "locator": "The Royal Game of Ur; registration 1928,1009.378; Early Dynastic III; date field -2600/-2400",
-          "kind": "primary_record",
-          "anchors": [
-            "1928,1009.378",
-            "twenty squares",
-            "specific throws of the dice"
-          ],
-          "verified_on": "2026-11-24",
-          "anchors_present": true,
-          "download_error_type": null,
-          "download_http_status": null,
-          "text_sha256": "558612c45881019b52be27d979c7631e99537899542e05d79d87f999d95f2ab5",
-          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
-        }
-      ],
-      "fact_boundary": "The object and institutional description document a board and an entry condition described from ancient references. Modern workplace participation is fiction, not an ancient employment rule. Do not call Ur the origin of chess or backgammon; this board's own gaming pieces do not survive.",
-      "research_questions": [
-        "[VERIFICAR] Identify the particular ancient rules document and its date before presenting one reconstruction as the exact rules used with this third-millennium board."
-      ],
-      "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
-      "original_editorial_assessment": 92,
-      "editorial_score": 92,
-      "score": 92,
-      "source_verified": true,
-      "primary_record_available": true,
-      "benchmark": {
-        "status": "unavailable",
-        "videos": [],
-        "raw_metrics_location": "private Studio cache, never Git",
-        "error_type": null,
-        "median_views_per_day": null,
-        "ctr": null,
-        "retention": null,
-        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
-      },
-      "reused_counterfactual": false,
-      "eligible": false
-    },
-    {
-      "id": "hair-powder-budget-three-zeros",
-      "title": "The Budget Speech That Added Three Zeros",
-      "era": "United Kingdom, House of Commons, 8 April 1869",
-      "premise": "What if today your finance meeting replayed an 1869 budget speech that inflated a hair-powder duty from 925 pounds to 925,000 before correcting itself?",
-      "benchmark_query": "The Budget Speech That Added Three Zeros history",
-      "tags": [
-        "history",
-        "historical comedy",
-        "modern counterfactual"
-      ],
-      "criteria": {
-        "curiosity": 24,
-        "cast_comedy": 24,
-        "modern_contrast": 25,
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "A documented correction gives the hook a precise surprise without inventing a fiscal scandal.",
-        "cast_comedy": "Rex can celebrate an imaginary windfall until Mia removes three zeros and Pip puts away the celebration.",
-        "modern_contrast": "Spreadsheet scale errors provide an immediate modern analogy to a parliamentary speech.",
-        "primary_sources": "Hansard supplies a dated primary speech with the mistaken and corrected figures; a proposed repeal is not proof of enactment."
+        "curiosity": "The reveal makes a mundane object surprisingly theatrical with an identifiable medieval source.",
+        "cast_comedy": "Pip can mistake Rex's prestige display for an elaborate management tool while Mia identifies its function.",
+        "modern_contrast": "A familiar sink routine contrasts directly with a surviving handwashing vessel.",
+        "primary_sources": "The Met identifies object 1994.244, material, approximate date and intended function; no mass-adoption claim is needed."
       },
       "cast_gags": {
-        "crow": "Raven distinguishes what a speaker said from what the Treasury actually collected.",
-        "pip": "Pip orders imaginary celebration snacks before hearing the correction.",
-        "mia": "Mia moves the decimal scale on Rex's fictional slide back into reality.",
-        "rex": "Rex announces a vast budget increase and then quietly folds the slide into his pocket.",
-        "timmy": "Timmy returns the giant celebration banner and keeps a tiny paper flag."
+        "crow": "Raven reveals that the impressive-looking lion has a practical washing job.",
+        "pip": "Pip waits for Rex to explain which imaginary button operates the station.",
+        "mia": "Mia produces the basin and demonstrates the everyday purpose with a safe theatrical prop.",
+        "rex": "Rex calls the lion his new fictional executive hydration platform.",
+        "timmy": "Timmy sets down a tiny towel and solves the practical problem before the presentation ends."
       },
       "sources": [
         {
-          "url": "https://hansard.parliament.uk/Commons/1869-04-08/debates/7a9aa3ab-c929-46c8-8229-aca257614159/WaysAndMeans%E2%80%94FinancialStatement",
-          "institution": "UK Parliament, Historic Hansard",
-          "locator": "Ways and Means - Financial Statement; Commons 8 April 1869; hair-powder passage, columns 391-392",
+          "url": "https://www.metmuseum.org/art/collection/search/469949",
+          "institution": "The Metropolitan Museum of Art",
+          "locator": "Aquamanile in the Form of a Lion; 1994.244; Nuremberg; ca. 1400; The Cloisters Collection",
           "kind": "primary_record",
           "anchors": [
-            "hair powder",
-            "925,000",
-            "I mean",
-            "925 a year"
+            "1994.244",
+            "ca. 1400",
+            "handwashing",
+            "Nuremberg"
           ],
-          "verified_on": "2026-11-24",
+          "verified_on": "2026-11-25",
           "anchors_present": false,
           "download_error_type": "HTTPError",
-          "download_http_status": 403,
+          "download_http_status": 429,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "The speech records a mistaken revenue figure and immediate correction while proposing abolition. The modern slide, celebration and actions are fiction. Do not claim the government actually collected the inflated amount or that this speech alone proves repeal, fraud, or modern purchasing power.",
+      "fact_boundary": "The object is cataloged as copper alloy; no more specific alloy is assumed. The modern sink and executive branding are fiction. Do not infer universal medieval access, modern germ theory, a particular owner, or an automatic plumbing mechanism.",
       "research_questions": [
-        "[VERIFICAR] Check the enacted legislation before stating the repeal date; corroborate the corrected receipt with fiscal accounts if it becomes a substantive revenue claim."
+        "[VERIFICAR] Confirm filling and pouring details for this exact object and household context before staging a historical-use reconstruction; no invented capacity or price."
       ],
       "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
-      "original_editorial_assessment": 97,
-      "editorial_score": 73,
-      "score": 73,
+      "original_editorial_assessment": 92,
+      "editorial_score": 69,
+      "score": 69,
       "source_verified": false,
       "primary_record_available": false,
       "benchmark": {
@@ -294,11 +311,11 @@
       "eligible": false
     },
     {
-      "id": "refrigerator-needs-ice-delivery",
-      "title": "Your Fridge Needs Another Delivery",
-      "era": "United States, advertisement published 1913; earlier date field is separately qualified",
-      "premise": "What if today your kitchen refrigerator needed replacement blocks of ice rather than just an electricity connection, as in the Monroe icebox advertisement?",
-      "benchmark_query": "Your Fridge Needs Another Delivery history",
+      "id": "pocket-globe-without-location-dot",
+      "title": "Your Pocket Map Has No Location Dot",
+      "era": "Britain; John Bleuler globe dated 1824 in Science Museum interpretation",
+      "premise": "What if today your pocket travel display was a miniature terrestrial globe with constellations inside its case, with no location dot to tell you where you were?",
+      "benchmark_query": "Your Pocket Map Has No Location Dot history",
       "tags": [
         "history",
         "historical comedy",
@@ -306,52 +323,52 @@
       ],
       "criteria": {
         "curiosity": 21,
-        "cast_comedy": 23,
+        "cast_comedy": 22,
         "modern_contrast": 24,
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "A familiar appliance with an unexpected consumable has an immediate, tangible reveal.",
-        "cast_comedy": "Pip waits for a refill while Rex discovers that branding something modern does not eliminate maintenance.",
-        "modern_contrast": "The routine electricity assumption turns into an explicitly fictional delivery-tracking problem.",
-        "primary_sources": "Smithsonian locates a 1913 advertisement with a catalog ID; conflicting date fields and successful retrieval must be disclosed."
+        "curiosity": "The reveal turns an assumed digital feature into a concrete missing capability on a real historical object type.",
+        "cast_comedy": "Pip can attempt to use an educational object for navigation while Mia corrects Rex's fictional product pitch.",
+        "modern_contrast": "Pocket information before a smartphone provides a visual comparison without claiming equivalent functions.",
+        "primary_sources": "Science Museum interpretation identifies Bleuler and 1824, but no standalone accession record or primary manual has been inspected."
       },
       "cast_gags": {
-        "crow": "Raven separates a real advertisement from claims about every historical household.",
-        "pip": "Pip repeatedly refreshes an imaginary ice-delivery tracker before packing lunch.",
-        "mia": "Mia checks the drip tray rather than accepting Rex's invented maintenance-free slogan.",
-        "rex": "Rex attempts to sell a fictional app update for a cabinet that needs ice.",
-        "timmy": "Timmy arrives with an empty lunch container and an inconveniently practical question."
+        "crow": "Raven opens the world in miniature without pretending it was a GPS.",
+        "pip": "Pip turns the globe searching for an imaginary you-are-here dot.",
+        "mia": "Mia opens the case to reveal the documented constellation display.",
+        "rex": "Rex claims a fictional premium offline-navigation tier, then asks Mia which way is north.",
+        "timmy": "Timmy puts a removable modern prop sticker on the desk map rather than altering the historical globe."
       },
       "sources": [
         {
-          "url": "https://www.si.edu/object/monroe-american-homes-and-gardens%3Asilgoi_68369",
-          "institution": "Smithsonian Libraries and Archives",
-          "locator": "The Monroe from American Homes and Gardens; catalog 182094; record silgoi_68369; publication 1913; separate Date field 1900-1905",
-          "kind": "primary_record",
+          "url": "https://artsandculture.google.com/story/vwUh46ysvZNWJw",
+          "institution": "Science Museum / Science Museum Group via Google Arts & Culture",
+          "locator": "Starry nights: astronomy in the popular imagination; Pocket terrestial globe, John Bleuler, 1824; explanatory pocket-globe paragraph",
+          "kind": "institutional_commentary",
           "anchors": [
-            "The Monroe",
-            "1913",
-            "182094",
-            "ice blocks"
+            "John Bleuler",
+            "1824",
+            "inside of the case",
+            "constellations"
           ],
-          "verified_on": "2026-11-24",
-          "anchors_present": false,
-          "download_error_type": "HTTPError",
-          "download_http_status": 403,
-          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "verified_on": "2026-11-25",
+          "anchors_present": true,
+          "download_error_type": null,
+          "download_http_status": null,
+          "text_sha256": "a547d379635f53623e5569b527b22283dc7efb1fd895db1d346555a65d791fb4",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "Institutional metadata identifies a magazine advertisement; its explanatory notes describe replacement ice and a drip tray. The publication date is not proof of manufacture date. The modern app and slogan are fiction; retrieval failures leave the source locally unverified, and no universal delivery interval or food-safety guarantee is asserted.",
+      "fact_boundary": "This is institutional interpretation, not a standalone primary catalog record. The digital-feature comparison is fiction, not a claim these globes were designed for turn-by-turn navigation. No current sky accuracy, universal map contents or image reuse permission is asserted.",
       "research_questions": [
-        "[VERIFICAR] Read the original advertisement at a legible resolution, resolve the 1900-1905 versus 1913 metadata distinction, and document local supply conditions before quantifying ice use or cost."
+        "[VERIFICAR] Locate the exact object accession and contemporary maker documentation before explaining its intended use, printed geography, cost or production numbers."
       ],
       "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
-      "original_editorial_assessment": 90,
-      "editorial_score": 68,
-      "score": 68,
-      "source_verified": false,
+      "original_editorial_assessment": 85,
+      "editorial_score": 67,
+      "score": 67,
+      "source_verified": true,
       "primary_record_available": false,
       "benchmark": {
         "status": "unavailable",
@@ -368,7 +385,7 @@
     }
   ],
   "winner": null,
-  "provisional_editorial_winner": "tethered-office-reading-copy",
+  "provisional_editorial_winner": "celebrity-feed-printed-on-card",
   "benchmark_complete": false,
   "benchmark_attempted": false,
   "ranking_basis": "Editorial only; benchmark incomplete, no production winner",
@@ -378,5 +395,5 @@
     100
   ],
   "paid_model_calls": 0,
-  "verified_at": "2026-11-24T14:08:02.798746+00:00"
+  "verified_at": "2026-11-25T14:13:19.582158+00:00"
 }
