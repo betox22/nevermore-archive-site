@@ -1,13 +1,102 @@
 {
   "schema": "nevermore-ideation-2",
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "ideas": [
     {
-      "id": "celebrity-feed-printed-on-card",
-      "title": "Your Celebrity Feed Arrives on Cardboard",
-      "era": "Britain, 1860s; Camille Silvy photograph of Adelina Patti identified as 1865",
-      "premise": "What if today following your favorite performer meant collecting a small mounted photographic card instead of refreshing a feed?",
-      "benchmark_query": "Your Celebrity Feed Arrives on Cardboard history",
+      "id": "rent-lesson-became-team-building",
+      "title": "Team Building Was Supposed to Explain the Rent",
+      "era": "United States; Elizabeth Magie patent context, 1904; later game versions distinguished",
+      "premise": "What if today the team-building property game was meant to reveal the unfairness of rent, and Rex kept mistaking the lesson for management advice?",
+      "benchmark_query": "Team Building Was Supposed to Explain the Rent history",
+      "tags": [
+        "history",
+        "historical comedy",
+        "modern counterfactual"
+      ],
+      "criteria": {
+        "curiosity": 24,
+        "cast_comedy": 25,
+        "modern_contrast": 25,
+        "primary_sources": 23
+      },
+      "rationale": {
+        "curiosity": "The reversal between an educational intention and a fictional executive's behavior gives the hook a clear argument.",
+        "cast_comedy": "Pip's escalating rent payments let Mia explain the mechanism while Rex misunderstands the lesson.",
+        "modern_contrast": "Housing anxiety and corporate team building offer a strong modern counterfactual without making financial advice.",
+        "primary_sources": "The Strong locates a patent figure and a history separating Magie from later variants; exact dates and rules require primary text."
+      },
+      "cast_gags": {
+        "crow": "Raven introduces the documented educational purpose, then labels the office game as invented.",
+        "pip": "Pip hands over more imaginary counters each time he crosses the board.",
+        "mia": "Mia opens the historical context and asks what the game was meant to demonstrate.",
+        "rex": "Rex writes fictional leadership notes while collecting all the counters.",
+        "timmy": "Timmy gives Rex a tiny lesson-not-leadership award made only as an editorial prop."
+      },
+      "sources": [
+        {
+          "url": "https://artsandculture.google.com/asset/landlord-s-game-patent-page-1-l-j-magie/pQHHnR2sWYFR6g?hl=en",
+          "institution": "The Strong National Museum of Play via Google Arts & Culture",
+          "locator": "Landlord's Game Patent Page 1; L. J. Magie; Figure 1; museum Date Created field 1904-01-04 (not asserted as legal grant date)",
+          "kind": "primary_record",
+          "anchors": [
+            "L. J. Magie",
+            "1904",
+            "Figure 1"
+          ],
+          "verified_on": "2026-11-26",
+          "anchors_present": true,
+          "download_error_type": null,
+          "download_http_status": null,
+          "text_sha256": "9a028105b679036e535d371e963563355b0fc35484ab8e8dd12b9d211bc3a79a",
+          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
+        },
+        {
+          "url": "https://artsandculture.google.com/story/8wXRngw0ZZDFLQ?hl=en",
+          "institution": "The Strong National Museum of Play via Google Arts & Culture",
+          "locator": "Making Monopoly: A History of the Origins of America's Favorite Board Game; Patent Granted: A Game to Teach and The Name of the Game sections",
+          "kind": "institutional_commentary",
+          "anchors": [
+            "inequalities in land ownership",
+            "1904 patent",
+            "alternative rules"
+          ],
+          "verified_on": "2026-11-26",
+          "anchors_present": true,
+          "download_error_type": null,
+          "download_http_status": null,
+          "text_sha256": "9506e97cbc648fd802e63857368d944a95dbb20949a336d968318daf46a39c57",
+          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
+        }
+      ],
+      "fact_boundary": "Modern office behavior is fiction. The museum narrative explains intent and subsequent changes; the patent figure alone does not establish every rule, legal date, sale, or inventor claim. Museum date metadata is not treated as a verified grant day. Do not collapse Magie's game, folk variants and commercial Monopoly into one unchanged edition or repeat popularity superlatives.",
+      "research_questions": [
+        "[VERIFICAR] Read the complete patent and contemporary rules before specifying the legal grant date, alternate rule sets, income flows or the exact sequence of commercial editions."
+      ],
+      "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
+      "original_editorial_assessment": 97,
+      "editorial_score": 97,
+      "score": 97,
+      "source_verified": true,
+      "primary_record_available": true,
+      "benchmark": {
+        "status": "unavailable",
+        "videos": [],
+        "raw_metrics_location": "private Studio cache, never Git",
+        "error_type": null,
+        "median_views_per_day": null,
+        "ctr": null,
+        "retention": null,
+        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
+      },
+      "reused_counterfactual": false,
+      "eligible": false
+    },
+    {
+      "id": "hand-cranked-smart-speaker",
+      "title": "Your Smart Speaker Needs a Hand Crank",
+      "era": "United States; talking dolls 1889-1890; NPS catalog EDIS 86",
+      "premise": "What if today your smart speaker required a hand crank and could only replay a recorded nursery rhyme, like an early Edison talking doll?",
+      "benchmark_query": "Your Smart Speaker Needs a Hand Crank history",
       "tags": [
         "history",
         "historical comedy",
@@ -15,46 +104,119 @@
       ],
       "criteria": {
         "curiosity": 23,
-        "cast_comedy": 23,
-        "modern_contrast": 24,
+        "cast_comedy": 24,
+        "modern_contrast": 25,
         "primary_sources": 23
       },
       "rationale": {
-        "curiosity": "The physical feed reveal is grounded in a particular theatrical portrait rather than a generic nostalgia claim.",
-        "cast_comedy": "Rex can invent a fictional subscription scheme while Mia separates a collectible portrait from actual celebrity access.",
-        "modern_contrast": "Collecting and displaying performer photographs creates an immediate contrast with online following.",
-        "primary_sources": "Victoria and Albert Museum identifies a Silvy portrait of Adelina Patti and explains the card format; sales totals and individual behavior remain unknown."
+        "curiosity": "A supposedly smart interface with a physically limited repertoire makes the historical mechanism immediately relevant.",
+        "cast_comedy": "Pip can ask a practical question while the fictional product demonstration exposes Rex's inflated promises.",
+        "modern_contrast": "A recorded toy is compared with modern voice interfaces without claiming conversational intelligence.",
+        "primary_sources": "National Park Service identifies EDIS 86 and describes its cylinder and crank; sales and reliability figures would need separate corroboration."
       },
       "cast_gags": {
-        "crow": "Raven introduces a real portrait format and labels the modern feed analogy as a joke.",
-        "pip": "Pip looks for an imaginary refresh button on a mounted paper portrait.",
-        "mia": "Mia explains that collecting a photograph is not a personal message from the performer.",
-        "rex": "Rex offers a fictional premium cardboard-feed membership with a larger empty album.",
-        "timmy": "Timmy turns the album page and asks whether that counts as an update."
+        "crow": "Raven separates recorded playback from a machine that understands speech.",
+        "pip": "Pip asks the imaginary speaker for the meeting time and receives the same nursery-rhyme response.",
+        "mia": "Mia points to the mechanism rather than accepting Rex's fictional intelligence claim.",
+        "rex": "Rex keeps turning a harmless prop crank to extend his product demonstration.",
+        "timmy": "Timmy brings a paper schedule and answers the question without any playback."
       },
       "sources": [
         {
-          "url": "https://artsandculture.google.com/asset/guy-little-theatrical-photograph-silvy-camille-l%C3%A9on-louis/FgEMWv5aILSNcA?hl=en",
-          "institution": "Victoria and Albert Museum via Google Arts & Culture",
-          "locator": "Guy Little Theatrical Photograph; Camille Silvy; Adelina Patti as Linda, 1865; catalog range 1860/1869; Guy Little bequest",
+          "url": "https://artsandculture.google.com/asset/edison-talking-doll/gAEaMGvFIsrXLw",
+          "institution": "Thomas Edison National Historical Park, National Park Service via Google Arts & Culture",
+          "locator": "Edison Talking Doll; catalog EDIS 86; Circa 1889; explanatory text places production in 1889-90",
           "kind": "primary_record",
           "anchors": [
-            "Adelina Patti",
-            "1865",
-            "1860/1869",
-            "Guy Little"
+            "EDIS 86",
+            "1889",
+            "wax cylinder",
+            "crank"
           ],
-          "verified_on": "2026-11-25",
+          "verified_on": "2026-11-26",
           "anchors_present": true,
           "download_error_type": null,
           "download_http_status": null,
-          "text_sha256": "a576fe29079259922bcc6fb64051cebf66de8ad8e4fd62a1a69916ec4b798a34",
+          "text_sha256": "2c2a0178d52fffc96ca6b6aa52a43170e95bc4492d3aa8e5bfa45dfac11c85fc",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "The artifact and curatorial account support a small theatrical photograph and collecting context. The feed, refresh button and membership are fiction. A portrait in a role is not a photograph of an actual event in that role; no invented signature, personal endorsement, sales figure, or universal collecting practice.",
+      "fact_boundary": "The smart-speaker sales pitch is fiction. The source identifies a recorded-sound toy and does not support speech recognition, AI, a universal production total or the inventor's sole authorship. No doll recording or other media is played or reused in this scout; the proposed demonstration is only a research premise.",
       "research_questions": [
-        "[VERIFICAR] Establish the exact inventory number and distinguish the portrait's 1865 identification from the broader catalog decade before expanding the distribution or pricing story."
+        "[VERIFICAR] Inspect technical documentation and a verified recording before specifying exact repertoire, recording material for every model, durability, unit sales or an attributed quotation."
+      ],
+      "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
+      "original_editorial_assessment": 95,
+      "editorial_score": 95,
+      "score": 95,
+      "source_verified": true,
+      "primary_record_available": true,
+      "benchmark": {
+        "status": "unavailable",
+        "videos": [],
+        "raw_metrics_location": "private Studio cache, never Git",
+        "error_type": null,
+        "median_views_per_day": null,
+        "ctr": null,
+        "retention": null,
+        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
+      },
+      "reused_counterfactual": false,
+      "eligible": false
+    },
+    {
+      "id": "shopping-centre-on-frozen-river",
+      "title": "The Shopping Centre Is a Frozen River",
+      "era": "London; painting cataloged 1739; separate magazine passage dated January 1740",
+      "premise": "What if today your pop-up shopping centre stood on a frozen river, like the Thames frost fair depicted in a painting cataloged 1739?",
+      "benchmark_query": "The Shopping Centre Is a Frozen River history",
+      "tags": [
+        "history",
+        "historical comedy",
+        "modern counterfactual"
+      ],
+      "criteria": {
+        "curiosity": 24,
+        "cast_comedy": 23,
+        "modern_contrast": 24,
+        "primary_sources": 22
+      },
+      "rationale": {
+        "curiosity": "The floor beneath the market is the reveal, giving the premise a literal physical stakes reversal.",
+        "cast_comedy": "Rex can promise an imaginary permanent shopping destination while Mia points to its temporary setting.",
+        "modern_contrast": "A modern pop-up pitch contrasts with a specifically documented historical fair.",
+        "primary_sources": "Guildhall identifies an artwork and cites a period magazine passage; the two dates and the limits of pictorial evidence must remain distinct."
+      },
+      "cast_gags": {
+        "crow": "Raven reveals the market setting from the historical artwork without calling it an annual tradition everywhere.",
+        "pip": "Pip looks for a shop directory and finds the imagined opening hours depend on winter.",
+        "mia": "Mia replaces Rex's permanent-lease slogan with a clearly fictional temporary-market sign.",
+        "rex": "Rex rolls up his oversized imaginary long-term expansion plan.",
+        "timmy": "Timmy keeps the spring-opening banner in its box and offers a winter-only flag."
+      },
+      "sources": [
+        {
+          "url": "https://artsandculture.google.com/asset/the-thames-during-the-great-frost/9gHhv1IesHsDbg",
+          "institution": "Guildhall Art Gallery / City of London Corporation via Google Arts & Culture",
+          "locator": "The Thames during the Great Frost; catalog artist Jan Griffier II; Date Created 1739; commentary cites Gentleman's Magazine, 31 January 1740",
+          "kind": "primary_record",
+          "anchors": [
+            "The Thames during the Great Frost",
+            "1739",
+            "Frost Fair",
+            "1740"
+          ],
+          "verified_on": "2026-11-26",
+          "anchors_present": true,
+          "download_error_type": null,
+          "download_http_status": null,
+          "text_sha256": "64e8d41cb84ab6ea606ecfc2cb29828943501a2a57a123d36e94a8d46cc249ad",
+          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
+        }
+      ],
+      "fact_boundary": "A painting is evidence of a representation; the magazine extract is quoted by the institution, not independently collated here. The fictional retail lease is not a historical contract. Preserve the catalog date and later cited date separately; do not substitute 1814, invent an annual schedule, repeat uncorroborated temperature or bridge-flow claims, or depict injury for comedy.",
+      "research_questions": [
+        "[VERIFICAR] Check the artwork attribution, original magazine page and event chronology before treating the image as a literal map or quoting exact stall numbers, rental terms or weather measurements."
       ],
       "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
       "original_editorial_assessment": 93,
@@ -76,225 +238,63 @@
       "eligible": false
     },
     {
-      "id": "beach-changing-room-on-wheels",
-      "title": "Your Beach Changing Room Needs a Parking Space",
-      "era": "Britain; 1788 artwork and separate 1901 Great Yarmouth photographic context",
-      "premise": "What if today a trip to the beach required a changing room on wheels that went towards the water with you, like a historical bathing machine?",
-      "benchmark_query": "Your Beach Changing Room Needs a Parking Space history",
+      "id": "maintenance-budget-arrives-by-nose",
+      "title": "The Maintenance Request Finally Reaches the Boss",
+      "era": "London, parliamentary debate of 25 June 1858",
+      "premise": "What if today Rex ignored Pip's maintenance request until the problem reached the budget meeting as a smell, echoing Parliament's 1858 Thames debate?",
+      "benchmark_query": "The Maintenance Request Finally Reaches the Boss history",
       "tags": [
         "history",
         "historical comedy",
         "modern counterfactual"
       ],
       "criteria": {
-        "curiosity": 23,
+        "curiosity": 24,
         "cast_comedy": 23,
-        "modern_contrast": 24,
-        "primary_sources": 22
-      },
-      "rationale": {
-        "curiosity": "An unexpectedly mobile room creates a specific visual reveal rather than a vague Victorian anecdote.",
-        "cast_comedy": "A fictional parking dispute can escalate from Pip wanting a swim to Rex managing an entire wheeled room.",
-        "modern_contrast": "Current beach convenience contrasts with a documented historical contraption.",
-        "primary_sources": "A dated Yale artwork and a museum archive explanation are identified; neither establishes a universal legal requirement."
-      },
-      "cast_gags": {
-        "crow": "Raven opens a fictional travel review about bringing the room to the beach.",
-        "pip": "Pip packs a towel and discovers the fictional booking also includes a wheeled cabin.",
-        "mia": "Mia points out the difference between the documented object and Rex's invented parking policy.",
-        "rex": "Rex issues a tiny imaginary parking permit for an enormous changing room.",
-        "timmy": "Timmy carries a miniature reserved sign to the empty stretch of beach."
-      },
-      "sources": [
-        {
-          "url": "https://artsandculture.google.com/asset/bathing-machine-on-the-common-near-southsea-castle-john-nixon-ca-1760%E2%80%931818-british/mgE6ZT3ywfS6xg",
-          "institution": "Yale Center for British Art via Google Arts & Culture",
-          "locator": "John Nixon, Bathing Machine on the Common, near Southsea Castle; 1788; Paul Mellon Collection; asset mgE6ZT3ywfS6xg",
-          "kind": "primary_record",
-          "anchors": [
-            "Bathing Machine on the Common",
-            "1788",
-            "Yale Center for British Art"
-          ],
-          "verified_on": "2026-11-25",
-          "anchors_present": true,
-          "download_error_type": null,
-          "download_http_status": null,
-          "text_sha256": "dd62f7ed6d538b3a02b68b414ba23dc02e93803280772228b4fb7ba971599414",
-          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
-        },
-        {
-          "url": "https://artsandculture.google.com/story/JAUhonXKHTwJKw",
-          "institution": "Time and Tide Museum via Google Arts & Culture",
-          "locator": "The Percy Trett Photographic Archive; Bathing Machines on the Beach, dated 1901-09-05; accompanying explanatory paragraph",
-          "kind": "institutional_commentary",
-          "anchors": [
-            "Bathing Machines on the Beach",
-            "1901-09-05",
-            "changing inside"
-          ],
-          "verified_on": "2026-11-25",
-          "anchors_present": true,
-          "download_error_type": null,
-          "download_http_status": null,
-          "text_sha256": "b3611d6dee4a8a7acfabd0e49a9323216f18434e796f47a2b95dbc7c93b851d3",
-          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
-        }
-      ],
-      "fact_boundary": "The wheeled-room booking and permit are fiction. A 1788 representation and a separate 1901 image are not the same object or era. The museum explanation of modesty is not evidence that every beachgoer was legally compelled to use a machine. No changing bodies or nudity would be depicted.",
-      "research_questions": [
-        "[VERIFICAR] Establish place-specific operating practices, access and charges from contemporary records before narrating who could hire one or how it was moved."
-      ],
-      "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
-      "original_editorial_assessment": 92,
-      "editorial_score": 92,
-      "score": 92,
-      "source_verified": true,
-      "primary_record_available": true,
-      "benchmark": {
-        "status": "unavailable",
-        "videos": [],
-        "raw_metrics_location": "private Studio cache, never Git",
-        "error_type": null,
-        "median_views_per_day": null,
-        "ctr": null,
-        "retention": null,
-        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
-      },
-      "reused_counterfactual": false,
-      "eligible": false
-    },
-    {
-      "id": "roman-soil-upgrade-before-dashboard",
-      "title": "The Productivity Upgrade Is an Iron Blade",
-      "era": "Roman Britain; object catalog date 1-399 CE; Great Witcombe findspot",
-      "premise": "What if today the productivity consultant offered Pip a Roman plough coulter instead of another farm dashboard, because the heavy soil needed a physical cut?",
-      "benchmark_query": "The Productivity Upgrade Is an Iron Blade history",
-      "tags": [
-        "history",
-        "historical comedy",
-        "modern counterfactual"
-      ],
-      "criteria": {
-        "curiosity": 19,
-        "cast_comedy": 21,
-        "modern_contrast": 22,
-        "primary_sources": 22
-      },
-      "rationale": {
-        "curiosity": "A physical mechanism supplies a useful payoff, although the hook is less surprising than the other candidates.",
-        "cast_comedy": "The joke targets Rex's abstract promises while Mia explains the actual order of operations.",
-        "modern_contrast": "An imaginary software-sales pitch contrasts with a documented soil-working tool.",
-        "primary_sources": "British Museum identifies coulter 1819,0313.1 and describes its action ahead of the plough-share; no numerical yield evidence is supplied."
-      },
-      "cast_gags": {
-        "crow": "Raven distinguishes a genuine mechanism from a fictional consultant's grand promises.",
-        "pip": "Pip shows a harmless cutaway of difficult soil instead of another chart.",
-        "mia": "Mia uses an editorial diagram to show the vertical cut before the share undercuts the furrow.",
-        "rex": "Rex tries to invoice the imaginary dashboard before noticing it cannot cut anything.",
-        "timmy": "Timmy labels the harmless model with two removable editorial arrows, keeping all real blades off the set."
-      },
-      "sources": [
-        {
-          "url": "https://artsandculture.google.com/asset/iron-plough-coulter/PwEkmJV3B0hjzg?hl=en",
-          "institution": "British Museum via Google Arts & Culture",
-          "locator": "Iron plough coulter; registration 1819,0313.1; Great Witcombe; Romano-British; date field 1/399",
-          "kind": "primary_record",
-          "anchors": [
-            "1819,0313.1",
-            "vertical cut",
-            "Great Witcombe",
-            "heavy soils"
-          ],
-          "verified_on": "2026-11-25",
-          "anchors_present": true,
-          "download_error_type": null,
-          "download_http_status": null,
-          "text_sha256": "c13e61f5a09691a28a052130be73cdf1e537b30c3ec8b7ffbf148a0c287c7976",
-          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
-        }
-      ],
-      "fact_boundary": "The institutional account explains an iron tool working ahead of the share. The consultant, software comparison and invoice are fiction. The broad date field is not a precise invention date. Do not claim Romans invented all iron ploughs or that one tool delivers a measured yield gain; no real cutting demonstration is proposed.",
-      "research_questions": [
-        "[VERIFICAR] Verify local adoption and surviving plough assembly evidence before reconstructing the complete equipment, traction or labor requirements."
-      ],
-      "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
-      "original_editorial_assessment": 84,
-      "editorial_score": 84,
-      "score": 84,
-      "source_verified": true,
-      "primary_record_available": true,
-      "benchmark": {
-        "status": "unavailable",
-        "videos": [],
-        "raw_metrics_location": "private Studio cache, never Git",
-        "error_type": null,
-        "median_views_per_day": null,
-        "ctr": null,
-        "retention": null,
-        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
-      },
-      "reused_counterfactual": false,
-      "eligible": false
-    },
-    {
-      "id": "lion-shaped-handwashing-station",
-      "title": "Your Hands Have an Appointment With a Lion",
-      "era": "Nuremberg, circa 1400; copper-alloy object",
-      "premise": "What if today the handwashing station before lunch was a lion-shaped water vessel, like the aquamanile cataloged at The Met?",
-      "benchmark_query": "Your Hands Have an Appointment With a Lion history",
-      "tags": [
-        "history",
-        "historical comedy",
-        "modern counterfactual"
-      ],
-      "criteria": {
-        "curiosity": 22,
-        "cast_comedy": 23,
-        "modern_contrast": 24,
+        "modern_contrast": 25,
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "The reveal makes a mundane object surprisingly theatrical with an identifiable medieval source.",
-        "cast_comedy": "Pip can mistake Rex's prestige display for an elaborate management tool while Mia identifies its function.",
-        "modern_contrast": "A familiar sink routine contrasts directly with a surviving handwashing vessel.",
-        "primary_sources": "The Met identifies object 1994.244, material, approximate date and intended function; no mass-adoption claim is needed."
+        "curiosity": "A sensory reversal gives deferred maintenance a concrete historical entry point.",
+        "cast_comedy": "Pip's ignored file can cause Rex's meeting to unravel while Mia separates actual evidence from excuses.",
+        "modern_contrast": "Budget deferral and fragmented responsibility translate into a modern workplace conflict.",
+        "primary_sources": "A contemporary Hansard debate records the nuisance and competing drainage authorities; it does not by itself establish all later outcomes."
       },
       "cast_gags": {
-        "crow": "Raven reveals that the impressive-looking lion has a practical washing job.",
-        "pip": "Pip waits for Rex to explain which imaginary button operates the station.",
-        "mia": "Mia produces the basin and demonstrates the everyday purpose with a safe theatrical prop.",
-        "rex": "Rex calls the lion his new fictional executive hydration platform.",
-        "timmy": "Timmy sets down a tiny towel and solves the practical problem before the presentation ends."
+        "crow": "Raven opens the record on a problem that did not respect the executive meeting agenda.",
+        "pip": "Pip brings the same imaginary maintenance file back to the same meeting.",
+        "mia": "Mia removes Rex's decorative air freshener and puts the repair request on the desk.",
+        "rex": "Rex moves his chair while insisting the fictional problem belongs to another department.",
+        "timmy": "Timmy follows the empty chairs with a tiny meeting-in-progress sign."
       },
       "sources": [
         {
-          "url": "https://www.metmuseum.org/art/collection/search/469949",
-          "institution": "The Metropolitan Museum of Art",
-          "locator": "Aquamanile in the Form of a Lion; 1994.244; Nuremberg; ca. 1400; The Cloisters Collection",
+          "url": "https://hansard.parliament.uk/commons/1858-06-25/debates/03e5dae5-90e7-4a3e-8c52-5375f27d4a25/TheStateOfTheThames",
+          "institution": "UK Parliament, Historic Hansard",
+          "locator": "The State of the Thames; House of Commons; 25 June 1858; discussion of nuisance and drainage authorities",
           "kind": "primary_record",
           "anchors": [
-            "1994.244",
-            "ca. 1400",
-            "handwashing",
-            "Nuremberg"
+            "Thames",
+            "1858",
+            "Metropolitan Board",
+            "October"
           ],
-          "verified_on": "2026-11-25",
+          "verified_on": "2026-11-26",
           "anchors_present": false,
           "download_error_type": "HTTPError",
-          "download_http_status": 429,
+          "download_http_status": 403,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "The object is cataloged as copper alloy; no more specific alloy is assumed. The modern sink and executive branding are fiction. Do not infer universal medieval access, modern germ theory, a particular owner, or an automatic plumbing mechanism.",
+      "fact_boundary": "Modern meeting behavior is fiction. A historical speech documents what speakers reported, not the correctness of their medical theories or every numerical estimate. Do not repeat miasma explanations as science, claim one speech alone built the sewer system, or mock people harmed by polluted water.",
       "research_questions": [
-        "[VERIFICAR] Confirm filling and pouring details for this exact object and household context before staging a historical-use reconstruction; no invented capacity or price."
+        "[VERIFICAR] Establish the sequence of bills, financing and construction from enacted records before claiming a precise causal chain or completion time."
       ],
       "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
-      "original_editorial_assessment": 92,
-      "editorial_score": 69,
-      "score": 69,
+      "original_editorial_assessment": 95,
+      "editorial_score": 72,
+      "score": 72,
       "source_verified": false,
       "primary_record_available": false,
       "benchmark": {
@@ -311,64 +311,64 @@
       "eligible": false
     },
     {
-      "id": "pocket-globe-without-location-dot",
-      "title": "Your Pocket Map Has No Location Dot",
-      "era": "Britain; John Bleuler globe dated 1824 in Science Museum interpretation",
-      "premise": "What if today your pocket travel display was a miniature terrestrial globe with constellations inside its case, with no location dot to tell you where you were?",
-      "benchmark_query": "Your Pocket Map Has No Location Dot history",
+      "id": "tea-break-needs-physical-key",
+      "title": "Your Tea Break Needs a Key",
+      "era": "Britain, tea chest dated circa 1760",
+      "premise": "What if today the shared tea supply needed a physical key, as with an eighteenth-century tea chest, and Rex was the only person who had it?",
+      "benchmark_query": "Your Tea Break Needs a Key history",
       "tags": [
         "history",
         "historical comedy",
         "modern counterfactual"
       ],
       "criteria": {
-        "curiosity": 21,
-        "cast_comedy": 22,
+        "curiosity": 22,
+        "cast_comedy": 24,
         "modern_contrast": 24,
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "The reveal turns an assumed digital feature into a concrete missing capability on a real historical object type.",
-        "cast_comedy": "Pip can attempt to use an educational object for navigation while Mia corrects Rex's fictional product pitch.",
-        "modern_contrast": "Pocket information before a smartphone provides a visual comparison without claiming equivalent functions.",
-        "primary_sources": "Science Museum interpretation identifies Bleuler and 1824, but no standalone accession record or primary manual has been inspected."
+        "curiosity": "A familiar break interrupted by a tangible access restriction supplies an immediate reveal.",
+        "cast_comedy": "A missing key can drive one causal escalation instead of a list of luxury objects.",
+        "modern_contrast": "Modern access permissions become an explicitly fictional break-room power struggle.",
+        "primary_sources": "The Met identifies chest 64.101.1190 and contextualizes locked tea storage; its quotation is not a census of household practice."
       },
       "cast_gags": {
-        "crow": "Raven opens the world in miniature without pretending it was a GPS.",
-        "pip": "Pip turns the globe searching for an imaginary you-are-here dot.",
-        "mia": "Mia opens the case to reveal the documented constellation display.",
-        "rex": "Rex claims a fictional premium offline-navigation tier, then asks Mia which way is north.",
-        "timmy": "Timmy puts a removable modern prop sticker on the desk map rather than altering the historical globe."
+        "crow": "Raven introduces a real chest and a wholly fictional office access policy.",
+        "pip": "Pip finishes boiling water and discovers the tea is locked away.",
+        "mia": "Mia asks why Rex's imaginary productivity policy requires waiting for a key.",
+        "rex": "Rex searches his pockets while pretending the delay is premium service.",
+        "timmy": "Timmy brings an empty cup and appoints himself the queue manager."
       },
       "sources": [
         {
-          "url": "https://artsandculture.google.com/story/vwUh46ysvZNWJw",
-          "institution": "Science Museum / Science Museum Group via Google Arts & Culture",
-          "locator": "Starry nights: astronomy in the popular imagination; Pocket terrestial globe, John Bleuler, 1824; explanatory pocket-globe paragraph",
-          "kind": "institutional_commentary",
+          "url": "https://www.metmuseum.org/art/collection/search/203880",
+          "institution": "The Metropolitan Museum of Art",
+          "locator": "Tea chest; 64.101.1190; British; ca. 1760; mahogany and gilt brass; curatorial storage explanation",
+          "kind": "primary_record",
           "anchors": [
-            "John Bleuler",
-            "1824",
-            "inside of the case",
-            "constellations"
+            "64.101.1190",
+            "ca. 1760",
+            "lock and key",
+            "tea and sugar"
           ],
-          "verified_on": "2026-11-25",
-          "anchors_present": true,
-          "download_error_type": null,
-          "download_http_status": null,
-          "text_sha256": "a547d379635f53623e5569b527b22283dc7efb1fd895db1d346555a65d791fb4",
+          "verified_on": "2026-11-26",
+          "anchors_present": false,
+          "download_error_type": "HTTPError",
+          "download_http_status": 429,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "This is institutional interpretation, not a standalone primary catalog record. The digital-feature comparison is fiction, not a claim these globes were designed for turn-by-turn navigation. No current sky accuracy, universal map contents or image reuse permission is asserted.",
+      "fact_boundary": "The office key monopoly is fiction, not an eighteenth-century labor rule. The object and commentary support storage, not a claim every household locked tea or that a specific servant stole it. The source's Swift reference is curatorial context, not independently inspected primary wording. Colonial supply and coerced labor must not be erased or turned into the joke.",
       "research_questions": [
-        "[VERIFICAR] Locate the exact object accession and contemporary maker documentation before explaining its intended use, printed geography, cost or production numbers."
+        "[VERIFICAR] Inspect the exact locking hardware and primary household inventories before adding an owner, price, tea allowance or account of who controlled the key."
       ],
       "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
-      "original_editorial_assessment": 85,
-      "editorial_score": 67,
-      "score": 67,
-      "source_verified": true,
+      "original_editorial_assessment": 93,
+      "editorial_score": 70,
+      "score": 70,
+      "source_verified": false,
       "primary_record_available": false,
       "benchmark": {
         "status": "unavailable",
@@ -385,7 +385,7 @@
     }
   ],
   "winner": null,
-  "provisional_editorial_winner": "celebrity-feed-printed-on-card",
+  "provisional_editorial_winner": "rent-lesson-became-team-building",
   "benchmark_complete": false,
   "benchmark_attempted": false,
   "ranking_basis": "Editorial only; benchmark incomplete, no production winner",
@@ -395,5 +395,5 @@
     100
   ],
   "paid_model_calls": 0,
-  "verified_at": "2026-11-25T14:13:19.582158+00:00"
+  "verified_at": "2026-11-26T14:13:33.652446+00:00"
 }
