@@ -1,13 +1,13 @@
 {
   "schema": "nevermore-ideation-2",
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "ideas": [
     {
-      "id": "rent-lesson-became-team-building",
-      "title": "Team Building Was Supposed to Explain the Rent",
-      "era": "United States; Elizabeth Magie patent context, 1904; later game versions distinguished",
-      "premise": "What if today the team-building property game was meant to reveal the unfairness of rent, and Rex kept mistaking the lesson for management advice?",
-      "benchmark_query": "Team Building Was Supposed to Explain the Rent history",
+      "id": "unicorn-leadership-upgrade",
+      "title": "The Unicorn Upgrade Is a Whale Tooth",
+      "era": "Prague, sceptre by Andreas Osenbruck, 1615",
+      "premise": "What if today Rex's premium unicorn-powered leadership accessory turned out to be a narwhal tooth, echoing the material identification of a 1615 sceptre?",
+      "benchmark_query": "The Unicorn Upgrade Is a Whale Tooth history",
       "tags": [
         "history",
         "historical comedy",
@@ -15,67 +15,51 @@
       ],
       "criteria": {
         "curiosity": 24,
-        "cast_comedy": 25,
+        "cast_comedy": 24,
         "modern_contrast": 25,
         "primary_sources": 23
       },
       "rationale": {
-        "curiosity": "The reversal between an educational intention and a fictional executive's behavior gives the hook a clear argument.",
-        "cast_comedy": "Pip's escalating rent payments let Mia explain the mechanism while Rex misunderstands the lesson.",
-        "modern_contrast": "Housing anxiety and corporate team building offer a strong modern counterfactual without making financial advice.",
-        "primary_sources": "The Strong locates a patent figure and a history separating Magie from later variants; exact dates and rules require primary text."
+        "curiosity": "A specific object behind a mythical sales story gives the reveal an evidence-based reversal.",
+        "cast_comedy": "Mia can resolve Rex's fictional branding confusion while Pip waits for the promised leadership improvement.",
+        "modern_contrast": "Luxury product claims contrast with a cataloged historical symbol of authority.",
+        "primary_sources": "The Vienna Treasury identifies WS XIa 2, maker, date and actual narwhal material; original early records need separate consultation."
       },
       "cast_gags": {
-        "crow": "Raven introduces the documented educational purpose, then labels the office game as invented.",
-        "pip": "Pip hands over more imaginary counters each time he crosses the board.",
-        "mia": "Mia opens the historical context and asks what the game was meant to demonstrate.",
-        "rex": "Rex writes fictional leadership notes while collecting all the counters.",
-        "timmy": "Timmy gives Rex a tiny lesson-not-leadership award made only as an editorial prop."
+        "crow": "Raven distinguishes a historical unicorn belief from the actual animal material.",
+        "pip": "Pip waits for Rex's fictional accessory to improve an ordinary meeting.",
+        "mia": "Mia presents the museum identification and a separate educational narwhal silhouette.",
+        "rex": "Rex quietly turns his invented unicorn-certified label face down.",
+        "timmy": "Timmy brings the meeting agenda and asks whether the whale tooth can take minutes."
       },
       "sources": [
         {
-          "url": "https://artsandculture.google.com/asset/landlord-s-game-patent-page-1-l-j-magie/pQHHnR2sWYFR6g?hl=en",
-          "institution": "The Strong National Museum of Play via Google Arts & Culture",
-          "locator": "Landlord's Game Patent Page 1; L. J. Magie; Figure 1; museum Date Created field 1904-01-04 (not asserted as legal grant date)",
+          "url": "https://artsandculture.google.com/asset/sceptre/DgFIvTi36arw6A",
+          "institution": "Treasury, Kunsthistorisches Museum Wien via Google Arts & Culture",
+          "locator": "Sceptre; Andreas Osenbruck; 1615; Prague; inventory WS XIa 2; narwhal shaft identification",
           "kind": "primary_record",
           "anchors": [
-            "L. J. Magie",
-            "1904",
-            "Figure 1"
+            "Andreas Osenbruck",
+            "1615",
+            "WS XIa 2",
+            "tusk of a narwhal"
           ],
-          "verified_on": "2026-11-26",
+          "verified_on": "2026-11-27",
           "anchors_present": true,
           "download_error_type": null,
           "download_http_status": null,
-          "text_sha256": "9a028105b679036e535d371e963563355b0fc35484ab8e8dd12b9d211bc3a79a",
-          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
-        },
-        {
-          "url": "https://artsandculture.google.com/story/8wXRngw0ZZDFLQ?hl=en",
-          "institution": "The Strong National Museum of Play via Google Arts & Culture",
-          "locator": "Making Monopoly: A History of the Origins of America's Favorite Board Game; Patent Granted: A Game to Teach and The Name of the Game sections",
-          "kind": "institutional_commentary",
-          "anchors": [
-            "inequalities in land ownership",
-            "1904 patent",
-            "alternative rules"
-          ],
-          "verified_on": "2026-11-26",
-          "anchors_present": true,
-          "download_error_type": null,
-          "download_http_status": null,
-          "text_sha256": "9506e97cbc648fd802e63857368d944a95dbb20949a336d968318daf46a39c57",
+          "text_sha256": "61d25684942f5fccd7591557880706a75934fdcc090902e12a7a9b5730137518",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "Modern office behavior is fiction. The museum narrative explains intent and subsequent changes; the patent figure alone does not establish every rule, legal date, sale, or inventor claim. Museum date metadata is not treated as a verified grant day. Do not collapse Magie's game, folk variants and commercial Monopoly into one unchanged edition or repeat popularity superlatives.",
+      "fact_boundary": "The leadership product and certification are fiction. The museum distinguishes early unicorn claims from the actual narwhal material. Mythological powers are not real effects; no medical use, antidote claim or suggestion to acquire animal material is offered. The early documentary wording is mediated through a modern catalog, not directly inspected.",
       "research_questions": [
-        "[VERIFICAR] Read the complete patent and contemporary rules before specifying the legal grant date, alternate rule sets, income flows or the exact sequence of commercial editions."
+        "[VERIFICAR] Consult the cited early records and material analysis before naming who believed the claim, assigning a purchase value or attributing a specific documented political intention."
       ],
       "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
-      "original_editorial_assessment": 97,
-      "editorial_score": 97,
-      "score": 97,
+      "original_editorial_assessment": 96,
+      "editorial_score": 96,
+      "score": 96,
       "source_verified": true,
       "primary_record_available": true,
       "benchmark": {
@@ -92,11 +76,84 @@
       "eligible": false
     },
     {
-      "id": "hand-cranked-smart-speaker",
-      "title": "Your Smart Speaker Needs a Hand Crank",
-      "era": "United States; talking dolls 1889-1890; NPS catalog EDIS 86",
-      "premise": "What if today your smart speaker required a hand crank and could only replay a recorded nursery rhyme, like an early Edison talking doll?",
-      "benchmark_query": "Your Smart Speaker Needs a Hand Crank history",
+      "id": "knotted-expense-report",
+      "title": "Your Expense Report Is a Bundle of Knots",
+      "era": "Andes; object catalog date AD 1425-1532; attributed probably Inka",
+      "premise": "What if today Pip submitted the numerical part of his expense report as knotted cords instead of a spreadsheet, inspired by an Inka khipu?",
+      "benchmark_query": "Your Expense Report Is a Bundle of Knots history",
+      "tags": [
+        "history",
+        "historical comedy",
+        "modern counterfactual"
+      ],
+      "criteria": {
+        "curiosity": 24,
+        "cast_comedy": 24,
+        "modern_contrast": 25,
+        "primary_sources": 23
+      },
+      "rationale": {
+        "curiosity": "A physical report reveals a real record-keeping technology with a concrete everyday contrast.",
+        "cast_comedy": "Pip can deliver a carefully organized report while Rex mistakes unfamiliar storage for missing information.",
+        "modern_contrast": "A fictional expense workflow makes numerical recording legible without treating the historical system as primitive.",
+        "primary_sources": "Smithsonian NMAI identifies object 14/3866 with an attributed culture and date range; its individual message has not been decoded here."
+      },
+      "cast_gags": {
+        "crow": "Raven introduces a sophisticated numerical record, not a joke about an allegedly illiterate people.",
+        "pip": "Pip brings a clearly fictional cord report to the expense meeting.",
+        "mia": "Mia points out that Rex's failure to understand a format does not make its information disappear.",
+        "rex": "Rex asks where the imaginary export-to-spreadsheet button is.",
+        "timmy": "Timmy lays out a large modern teaching key for the fictional prop without touching any original object."
+      },
+      "sources": [
+        {
+          "url": "https://artsandculture.google.com/asset/inka-khipu-0100/wgG-_5gYoWL05w",
+          "institution": "Smithsonian National Museum of the American Indian via Google Arts & Culture",
+          "locator": "Inka khipu; catalog 14/3866; probably Inka (attributed); AD 1425-1532; Chulpaca, Ica, Peru",
+          "kind": "primary_record",
+          "anchors": [
+            "14/3866",
+            "AD 1425-1532",
+            "quantitative information",
+            "probably Inka"
+          ],
+          "verified_on": "2026-11-27",
+          "anchors_present": true,
+          "download_error_type": null,
+          "download_http_status": null,
+          "text_sha256": "2f007a08d0823b0ac5d4ffee72731e8c6bce8f522bb4f7e5bcfe928df11cb9ec",
+          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
+        }
+      ],
+      "fact_boundary": "The modern expense report and teaching key are fiction. The object record describes quantitative uses in general, not a decoded expense ledger for this specimen. Preserve the attribution probably Inka. Do not claim all khipus are fully read, all meanings are purely numeric, or Andean people lacked complex communication.",
+      "research_questions": [
+        "[VERIFICAR] Obtain a specialist reading and the accession documentation before assigning any exact value, category, owner or administrative purpose to these particular cords."
+      ],
+      "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
+      "original_editorial_assessment": 96,
+      "editorial_score": 96,
+      "score": 96,
+      "source_verified": true,
+      "primary_record_available": true,
+      "benchmark": {
+        "status": "unavailable",
+        "videos": [],
+        "raw_metrics_location": "private Studio cache, never Git",
+        "error_type": null,
+        "median_views_per_day": null,
+        "ctr": null,
+        "retention": null,
+        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
+      },
+      "reused_counterfactual": false,
+      "eligible": false
+    },
+    {
+      "id": "peacock-meeting-clock",
+      "title": "The Meeting Clock Has a Peacock",
+      "era": "England and Saint Petersburg; automaton cataloged 1770s; arrival described in 1781",
+      "premise": "What if today Rex replaced the meeting timer with a monumental mechanical peacock, owl and cockerel, inspired by the Hermitage Peacock Clock?",
+      "benchmark_query": "The Meeting Clock Has a Peacock history",
       "tags": [
         "history",
         "historical comedy",
@@ -105,118 +162,45 @@
       "criteria": {
         "curiosity": 23,
         "cast_comedy": 24,
-        "modern_contrast": 25,
-        "primary_sources": 23
-      },
-      "rationale": {
-        "curiosity": "A supposedly smart interface with a physically limited repertoire makes the historical mechanism immediately relevant.",
-        "cast_comedy": "Pip can ask a practical question while the fictional product demonstration exposes Rex's inflated promises.",
-        "modern_contrast": "A recorded toy is compared with modern voice interfaces without claiming conversational intelligence.",
-        "primary_sources": "National Park Service identifies EDIS 86 and describes its cylinder and crank; sales and reliability figures would need separate corroboration."
-      },
-      "cast_gags": {
-        "crow": "Raven separates recorded playback from a machine that understands speech.",
-        "pip": "Pip asks the imaginary speaker for the meeting time and receives the same nursery-rhyme response.",
-        "mia": "Mia points to the mechanism rather than accepting Rex's fictional intelligence claim.",
-        "rex": "Rex keeps turning a harmless prop crank to extend his product demonstration.",
-        "timmy": "Timmy brings a paper schedule and answers the question without any playback."
-      },
-      "sources": [
-        {
-          "url": "https://artsandculture.google.com/asset/edison-talking-doll/gAEaMGvFIsrXLw",
-          "institution": "Thomas Edison National Historical Park, National Park Service via Google Arts & Culture",
-          "locator": "Edison Talking Doll; catalog EDIS 86; Circa 1889; explanatory text places production in 1889-90",
-          "kind": "primary_record",
-          "anchors": [
-            "EDIS 86",
-            "1889",
-            "wax cylinder",
-            "crank"
-          ],
-          "verified_on": "2026-11-26",
-          "anchors_present": true,
-          "download_error_type": null,
-          "download_http_status": null,
-          "text_sha256": "2c2a0178d52fffc96ca6b6aa52a43170e95bc4492d3aa8e5bfa45dfac11c85fc",
-          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
-        }
-      ],
-      "fact_boundary": "The smart-speaker sales pitch is fiction. The source identifies a recorded-sound toy and does not support speech recognition, AI, a universal production total or the inventor's sole authorship. No doll recording or other media is played or reused in this scout; the proposed demonstration is only a research premise.",
-      "research_questions": [
-        "[VERIFICAR] Inspect technical documentation and a verified recording before specifying exact repertoire, recording material for every model, durability, unit sales or an attributed quotation."
-      ],
-      "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
-      "original_editorial_assessment": 95,
-      "editorial_score": 95,
-      "score": 95,
-      "source_verified": true,
-      "primary_record_available": true,
-      "benchmark": {
-        "status": "unavailable",
-        "videos": [],
-        "raw_metrics_location": "private Studio cache, never Git",
-        "error_type": null,
-        "median_views_per_day": null,
-        "ctr": null,
-        "retention": null,
-        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
-      },
-      "reused_counterfactual": false,
-      "eligible": false
-    },
-    {
-      "id": "shopping-centre-on-frozen-river",
-      "title": "The Shopping Centre Is a Frozen River",
-      "era": "London; painting cataloged 1739; separate magazine passage dated January 1740",
-      "premise": "What if today your pop-up shopping centre stood on a frozen river, like the Thames frost fair depicted in a painting cataloged 1739?",
-      "benchmark_query": "The Shopping Centre Is a Frozen River history",
-      "tags": [
-        "history",
-        "historical comedy",
-        "modern counterfactual"
-      ],
-      "criteria": {
-        "curiosity": 24,
-        "cast_comedy": 23,
         "modern_contrast": 24,
         "primary_sources": 22
       },
       "rationale": {
-        "curiosity": "The floor beneath the market is the reveal, giving the premise a literal physical stakes reversal.",
-        "cast_comedy": "Rex can promise an imaginary permanent shopping destination while Mia points to its temporary setting.",
-        "modern_contrast": "A modern pop-up pitch contrasts with a specifically documented historical fair.",
-        "primary_sources": "Guildhall identifies an artwork and cites a period magazine passage; the two dates and the limits of pictorial evidence must remain distinct."
+        "curiosity": "A simple timekeeping request revealing an entire mechanical display gives the hook a clear physical escalation.",
+        "cast_comedy": "The cast can expose Rex's preference for prestige over usefulness while respecting the actual craftsmanship.",
+        "modern_contrast": "A modern meeting timer contrasts with a documented courtly automaton.",
+        "primary_sources": "Hermitage identifies Cox's clock and contextualizes its assembly and transport; claims about surviving uniqueness require independent comparison."
       },
       "cast_gags": {
-        "crow": "Raven reveals the market setting from the historical artwork without calling it an annual tradition everywhere.",
-        "pip": "Pip looks for a shop directory and finds the imagined opening hours depend on winter.",
-        "mia": "Mia replaces Rex's permanent-lease slogan with a clearly fictional temporary-market sign.",
-        "rex": "Rex rolls up his oversized imaginary long-term expansion plan.",
-        "timmy": "Timmy keeps the spring-opening banner in its box and offers a winter-only flag."
+        "crow": "Raven watches the decorative birds as objects, without gaining accessories or changing his identity.",
+        "pip": "Pip requests a five-minute timer and receives an imaginary ceremonial unveiling.",
+        "mia": "Mia searches for the documented clock dial while Rex admires the display.",
+        "rex": "Rex postpones the fictional meeting to explain how efficient the new timer will be.",
+        "timmy": "Timmy holds a paper agenda and points out that the explanation has already used the meeting time."
       },
       "sources": [
         {
-          "url": "https://artsandculture.google.com/asset/the-thames-during-the-great-frost/9gHhv1IesHsDbg",
-          "institution": "Guildhall Art Gallery / City of London Corporation via Google Arts & Culture",
-          "locator": "The Thames during the Great Frost; catalog artist Jan Griffier II; Date Created 1739; commentary cites Gentleman's Magazine, 31 January 1740",
+          "url": "https://artsandculture.google.com/asset/the-peacock-clock-james-cox/MwHh2POEjQax9g",
+          "institution": "The State Hermitage Museum via Google Arts & Culture",
+          "locator": "The Peacock Clock; James Cox; Date Created 1770s; explanatory passage on cockerel, owl, dial and 1781 arrival",
           "kind": "primary_record",
           "anchors": [
-            "The Thames during the Great Frost",
-            "1739",
-            "Frost Fair",
-            "1740"
+            "The Peacock Clock",
+            "1770s",
+            "cockerel",
+            "1781"
           ],
-          "verified_on": "2026-11-26",
+          "verified_on": "2026-11-27",
           "anchors_present": true,
           "download_error_type": null,
           "download_http_status": null,
-          "text_sha256": "64e8d41cb84ab6ea606ecfc2cb29828943501a2a57a123d36e94a8d46cc249ad",
+          "text_sha256": "15a36dc9ee473cd87d28b6a4e6ee5495fc33c90fbca30337423635f3c8d30782",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "A painting is evidence of a representation; the magazine extract is quoted by the institution, not independently collated here. The fictional retail lease is not a historical contract. Preserve the catalog date and later cited date separately; do not substitute 1814, invent an annual schedule, repeat uncorroborated temperature or bridge-flow claims, or depict injury for comedy.",
+      "fact_boundary": "The meeting timer and office delivery are fiction. The object is a ceremonial mechanical display, not an ordinary household alarm. Distinguish construction, transport and later exhibition dates; do not claim Cox worked alone, reproduce payment figures as independently audited, or repeat worldwide uniqueness and unchanged-mechanism superlatives.",
       "research_questions": [
-        "[VERIFICAR] Check the artwork attribution, original magazine page and event chronology before treating the image as a literal map or quoting exact stall numbers, rental terms or weather measurements."
+        "[VERIFICAR] Inspect a technical record before assigning exact animation order, timing, power source, conservation state or original component history."
       ],
       "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
       "original_editorial_assessment": 93,
@@ -238,11 +222,11 @@
       "eligible": false
     },
     {
-      "id": "maintenance-budget-arrives-by-nose",
-      "title": "The Maintenance Request Finally Reaches the Boss",
-      "era": "London, parliamentary debate of 25 June 1858",
-      "premise": "What if today Rex ignored Pip's maintenance request until the problem reached the budget meeting as a smell, echoing Parliament's 1858 Thames debate?",
-      "benchmark_query": "The Maintenance Request Finally Reaches the Boss history",
+      "id": "thirty-line-home-cinema",
+      "title": "Your Home Cinema Has Thirty Lines",
+      "era": "Europe, circa 1930; Baird Televisor described by the Cinematheque francaise",
+      "premise": "What if today Rex sold Pip a home-cinema upgrade whose picture had only thirty vertical lines, like the mechanical Baird Televisor described by a film museum?",
+      "benchmark_query": "Your Home Cinema Has Thirty Lines history",
       "tags": [
         "history",
         "historical comedy",
@@ -255,47 +239,46 @@
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "A sensory reversal gives deferred maintenance a concrete historical entry point.",
-        "cast_comedy": "Pip's ignored file can cause Rex's meeting to unravel while Mia separates actual evidence from excuses.",
-        "modern_contrast": "Budget deferral and fragmented responsibility translate into a modern workplace conflict.",
-        "primary_sources": "A contemporary Hansard debate records the nuisance and competing drainage authorities; it does not by itself establish all later outcomes."
+        "curiosity": "The mismatch between a grand sales promise and a tiny limited image provides a measurable historical reveal.",
+        "cast_comedy": "Pip's attempt to watch and Rex's fictional marketing claims can escalate while Mia identifies what the mechanism actually did.",
+        "modern_contrast": "Modern display expectations make early mechanical scanning easy to contrast without belittling the engineering.",
+        "primary_sources": "The film museum provides a detailed institutional account; a standalone object accession and contemporary manual still need inspection."
       },
       "cast_gags": {
-        "crow": "Raven opens the record on a problem that did not respect the executive meeting agenda.",
-        "pip": "Pip brings the same imaginary maintenance file back to the same meeting.",
-        "mia": "Mia removes Rex's decorative air freshener and puts the repair request on the desk.",
-        "rex": "Rex moves his chair while insisting the fictional problem belongs to another department.",
-        "timmy": "Timmy follows the empty chairs with a tiny meeting-in-progress sign."
+        "crow": "Raven distinguishes an important engineering experiment from Rex's imaginary modern sales pitch.",
+        "pip": "Pip leans toward a harmless editorial reconstruction of the small display.",
+        "mia": "Mia labels the thirty-line reconstruction and explains it is not authentic surviving programme footage.",
+        "rex": "Rex hands Pip an oversized fictional premium-cinema brochure.",
+        "timmy": "Timmy folds the brochure into a viewing frame and discovers that it cannot add image detail."
       },
       "sources": [
         {
-          "url": "https://hansard.parliament.uk/commons/1858-06-25/debates/03e5dae5-90e7-4a3e-8c52-5375f27d4a25/TheStateOfTheThames",
-          "institution": "UK Parliament, Historic Hansard",
-          "locator": "The State of the Thames; House of Commons; 25 June 1858; discussion of nuisance and drainage authorities",
-          "kind": "primary_record",
+          "url": "https://artsandculture.google.com/story/yAVRJNaRciGXKA",
+          "institution": "The Cinematheque francaise via Google Arts & Culture",
+          "locator": "John Logie Baird's Televisor; circa 1930 receiver explanation; thirty-vertical-line picture and revolving-disc sections",
+          "kind": "institutional_commentary",
           "anchors": [
-            "Thames",
-            "1858",
-            "Metropolitan Board",
-            "October"
+            "1930",
+            "30 vertical lines",
+            "revolving disc"
           ],
-          "verified_on": "2026-11-26",
-          "anchors_present": false,
-          "download_error_type": "HTTPError",
-          "download_http_status": 403,
-          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "verified_on": "2026-11-27",
+          "anchors_present": true,
+          "download_error_type": null,
+          "download_http_status": null,
+          "text_sha256": "25c754da4cbdc55fb051680fca15fd592788ee441a03d23d3682c1e15f6576cd",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "Modern meeting behavior is fiction. A historical speech documents what speakers reported, not the correctness of their medical theories or every numerical estimate. Do not repeat miasma explanations as science, claim one speech alone built the sewer system, or mock people harmed by polluted water.",
+      "fact_boundary": "The modern sales pitch is fiction and the source is institutional interpretation, not a directly inspected operating manual. Do not apply one receiver's specifications to every early television system, claim the first television ever, or present a reconstruction as original broadcast footage. No actual playback or rendering occurs in this scout.",
       "research_questions": [
-        "[VERIFICAR] Establish the sequence of bills, financing and construction from enacted records before claiming a precise causal chain or completion time."
+        "[VERIFICAR] Locate the precise receiver accession and a dated primary manual before fixing resolution, frame rate, image size, reception conditions or production totals in a script."
       ],
       "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
-      "original_editorial_assessment": 95,
+      "original_editorial_assessment": 90,
       "editorial_score": 72,
       "score": 72,
-      "source_verified": false,
+      "source_verified": true,
       "primary_record_available": false,
       "benchmark": {
         "status": "unavailable",
@@ -311,11 +294,11 @@
       "eligible": false
     },
     {
-      "id": "tea-break-needs-physical-key",
-      "title": "Your Tea Break Needs a Key",
-      "era": "Britain, tea chest dated circa 1760",
-      "premise": "What if today the shared tea supply needed a physical key, as with an eighteenth-century tea chest, and Rex was the only person who had it?",
-      "benchmark_query": "Your Tea Break Needs a Key history",
+      "id": "tea-cup-with-moustache-guard",
+      "title": "The Teacup Has a Built-In Guard",
+      "era": "United States, Philadelphia Centennial Exhibition, 1876",
+      "premise": "What if today your cafe added a built-in guard to a teacup to keep a moustache dry, as on an 1876 souvenir cup?",
+      "benchmark_query": "The Teacup Has a Built-In Guard history",
       "tags": [
         "history",
         "historical comedy",
@@ -328,44 +311,44 @@
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "A familiar break interrupted by a tangible access restriction supplies an immediate reveal.",
-        "cast_comedy": "A missing key can drive one causal escalation instead of a list of luxury objects.",
-        "modern_contrast": "Modern access permissions become an explicitly fictional break-room power struggle.",
-        "primary_sources": "The Met identifies chest 64.101.1190 and contextualizes locked tea storage; its quotation is not a census of household practice."
+        "curiosity": "A familiar cup with an unexpected protective feature makes the reveal immediately understandable.",
+        "cast_comedy": "Rex can overcomplicate an ordinary design feature while Mia explains its actual purpose.",
+        "modern_contrast": "An imaginary accessory launch contrasts with a specific nineteenth-century souvenir.",
+        "primary_sources": "Smithsonian locates nmah_1065116 and explicitly states the moustache function; retrieval and manufacturing provenance remain separate checks."
       },
       "cast_gags": {
-        "crow": "Raven introduces a real chest and a wholly fictional office access policy.",
-        "pip": "Pip finishes boiling water and discovers the tea is locked away.",
-        "mia": "Mia asks why Rex's imaginary productivity policy requires waiting for a key.",
-        "rex": "Rex searches his pockets while pretending the delay is premium service.",
-        "timmy": "Timmy brings an empty cup and appoints himself the queue manager."
+        "crow": "Raven introduces the documented function without changing anyone's canonical facial features.",
+        "pip": "Pip presents an empty modern demonstration cup and asks what its extra ledge does.",
+        "mia": "Mia explains the historical moustache guard using a separate paper diagram.",
+        "rex": "Rex launches a fictional premium protection tier for an ordinary tea break.",
+        "timmy": "Timmy sets a miniature umbrella beside the prop cup and asks whether it has enough protection yet."
       },
       "sources": [
         {
-          "url": "https://www.metmuseum.org/art/collection/search/203880",
-          "institution": "The Metropolitan Museum of Art",
-          "locator": "Tea chest; 64.101.1190; British; ca. 1760; mahogany and gilt brass; curatorial storage explanation",
+          "url": "https://www.si.edu/object/centennial-international-exhibition-1876-souvenir-moustache-cup%3Anmah_1065116",
+          "institution": "Smithsonian Institution / National Museum of American History",
+          "locator": "Centennial International Exhibition of 1876 Souvenir Moustache Cup; nmah_1065116; Larry Zim World's Fair Collection",
           "kind": "primary_record",
           "anchors": [
-            "64.101.1190",
-            "ca. 1760",
-            "lock and key",
-            "tea and sugar"
+            "1876",
+            "moustache cup",
+            "moustaches wet",
+            "Larry Zim"
           ],
-          "verified_on": "2026-11-26",
+          "verified_on": "2026-11-27",
           "anchors_present": false,
           "download_error_type": "HTTPError",
-          "download_http_status": 429,
+          "download_http_status": 403,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "The office key monopoly is fiction, not an eighteenth-century labor rule. The object and commentary support storage, not a claim every household locked tea or that a specific servant stole it. The source's Swift reference is curatorial context, not independently inspected primary wording. Colonial supply and coerced labor must not be erased or turned into the joke.",
+      "fact_boundary": "The cafe launch is fiction. A souvenir proves a particular object and its cataloged function, not that all men wore moustaches or that every cup had a guard. No moustache is added to the immutable cast, and no unverified fair attendance, product-first or invention claim is used. Failed retrieval leaves the source locally unverified.",
       "research_questions": [
-        "[VERIFICAR] Inspect the exact locking hardware and primary household inventories before adding an owner, price, tea allowance or account of who controlled the key."
+        "[VERIFICAR] Confirm the exact guard shape from an inspected object image and locate a maker mark or patent before identifying its inventor, price or manufacturing location."
       ],
       "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
-      "original_editorial_assessment": 93,
+      "original_editorial_assessment": 92,
       "editorial_score": 70,
       "score": 70,
       "source_verified": false,
@@ -385,7 +368,7 @@
     }
   ],
   "winner": null,
-  "provisional_editorial_winner": "rent-lesson-became-team-building",
+  "provisional_editorial_winner": "unicorn-leadership-upgrade",
   "benchmark_complete": false,
   "benchmark_attempted": false,
   "ranking_basis": "Editorial only; benchmark incomplete, no production winner",
@@ -395,5 +378,5 @@
     100
   ],
   "paid_model_calls": 0,
-  "verified_at": "2026-11-26T14:13:33.652446+00:00"
+  "verified_at": "2026-11-27T14:16:32.783803+00:00"
 }
