@@ -1,159 +1,13 @@
 {
   "schema": "nevermore-ideation-2",
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "ideas": [
     {
-      "id": "unicorn-leadership-upgrade",
-      "title": "The Unicorn Upgrade Is a Whale Tooth",
-      "era": "Prague, sceptre by Andreas Osenbruck, 1615",
-      "premise": "What if today Rex's premium unicorn-powered leadership accessory turned out to be a narwhal tooth, echoing the material identification of a 1615 sceptre?",
-      "benchmark_query": "The Unicorn Upgrade Is a Whale Tooth history",
-      "tags": [
-        "history",
-        "historical comedy",
-        "modern counterfactual"
-      ],
-      "criteria": {
-        "curiosity": 24,
-        "cast_comedy": 24,
-        "modern_contrast": 25,
-        "primary_sources": 23
-      },
-      "rationale": {
-        "curiosity": "A specific object behind a mythical sales story gives the reveal an evidence-based reversal.",
-        "cast_comedy": "Mia can resolve Rex's fictional branding confusion while Pip waits for the promised leadership improvement.",
-        "modern_contrast": "Luxury product claims contrast with a cataloged historical symbol of authority.",
-        "primary_sources": "The Vienna Treasury identifies WS XIa 2, maker, date and actual narwhal material; original early records need separate consultation."
-      },
-      "cast_gags": {
-        "crow": "Raven distinguishes a historical unicorn belief from the actual animal material.",
-        "pip": "Pip waits for Rex's fictional accessory to improve an ordinary meeting.",
-        "mia": "Mia presents the museum identification and a separate educational narwhal silhouette.",
-        "rex": "Rex quietly turns his invented unicorn-certified label face down.",
-        "timmy": "Timmy brings the meeting agenda and asks whether the whale tooth can take minutes."
-      },
-      "sources": [
-        {
-          "url": "https://artsandculture.google.com/asset/sceptre/DgFIvTi36arw6A",
-          "institution": "Treasury, Kunsthistorisches Museum Wien via Google Arts & Culture",
-          "locator": "Sceptre; Andreas Osenbruck; 1615; Prague; inventory WS XIa 2; narwhal shaft identification",
-          "kind": "primary_record",
-          "anchors": [
-            "Andreas Osenbruck",
-            "1615",
-            "WS XIa 2",
-            "tusk of a narwhal"
-          ],
-          "verified_on": "2026-11-27",
-          "anchors_present": true,
-          "download_error_type": null,
-          "download_http_status": null,
-          "text_sha256": "61d25684942f5fccd7591557880706a75934fdcc090902e12a7a9b5730137518",
-          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
-        }
-      ],
-      "fact_boundary": "The leadership product and certification are fiction. The museum distinguishes early unicorn claims from the actual narwhal material. Mythological powers are not real effects; no medical use, antidote claim or suggestion to acquire animal material is offered. The early documentary wording is mediated through a modern catalog, not directly inspected.",
-      "research_questions": [
-        "[VERIFICAR] Consult the cited early records and material analysis before naming who believed the claim, assigning a purchase value or attributing a specific documented political intention."
-      ],
-      "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
-      "original_editorial_assessment": 96,
-      "editorial_score": 96,
-      "score": 96,
-      "source_verified": true,
-      "primary_record_available": true,
-      "benchmark": {
-        "status": "unavailable",
-        "videos": [],
-        "raw_metrics_location": "private Studio cache, never Git",
-        "error_type": null,
-        "median_views_per_day": null,
-        "ctr": null,
-        "retention": null,
-        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
-      },
-      "reused_counterfactual": false,
-      "eligible": false
-    },
-    {
-      "id": "knotted-expense-report",
-      "title": "Your Expense Report Is a Bundle of Knots",
-      "era": "Andes; object catalog date AD 1425-1532; attributed probably Inka",
-      "premise": "What if today Pip submitted the numerical part of his expense report as knotted cords instead of a spreadsheet, inspired by an Inka khipu?",
-      "benchmark_query": "Your Expense Report Is a Bundle of Knots history",
-      "tags": [
-        "history",
-        "historical comedy",
-        "modern counterfactual"
-      ],
-      "criteria": {
-        "curiosity": 24,
-        "cast_comedy": 24,
-        "modern_contrast": 25,
-        "primary_sources": 23
-      },
-      "rationale": {
-        "curiosity": "A physical report reveals a real record-keeping technology with a concrete everyday contrast.",
-        "cast_comedy": "Pip can deliver a carefully organized report while Rex mistakes unfamiliar storage for missing information.",
-        "modern_contrast": "A fictional expense workflow makes numerical recording legible without treating the historical system as primitive.",
-        "primary_sources": "Smithsonian NMAI identifies object 14/3866 with an attributed culture and date range; its individual message has not been decoded here."
-      },
-      "cast_gags": {
-        "crow": "Raven introduces a sophisticated numerical record, not a joke about an allegedly illiterate people.",
-        "pip": "Pip brings a clearly fictional cord report to the expense meeting.",
-        "mia": "Mia points out that Rex's failure to understand a format does not make its information disappear.",
-        "rex": "Rex asks where the imaginary export-to-spreadsheet button is.",
-        "timmy": "Timmy lays out a large modern teaching key for the fictional prop without touching any original object."
-      },
-      "sources": [
-        {
-          "url": "https://artsandculture.google.com/asset/inka-khipu-0100/wgG-_5gYoWL05w",
-          "institution": "Smithsonian National Museum of the American Indian via Google Arts & Culture",
-          "locator": "Inka khipu; catalog 14/3866; probably Inka (attributed); AD 1425-1532; Chulpaca, Ica, Peru",
-          "kind": "primary_record",
-          "anchors": [
-            "14/3866",
-            "AD 1425-1532",
-            "quantitative information",
-            "probably Inka"
-          ],
-          "verified_on": "2026-11-27",
-          "anchors_present": true,
-          "download_error_type": null,
-          "download_http_status": null,
-          "text_sha256": "2f007a08d0823b0ac5d4ffee72731e8c6bce8f522bb4f7e5bcfe928df11cb9ec",
-          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
-        }
-      ],
-      "fact_boundary": "The modern expense report and teaching key are fiction. The object record describes quantitative uses in general, not a decoded expense ledger for this specimen. Preserve the attribution probably Inka. Do not claim all khipus are fully read, all meanings are purely numeric, or Andean people lacked complex communication.",
-      "research_questions": [
-        "[VERIFICAR] Obtain a specialist reading and the accession documentation before assigning any exact value, category, owner or administrative purpose to these particular cords."
-      ],
-      "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
-      "original_editorial_assessment": 96,
-      "editorial_score": 96,
-      "score": 96,
-      "source_verified": true,
-      "primary_record_available": true,
-      "benchmark": {
-        "status": "unavailable",
-        "videos": [],
-        "raw_metrics_location": "private Studio cache, never Git",
-        "error_type": null,
-        "median_views_per_day": null,
-        "ctr": null,
-        "retention": null,
-        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
-      },
-      "reused_counterfactual": false,
-      "eligible": false
-    },
-    {
-      "id": "peacock-meeting-clock",
-      "title": "The Meeting Clock Has a Peacock",
-      "era": "England and Saint Petersburg; automaton cataloged 1770s; arrival described in 1781",
-      "premise": "What if today Rex replaced the meeting timer with a monumental mechanical peacock, owl and cockerel, inspired by the Hermitage Peacock Clock?",
-      "benchmark_query": "The Meeting Clock Has a Peacock history",
+      "id": "podcast-host-faces-four-sandglasses",
+      "title": "The Host Has Four Visible Time Limits",
+      "era": "Oldenburg, Germany; pulpit timer cataloged 1700-1800",
+      "premise": "What if today a long-winded podcast host had four visible sandglasses showing fifteen, thirty, forty-five and sixty minutes, like an eighteenth-century pulpit timer?",
+      "benchmark_query": "The Host Has Four Visible Time Limits history",
       "tags": [
         "history",
         "historical comedy",
@@ -162,50 +16,50 @@
       "criteria": {
         "curiosity": 23,
         "cast_comedy": 24,
-        "modern_contrast": 24,
-        "primary_sources": 22
+        "modern_contrast": 25,
+        "primary_sources": 23
       },
       "rationale": {
-        "curiosity": "A simple timekeeping request revealing an entire mechanical display gives the hook a clear physical escalation.",
-        "cast_comedy": "The cast can expose Rex's preference for prestige over usefulness while respecting the actual craftsmanship.",
-        "modern_contrast": "A modern meeting timer contrasts with a documented courtly automaton.",
-        "primary_sources": "Hermitage identifies Cox's clock and contextualizes its assembly and transport; claims about surviving uniqueness require independent comparison."
+        "curiosity": "Four visible deadlines make a clear contrast with a fictional host promising just one more point.",
+        "cast_comedy": "The listener can see time passing as Rex's introduction expands, creating a causal comic escalation.",
+        "modern_contrast": "A historical speaking-time device translates into modern long-form recording etiquette.",
+        "primary_sources": "Oldenburg Museum identifies a four-glass church object and states its four intervals; actual practice in any particular service needs further evidence."
       },
       "cast_gags": {
-        "crow": "Raven watches the decorative birds as objects, without gaining accessories or changing his identity.",
-        "pip": "Pip requests a five-minute timer and receives an imaginary ceremonial unveiling.",
-        "mia": "Mia searches for the documented clock dial while Rex admires the display.",
-        "rex": "Rex postpones the fictional meeting to explain how efficient the new timer will be.",
-        "timmy": "Timmy holds a paper agenda and points out that the explanation has already used the meeting time."
+        "crow": "Raven identifies the historical function while making the overlong podcast explicitly fictional.",
+        "pip": "Pip settles in for a short fictional recording and notices the first timer empty.",
+        "mia": "Mia points to the remaining intervals instead of accepting Rex's repeated almost-finished promise.",
+        "rex": "Rex introduces another introduction while the fictional audience watches the last glass.",
+        "timmy": "Timmy silently closes the paper episode outline when Rex announces the next opening remark."
       },
       "sources": [
         {
-          "url": "https://artsandculture.google.com/asset/the-peacock-clock-james-cox/MwHh2POEjQax9g",
-          "institution": "The State Hermitage Museum via Google Arts & Culture",
-          "locator": "The Peacock Clock; James Cox; Date Created 1770s; explanatory passage on cockerel, owl, dial and 1781 arrival",
+          "url": "https://artsandculture.google.com/asset/hourglass-of-a-pulpit-with-four-glasses-oldenburg/iQHUWQSUrlooMg?hl=en",
+          "institution": "Oldenburg State Museum for Art and Cultural History via Google Arts & Culture",
+          "locator": "Hourglass of a pulpit with four glasses; 1700/1800; German curatorial paragraph specifying quarter, half, three-quarter and one hour",
           "kind": "primary_record",
           "anchors": [
-            "The Peacock Clock",
-            "1770s",
-            "cockerel",
-            "1781"
+            "1700/1800",
+            "Jedes der vier",
+            "1 Stunde",
+            "Predigtzeit"
           ],
-          "verified_on": "2026-11-27",
+          "verified_on": "2026-11-28",
           "anchors_present": true,
           "download_error_type": null,
           "download_http_status": null,
-          "text_sha256": "15a36dc9ee473cd87d28b6a4e6ee5495fc33c90fbca30337423635f3c8d30782",
+          "text_sha256": "702924a8127f0ed1f752f3452ca3b4d10222bbdd9629a8cd6dc22e4cf9a2f985",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "The meeting timer and office delivery are fiction. The object is a ceremonial mechanical display, not an ordinary household alarm. Distinguish construction, transport and later exhibition dates; do not claim Cox worked alone, reproduce payment figures as independently audited, or repeat worldwide uniqueness and unchanged-mechanism superlatives.",
+      "fact_boundary": "The podcast and host are fiction; the historical description is paraphrased from German. The joke targets an imaginary long speaker, not religious belief. The object does not prove every preacher used one, every interval was always observed, or a universal hourglass invention date. Unlike a ceremonial display clock, this premise is about visible limits on speech.",
       "research_questions": [
-        "[VERIFICAR] Inspect a technical record before assigning exact animation order, timing, power source, conservation state or original component history."
+        "[VERIFICAR] Confirm the object accession, church provenance and interval calibration before reconstructing an actual sermon or claiming an automatic stop mechanism."
       ],
       "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
-      "original_editorial_assessment": 93,
-      "editorial_score": 93,
-      "score": 93,
+      "original_editorial_assessment": 95,
+      "editorial_score": 95,
+      "score": 95,
       "source_verified": true,
       "primary_record_available": true,
       "benchmark": {
@@ -222,11 +76,11 @@
       "eligible": false
     },
     {
-      "id": "thirty-line-home-cinema",
-      "title": "Your Home Cinema Has Thirty Lines",
-      "era": "Europe, circa 1930; Baird Televisor described by the Cinematheque francaise",
-      "premise": "What if today Rex sold Pip a home-cinema upgrade whose picture had only thirty vertical lines, like the mechanical Baird Televisor described by a film museum?",
-      "benchmark_query": "Your Home Cinema Has Thirty Lines history",
+      "id": "all-capitals-without-caps-lock",
+      "title": "Your Keyboard Cannot Stop Shouting",
+      "era": "United States; Remington Sholes and Glidden first-model typewriter, 1870s",
+      "premise": "What if today every email Pip typed came out in capital letters because the machine had no lowercase characters, like the first-model Sholes and Glidden Type Writer?",
+      "benchmark_query": "Your Keyboard Cannot Stop Shouting history",
       "tags": [
         "history",
         "historical comedy",
@@ -234,51 +88,52 @@
       ],
       "criteria": {
         "curiosity": 24,
-        "cast_comedy": 23,
+        "cast_comedy": 24,
         "modern_contrast": 25,
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "The mismatch between a grand sales promise and a tiny limited image provides a measurable historical reveal.",
-        "cast_comedy": "Pip's attempt to watch and Rex's fictional marketing claims can escalate while Mia identifies what the mechanism actually did.",
-        "modern_contrast": "Modern display expectations make early mechanical scanning easy to contrast without belittling the engineering.",
-        "primary_sources": "The film museum provides a detailed institutional account; a standalone object accession and contemporary manual still need inspection."
+        "curiosity": "The missing lowercase rather than a broken caps-lock key makes the reveal immediate.",
+        "cast_comedy": "A fictional tone misunderstanding can escalate until Mia explains the machine limitation.",
+        "modern_contrast": "Modern email etiquette collides with a documented typewriter capability.",
+        "primary_sources": "Smithsonian describes the first model's capital-only output and distinguishes a later model; universal typewriter and QWERTY origin claims are avoided."
       },
       "cast_gags": {
-        "crow": "Raven distinguishes an important engineering experiment from Rex's imaginary modern sales pitch.",
-        "pip": "Pip leans toward a harmless editorial reconstruction of the small display.",
-        "mia": "Mia labels the thirty-line reconstruction and explains it is not authentic surviving programme footage.",
-        "rex": "Rex hands Pip an oversized fictional premium-cinema brochure.",
-        "timmy": "Timmy folds the brochure into a viewing frame and discovers that it cannot add image detail."
+        "crow": "Raven opens a file on a machine feature that would look like an argument in a modern inbox.",
+        "pip": "Pip types a fictional polite greeting and receives an all-capital page.",
+        "mia": "Mia explains that the page reflects the machine, not Pip's mood.",
+        "rex": "Rex writes a fictional memo asking everyone to lower their tone, also in capitals.",
+        "timmy": "Timmy holds a quiet written reply on a separate modern prop card."
       },
       "sources": [
         {
-          "url": "https://artsandculture.google.com/story/yAVRJNaRciGXKA",
-          "institution": "The Cinematheque francaise via Google Arts & Culture",
-          "locator": "John Logie Baird's Televisor; circa 1930 receiver explanation; thirty-vertical-line picture and revolving-disc sections",
-          "kind": "institutional_commentary",
+          "url": "https://www.si.edu/object/sholes-gildden-type-writer%3Anmah_850542",
+          "institution": "Smithsonian Institution / National Museum of American History",
+          "locator": "Sholes & Glidden Type Writer; nmah_850542; first-model description; market introduction discussed as 1874 and second model as 1878",
+          "kind": "primary_record",
           "anchors": [
-            "1930",
-            "30 vertical lines",
-            "revolving disc"
+            "Sholes",
+            "1874",
+            "only capital letters",
+            "1878"
           ],
-          "verified_on": "2026-11-27",
-          "anchors_present": true,
-          "download_error_type": null,
-          "download_http_status": null,
-          "text_sha256": "25c754da4cbdc55fb051680fca15fd592788ee441a03d23d3682c1e15f6576cd",
+          "verified_on": "2026-11-28",
+          "anchors_present": false,
+          "download_error_type": "HTTPError",
+          "download_http_status": 403,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "The modern sales pitch is fiction and the source is institutional interpretation, not a directly inspected operating manual. Do not apply one receiver's specifications to every early television system, claim the first television ever, or present a reconstruction as original broadcast footage. No actual playback or rendering occurs in this scout.",
+      "fact_boundary": "The email exchange and shouting interpretation are modern fiction. The claim concerns this described model, not every early typewriter. Do not treat manufacture, patent and market introduction dates as interchangeable, repeat QWERTY slowdown myths, name a sole inventor, or invent price equivalence.",
       "research_questions": [
-        "[VERIFICAR] Locate the precise receiver accession and a dated primary manual before fixing resolution, frame rate, image size, reception conditions or production totals in a script."
+        "[VERIFICAR] Inspect the exact keyboard and contemporary manual before specifying its controls, typing direction or operation; corroborate the model chronology independently before narrating a launch history."
       ],
       "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
-      "original_editorial_assessment": 90,
-      "editorial_score": 72,
-      "score": 72,
-      "source_verified": true,
+      "original_editorial_assessment": 96,
+      "editorial_score": 73,
+      "score": 73,
+      "source_verified": false,
       "primary_record_available": false,
       "benchmark": {
         "status": "unavailable",
@@ -294,11 +149,84 @@
       "eligible": false
     },
     {
-      "id": "tea-cup-with-moustache-guard",
-      "title": "The Teacup Has a Built-In Guard",
-      "era": "United States, Philadelphia Centennial Exhibition, 1876",
-      "premise": "What if today your cafe added a built-in guard to a teacup to keep a moustache dry, as on an 1876 souvenir cup?",
-      "benchmark_query": "The Teacup Has a Built-In Guard history",
+      "id": "productive-wiper-takes-pauses",
+      "title": "The Useful Wiper Knows When to Pause",
+      "era": "United States; Robert W. Kearns patent-file context, 1964-1967",
+      "premise": "What if today Rex judged windshield wipers by constant motion and called a useful pause unproductive, despite a documented patent for intermittent operation?",
+      "benchmark_query": "The Useful Wiper Knows When to Pause history",
+      "tags": [
+        "history",
+        "historical comedy",
+        "modern counterfactual"
+      ],
+      "criteria": {
+        "curiosity": 22,
+        "cast_comedy": 23,
+        "modern_contrast": 25,
+        "primary_sources": 0
+      },
+      "rationale": {
+        "curiosity": "The familiar control becomes a concise reversal of the fictional assumption that more motion always means better work.",
+        "cast_comedy": "Pip can demonstrate a harmless stationary model while Mia exposes the flaw in Rex's invented metric.",
+        "modern_contrast": "A modern productivity argument contrasts with a real technical record about deliberate intervals.",
+        "primary_sources": "Smithsonian identifies the archival patent wrapper and file, but its original contents have not been inspected; catalog metadata is not primary technical validation."
+      },
+      "cast_gags": {
+        "crow": "Raven introduces an archival lead, not a complete account of who invented every windshield wiper.",
+        "pip": "Pip runs an explicitly fictional stationary demonstration with a moving paper pointer.",
+        "mia": "Mia asks Rex to compare useful operation rather than simply counting movement.",
+        "rex": "Rex gives the harmless model a fictional productivity warning during its planned pause.",
+        "timmy": "Timmy pauses his own imaginary applause until Rex finishes explaining the metric."
+      },
+      "sources": [
+        {
+          "url": "https://www.si.edu/es/object/archives/components/sova-nmah-ac-1406-ref354",
+          "institution": "Smithsonian Institution / Archives Center, National Museum of American History",
+          "locator": "Robert W. Kearns Papers; US 3,351,836 windshield wiper system with intermittent operation, patent wrapper and file; 1964-1967; Box 17, Folder 12; NMAH.AC.1406_ref354",
+          "kind": "institutional_catalog",
+          "anchors": [
+            "intermittent operation",
+            "Box 17",
+            "Folder 12",
+            "1964"
+          ],
+          "verified_on": "2026-11-28",
+          "anchors_present": false,
+          "download_error_type": "HTTPError",
+          "download_http_status": 403,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
+        }
+      ],
+      "fact_boundary": "The productivity score and demonstration are fiction. This is an archival finding aid, not the inspected patent specification. It cannot establish every technical feature, sole priority, infringement outcome or damages amount. Do not conflate Kearns with Mary Anderson or Jerome Lemelson; no legal conclusion, road demonstration or real driving is proposed.",
+      "research_questions": [
+        "[VERIFICAR] Read the original patent, claims and dated technical records before specifying its circuit, interval range or precise contribution; use court records separately for any later litigation history."
+      ],
+      "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
+      "original_editorial_assessment": 88,
+      "editorial_score": 70,
+      "score": 70,
+      "source_verified": false,
+      "primary_record_available": false,
+      "benchmark": {
+        "status": "unavailable",
+        "videos": [],
+        "raw_metrics_location": "private Studio cache, never Git",
+        "error_type": null,
+        "median_views_per_day": null,
+        "ctr": null,
+        "retention": null,
+        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
+      },
+      "reused_counterfactual": false,
+      "eligible": false
+    },
+    {
+      "id": "ice-cream-serving-dish-return",
+      "title": "The Ice Cream Shop Wants Its Dish Back",
+      "era": "United States; 1904 St Louis souvenir and earlier serving practice described by Smithsonian",
+      "premise": "What if today the ice cream shop expected its glass serving dish back before you left, instead of handing you an edible cone?",
+      "benchmark_query": "The Ice Cream Shop Wants Its Dish Back history",
       "tags": [
         "history",
         "historical comedy",
@@ -311,31 +239,31 @@
         "primary_sources": 0
       },
       "rationale": {
-        "curiosity": "A familiar cup with an unexpected protective feature makes the reveal immediately understandable.",
-        "cast_comedy": "Rex can overcomplicate an ordinary design feature while Mia explains its actual purpose.",
-        "modern_contrast": "An imaginary accessory launch contrasts with a specific nineteenth-century souvenir.",
-        "primary_sources": "Smithsonian locates nmah_1065116 and explicitly states the moustache function; retrieval and manufacturing provenance remain separate checks."
+        "curiosity": "The difference between eating the container and returning it creates an instantly visible dilemma.",
+        "cast_comedy": "Pip can finish dessert while Rex invents a ridiculous return workflow and Mia clarifies the actual serving practice.",
+        "modern_contrast": "Current take-away expectations contrast with an institutional account of returned glass dishes.",
+        "primary_sources": "Smithsonian locates a 1904 wax souvenir and provides serving context; the replica is not itself evidence of glass-dish use or the cone's invention."
       },
       "cast_gags": {
-        "crow": "Raven introduces the documented function without changing anyone's canonical facial features.",
-        "pip": "Pip presents an empty modern demonstration cup and asks what its extra ledge does.",
-        "mia": "Mia explains the historical moustache guard using a separate paper diagram.",
-        "rex": "Rex launches a fictional premium protection tier for an ordinary tea break.",
-        "timmy": "Timmy sets a miniature umbrella beside the prop cup and asks whether it has enough protection yet."
+        "crow": "Raven distinguishes a wax souvenir replica from a real serving vessel.",
+        "pip": "Pip finishes an imaginary dessert and looks for the take-away route.",
+        "mia": "Mia points to a clearly fictional return counter rather than inventing a historical cone ban.",
+        "rex": "Rex expands his imaginary dish-return form until it is longer than the dessert menu.",
+        "timmy": "Timmy returns a clean prop dish and asks whether dessert or the paperwork was the main course."
       },
       "sources": [
         {
-          "url": "https://www.si.edu/object/centennial-international-exhibition-1876-souvenir-moustache-cup%3Anmah_1065116",
+          "url": "https://www.si.edu/object/nmah_1126416",
           "institution": "Smithsonian Institution / National Museum of American History",
-          "locator": "Centennial International Exhibition of 1876 Souvenir Moustache Cup; nmah_1065116; Larry Zim World's Fair Collection",
+          "locator": "Louisiana Purchase Exposition Souvenir Wax Ice Cream Cone; nmah_1126416; 1989.0438.1026; 1904; explanatory paragraph on earlier returned glass dishes",
           "kind": "primary_record",
           "anchors": [
-            "1876",
-            "moustache cup",
-            "moustaches wet",
-            "Larry Zim"
+            "1904",
+            "1989.0438.1026",
+            "glass dishes",
+            "returned to the vendor"
           ],
-          "verified_on": "2026-11-27",
+          "verified_on": "2026-11-28",
           "anchors_present": false,
           "download_error_type": "HTTPError",
           "download_http_status": 403,
@@ -343,14 +271,86 @@
           "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
         }
       ],
-      "fact_boundary": "The cafe launch is fiction. A souvenir proves a particular object and its cataloged function, not that all men wore moustaches or that every cup had a guard. No moustache is added to the immutable cast, and no unverified fair attendance, product-first or invention claim is used. Failed retrieval leaves the source locally unverified.",
+      "fact_boundary": "The modern return counter and paperwork are fiction. The recorded object is a wax souvenir replica, not an edible cone or a glass dish. The earlier serving practice is curatorial context needing primary corroboration. No first-invention attribution, universal hygiene claim, legal ban, price or world-fair superlative is asserted.",
       "research_questions": [
-        "[VERIFICAR] Confirm the exact guard shape from an inspected object image and locate a maker mark or patent before identifying its inventor, price or manufacturing location."
+        "[VERIFICAR] Find a contemporary serving photograph, vendor record or advertisement before specifying local dish-return practice, deposits or chronology of edible cones."
       ],
       "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
-      "original_editorial_assessment": 92,
+      "original_editorial_assessment": 91,
       "editorial_score": 70,
       "score": 70,
+      "source_verified": false,
+      "primary_record_available": false,
+      "benchmark": {
+        "status": "unavailable",
+        "videos": [],
+        "raw_metrics_location": "private Studio cache, never Git",
+        "error_type": null,
+        "median_views_per_day": null,
+        "ctr": null,
+        "retention": null,
+        "limit": "Original API titles, dates and views available privately for 29 days; no derived audience metrics, CTR or retention inference"
+      },
+      "reused_counterfactual": false,
+      "eligible": false
+    },
+    {
+      "id": "folded-sheet-is-its-own-envelope",
+      "title": "Your Message Is Its Own Envelope",
+      "era": "England; reverse of Elizabeth Alkin letter dated 2 July 1653",
+      "premise": "What if today Pip had to fold and seal the message sheet itself instead of putting it into a separate envelope, as on a seventeenth-century letter?",
+      "benchmark_query": "Your Message Is Its Own Envelope history",
+      "tags": [
+        "history",
+        "historical comedy",
+        "modern counterfactual"
+      ],
+      "criteria": {
+        "curiosity": 22,
+        "cast_comedy": 23,
+        "modern_contrast": 24,
+        "primary_sources": 0
+      },
+      "rationale": {
+        "curiosity": "The message and its container being one object gives a clear physical reveal.",
+        "cast_comedy": "Pip's attempt to package a short message can escalate while Mia separates actual evidence from Rex's imaginary security demands.",
+        "modern_contrast": "Modern send-button convenience contrasts with a documented folded and addressed letter.",
+        "primary_sources": "The National Archives reproduces and transcribes a dated letter reverse; specific locking geometry and original shelfmark still require inspection."
+      },
+      "cast_gags": {
+        "crow": "Raven introduces a documented postal practice without claiming a universal unbreakable lock.",
+        "pip": "Pip finishes a short fictional note and discovers the page is also its packaging.",
+        "mia": "Mia points to the address on the historical reverse rather than adding a separate fictional envelope.",
+        "rex": "Rex asks for an absurd extra approval stamp on his invented office policy.",
+        "timmy": "Timmy places the harmless practice note on the desk and asks whether the packaging is longer than the message."
+      },
+      "sources": [
+        {
+          "url": "https://www.nationalarchives.gov.uk/education/resources/women-english-civil-wars/women-english-civil-wars-source-4b/",
+          "institution": "The National Archives, UK",
+          "locator": "Women and the English Civil Wars, source 4b; reverse of source 4a; Parliament Joan letter; 2 July 1653; addressed to Mr Blackbourne",
+          "kind": "primary_record",
+          "anchors": [
+            "2 July 1653",
+            "folded and sealed",
+            "Blackbourne"
+          ],
+          "verified_on": "2026-11-28",
+          "anchors_present": false,
+          "download_error_type": "HTTPError",
+          "download_http_status": 410,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "verification_scope": "Official source and stated anchors, not automatic semantic entailment"
+        }
+      ],
+      "fact_boundary": "The office procedure is fiction. This source documents a particular letter and a general curatorial explanation of folding and sealing, not a specific advanced letter-locking technique. No claim of secrecy, cryptographic strength, universal postal practice or exact fold reconstruction is made from an uninspected image.",
+      "research_questions": [
+        "[VERIFICAR] Establish the original catalogue reference and inspect the physical fold and seal evidence before naming a locking technique or reproducing it as historically exact."
+      ],
+      "author": "Codex native institutional research; fictional modern analogy; no model API or audience metrics",
+      "original_editorial_assessment": 91,
+      "editorial_score": 69,
+      "score": 69,
       "source_verified": false,
       "primary_record_available": false,
       "benchmark": {
@@ -368,7 +368,7 @@
     }
   ],
   "winner": null,
-  "provisional_editorial_winner": "unicorn-leadership-upgrade",
+  "provisional_editorial_winner": "podcast-host-faces-four-sandglasses",
   "benchmark_complete": false,
   "benchmark_attempted": false,
   "ranking_basis": "Editorial only; benchmark incomplete, no production winner",
@@ -378,5 +378,5 @@
     100
   ],
   "paid_model_calls": 0,
-  "verified_at": "2026-11-27T14:16:32.783803+00:00"
+  "verified_at": "2026-11-28T14:14:17.166737+00:00"
 }
